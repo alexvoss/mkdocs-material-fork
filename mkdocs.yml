@@ -177,30 +177,32 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting started:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Conventions: conventions.md
-    - Browser support: browser-support.md
-    - Enterprise feedback: enterprise-support.md
+  - About:
+    - about/index.md
     - Philosophy: philosophy.md
     - Alternatives: alternatives.md
+    - Browser support: browser-support.md
+    - Enterprise feedback: enterprise-support.md
     - License: license.md
+    - Team: about/team.md
     - Changelog:
       - changelog/index.md
       - How to upgrade: upgrade.md
     - Contributing:
       - contributing/index.md
+      - Creating a reproduction: guides/creating-a-reproduction.md
       - Reporting a bug: contributing/reporting-a-bug.md
       - Reporting a docs issue: contributing/reporting-a-docs-issue.md
       - Requesting a change: contributing/requesting-a-change.md
       - Adding translations: contributing/adding-translations.md
       - Making a pull request: contributing/making-a-pull-request.md
       - Asking a question: https://github.com/squidfunk/mkdocs-material/discussions
-    - Guides:
-      - Creating a reproduction: guides/creating-a-reproduction.md
+  - Getting started:
+    - Installation: getting-started.md
+    - Creating your site: creating-your-site.md
+    - Publishing your site: publishing-your-site.md
+    - Customization: customization.md
+    - Conventions: conventions.md
   - Setup:
     - setup/index.md
     - Changing the colors: setup/changing-the-colors.md
