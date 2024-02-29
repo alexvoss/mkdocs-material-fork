@@ -1,0 +1,140 @@
+# Our sponsors
+
+----
+
+- Silver Sponsors
+- Bronze Sponsors
+- Testimonials
+
+----
+
+    - Who is sponsoring?
+
+## Our Premium Sponsors
+
+
+
+<figure style="min-width:15.6rem">
+  <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true">
+    <a href="https://twitter.com/WillingCarol/status/1603416470616088576?ref_src=twsrc%5Etfw"></a>
+  </blockquote>
+  <script async src="https://platform.twitter.com/widgets.js"></script>
+</figure>
+
+
+
+
+
+<div class="mdx-premium" markdown>
+
+### Silver sponsors
+
+[![FastAPI]{ style="height: 120px" }](https://fastapi.tiangolo.com/){ target=_blank title="FastAPI" }
+[![Trendpop]{ style="height: 120px" }](https://www.trendpop.com/){ target=_blank title="Trendpop" }
+[![SailPoint]{ style="height: 120px" }](https://documentation.sailpoint.com/){ target=_blank title="SailPoint" }
+
+### Bronze sponsors
+
+[![Cirrus CI]](https://cirrus-ci.org/){ target=_blank title="Cirrus CI" }
+[![Basler]](https://docs.baslerweb.com/){ target=_blank title="Basler" }
+[![KX]](https://kx.com/){ target=_blank title="KX Systems" }
+[![Prefect]](https://orion-docs.prefect.io/){ target=_blank title="Prefect" }
+[![Zenoss]](https://zenoss.com/){ target=_blank title="Zenoss" }
+[![Posit]](https://docs.posit.co){ target=_blank title="Posit" }
+[![n8n]](https://n8n.io){ target=_blank title="n8n" }
+[![Dogado]](https://www.dogado.de){ target=_blank title="Dogado" }
+[![World Wide Technology]](https://wwt.com){ target=_blank title="World Wide Technology" }
+[![Coda]](https://coda.io){ target=_blank title="Coda" }
+[![Elastic]](https://elastic.co){ target=_blank title="Elastic" }
+[![IP Fabric]](https://ipfabric.io/){ target=_blank title="IP Fabric" }
+[![Apex.AI]](https://www.apex.ai/){ target=_blank title="Apex.AI" }
+[![Jitterbit]](https://jitterbit.com/){ target=_blank title="Jitterbit" }
+[![Sparkfun]](https://sparkfun.com/){ target=_blank title="Sparkfun Electronics" }
+[![Eccenca]](https://eccenca.com/){ target=_blank title="Eccenca" }
+[![Neptune]](https://neptune.ai/){ target=_blank title="Neptune" }
+[![RackN]](https://rackn.com/){ target=_blank title="RackN" }
+[![CivicActions]](https://civicactions.com/){ target=_blank title="CivicActions" }
+[![bitcrowd]](https://bitcrowd.net/){ target=_blank title="bitcrowd" }
+[![GetScreen.me]](https://getscreen.me/){ target=_blank title="GetScreen.me" }
+[![BotCity]](https://botcity.dev/){ target=_blank title="BotCity" }
+[![Springer Nature Technology]](https://www.springernature.com/gp){ target=_blank title="Springer Nature Technology" }
+[![Kolena]](https://kolena.io/){ target=_blank title="Kolena" }
+[![Evergiving]](https://www.evergiving.com/){ target=_blank title="Evergiving" }
+[![Koor]](https://koor.tech/){ target=_blank title="Koor" }
+[![Astral]](https://astral.sh/){ target=_blank title="Astral" }
+[![Oikolab]](https://oikolab.com/){ target=_blank title="Oikolab" }
+[![Bühler Group]](https://www.buhlergroup.com/){ target=_blank title="Bühler Group" }
+[![Transformation Flow]](https://transformationflow.io/){ target=_blank title="Transformation Flow" }
+[![3DR]](https://3dr.com/){ target=_blank title="3DR" }
+[![Spotware]](https://spotware.com/){ target=_blank title="Spotware" }
+[![Milford Assets]](https://milfordasset.com/){ target=_blank title="Milford Assets" }
+[![Lechler]](https://www.lechler.com/){ target=_blank title="Lechler" }
+[![Invers]](https://invers.com/){ target=_blank title="Invers" }
+
+</div>
+
+  [FastAPI]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-fastapi.png
+  [Trendpop]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-trendpop.png
+  [Cirrus CI]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-cirrus-ci.png
+  [Basler]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-basler.png
+  [KX]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-kx.png
+  [Prefect]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-prefect.png
+  [Zenoss]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-zenoss.png
+  [Posit]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-posit.png
+  [n8n]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-n8n.png
+  [Dogado]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-dogado.png
+  [World Wide Technology]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-wwt.png
+  [Coda]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-coda.png
+  [Elastic]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-elastic.png
+  [IP Fabric]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-ip-fabric.png
+  [Apex.AI]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-apex-ai.png
+  [Jitterbit]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-jitterbit.png
+  [Sparkfun]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-sparkfun.png
+  [Eccenca]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-eccenca.png
+  [Neptune]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-neptune-ai.png
+  [Cash App]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-cashapp.png
+  [RackN]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-rackn.png
+  [CivicActions]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-civic-actions.png
+  [bitcrowd]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-bitcrowd.png
+  [GetScreen.me]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-getscreenme.png
+  [BotCity]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-botcity.png
+  [Springer Nature Technology]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-sn-technology.png
+  [Kolena]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-kolena.png
+  [Evergiving]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-evergiving.png
+  [Koor]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-koor.png
+  [Astral]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-astral.png
+  [Oikolab]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-oikolab.png
+  [Bühler Group]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-buhler.png
+  [Transformation Flow]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-transformationflow.png
+  [3DR]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-3dr.png
+  [Spotware]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-spotware.png
+  [Milford Assets]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-milford.png
+  [Lechler]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-lechler.png
+  [SailPoint]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-sailpoint.png
+  [Invers]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-invers.png
+
+<hr />
+
+<div class="mdx-sponsorship" data-mdx-component="sponsorship" hidden>
+  <div class="mdx-sponsorship__list"></div>
+  <small>
+    If you sponsor publicly, you're automatically added here with a link to
+    your profile and avatar to show your support for Material for MkDocs.
+    Alternatively, if you wish to keep your sponsorship private, you'll be a
+    silent +1. You can select visibility during checkout and change it
+    afterwards.
+  </small>
+</div>
+
+  [squidfunk's sponsor profile]: https://github.com/sponsors/squidfunk?metadata_origin=docs
+
+
+If you would like to have your logo placed here, choose one of our organizational tiers!
+
+[__How can I display my logo on the list of premium sponsors?__](#sponsorship-logo-placement){ #sponsorship-logo-placement }
+
+If your sponsorship tier includes logo placement, and you would like us to
+display your logo in the [list of premium sponsors] and have it linked to your
+site, please contact us via mail. Simply send us a horizontal SVG or PNG version
+of your logo making sure it displays the name of your company and the logo to
+sponsors@squidfunk.com.

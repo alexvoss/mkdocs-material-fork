@@ -101,7 +101,8 @@ plugins:
 
 # Hooks
 hooks:
-  - material/overrides/hooks/shortcodes.py
+  # @todo: @squidfunk fix bug in shortcodes
+  # - material/overrides/hooks/shortcodes.py
   - material/overrides/hooks/translations.py
 
 # Additional configuration
@@ -263,12 +264,25 @@ nav:
     - Tooltips: reference/tooltips.md
   - Insiders:
     - insiders/index.md
-    - Getting started: insiders/getting-started.md
-    - FAQ: insiders/faq/sponsoring.md
-    - Changelog:
-      - insiders/changelog/index.md
-      - How to upgrade: insiders/upgrade.md
-    - Community Experts Program:
+    - Why support us?: insiders/why-sponsor-us.md
+    - What's in it for me?: insiders/benefits.md
+    - Who is sponsoring?: insiders/our-sponsors.md
+    - Sponsorship guide:
+      - Sponsoring tiers: insiders/sponsorship-guide/sponsoring-tiers.md
+      - How to sponsor: insiders/sponsorship-guide/how-to-sponsor.md
+    - Sponsoring details:
+      - Payment and billing: insiders/sponsorship-details/payment-and-billing.md
+      - Access management: insiders/sponsorship-details/access-management.md
+      - Runtime and cancellation: insiders/sponsorship-details/runtime-and-cancellation.md
+      - Privacy: insiders/sponsorship-details/privacy.md
+      - Licensing: insiders/sponsorship-details/licensing.md
+      - Priority support: insiders/sponsorship-details/priority-support.md
+    - Toolkit:
+      - Installing Insiders: insiders/toolkit/insiders-installation.md
+      - Changelog: insiders/toolkit/changelog.md
+      - Upgrade: insiders/toolkit/upgrade.md
+    - Community experts program:
       - insiders/community-experts-program/index.md
+    - Enterprise Support: enterprise-support.md
   - Blog:
     - blog/index.md

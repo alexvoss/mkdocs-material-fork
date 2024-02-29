@@ -1,8 +1,5 @@
----
-title: Getting started with Insiders
----
+# Installation guide
 
-# Getting started with Insiders
 
 Material for MkDocs Insiders is a compatible drop-in replacement for Material
 for MkDocs, and can be installed similarly using [`pip`][pip],
@@ -42,13 +39,13 @@ your private repositories.
 
 Material for MkDocs Insiders can be installed with `pip`. You will
 normally want to install the latest release but can also install a
-specific older release or even the latest development version. 
+specific older release or even the latest development version.
 Make sure you have the `GH_TOKEN` variable set as instructed above.
 
 === "Specific release"
 
-    Pick the corresponding tag from the [list of tags] for the Insiders 
-    repository. In the `pip` command below, replace the tag at the 
+    Pick the corresponding tag from the [list of tags] for the Insiders
+    repository. In the `pip` command below, replace the tag at the
     end of the URL with the one you want.
 
     ``` sh
