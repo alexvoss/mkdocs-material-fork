@@ -189,15 +189,6 @@ nav:
     - Changelog:
       - changelog/index.md
       - How to upgrade: upgrade.md
-    - Contributing:
-      - contributing/index.md
-      - Creating a reproduction: guides/creating-a-reproduction.md
-      - Reporting a bug: contributing/reporting-a-bug.md
-      - Reporting a docs issue: contributing/reporting-a-docs-issue.md
-      - Requesting a change: contributing/requesting-a-change.md
-      - Adding translations: contributing/adding-translations.md
-      - Making a pull request: contributing/making-a-pull-request.md
-      - Asking a question: https://github.com/squidfunk/mkdocs-material/discussions
   - Getting started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
@@ -281,8 +272,20 @@ nav:
       - Installing Insiders: insiders/toolkit/insiders-installation.md
       - Changelog: insiders/toolkit/changelog.md
       - Upgrade: insiders/toolkit/upgrade.md
-    - Community experts program:
-      - insiders/community-experts-program/index.md
     - Enterprise Support: enterprise-support.md
+  - Community:
+    - community/index.md
+    - Contributing:
+      - contributing/index.md
+      - Reporting a bug: contributing/reporting-a-bug.md
+      - Reporting a docs issue: contributing/reporting-a-docs-issue.md
+      - Requesting a change: contributing/requesting-a-change.md
+      - Adding translations: contributing/adding-translations.md
+      - Making a pull request: contributing/making-a-pull-request.md
+      - Asking a question: https://github.com/squidfunk/mkdocs-material/discussions
+    - Guides:
+      - Creating a reproduction: guides/creating-a-reproduction.md
+    - Community experts program:
+      - community/community-experts-program/index.md
   - Blog:
     - blog/index.md
