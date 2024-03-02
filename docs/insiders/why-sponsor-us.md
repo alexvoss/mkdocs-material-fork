@@ -1,28 +1,31 @@
-# Why sponsor us?
+# Why sponsor us
 
 
+## Open Source
 
-----
+The world runs on open Source
 
-- Highlight the importance of sponsorship
-- Impact on the project
-- What has been possible so far?
-- What are the funds used for? (Team)
+### Future of open source
 
-----
+Open source = free?
 
-    - Who is behind the project/Who is working on it?
-    - Why you should become a sponsor
-    - What are the funds being used for?
-    - Grafik - Releases
-    - Anzahl der Stars, Issues
-    - Success story
+Highlight the importance of sponsorship
+
+### Sponsorware
+
+## Our impact
+
+Impact on the project
+Why you should become a sponsor
+Anzahl der Stars, Issues
+Success story
+
+## What Insiders accomplishes
+
+Why you should become a sponsor
 
 As with all new features, this was developed with the help of the funding from our amazing sponsors. I would like to thank them once again for allowing me among a growing number of individuals to work on this project.
 If you're using and loving Material for MkDocs, you should consider supporting us financially. We hope to maintain this project for as long as possible, giving us the complete freedom to build what _you_ need, no investors to please. Just useful software.
-
-
-
 
 
 Sponsorships make this project sustainable, as they buy the maintainers of this
@@ -44,6 +47,14 @@ a handful of them, [thanks to our awesome sponsors]!
 
   [completed funding goals]: #goals-completed
   [thanks to our awesome sponsors]: #how-to-become-a-sponsor
+
+## Who we are
+
+Team & Funding
+Who is behind the project/Who is working on it?
+What are the funds used for? (Team)
+Grafik - Releases
+
 
 
 [__How are sponsorship contributions used?__](#sponsorship-support){ #sponsorship-support }

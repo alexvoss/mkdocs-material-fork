@@ -1,13 +1,13 @@
-# What is Insiders?
+# Material for MkDocs Insiders
 
-----
 
-- Brief overview: What is Insiders?
-- Mission
-- Vision
-- Team & Funding
 
-----
+## What is Insiders?
+
+## Our mission
+
+## Our vision
+
 
 
 

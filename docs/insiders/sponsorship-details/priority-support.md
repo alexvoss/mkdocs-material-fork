@@ -1,15 +1,7 @@
 # Priority support
 
-----
 
-- Details on additional support
-- Bug reporting
-- Discussion board
-- Contact information for further inquiries
-- For technical support: Enterprise support
-
-----
-
+## Sponsoring support
 
 [__How can I contact support if I have questions about becoming a sponsor?__ ](#support-contact){ #support-contact }
 
@@ -19,7 +11,10 @@ Insiders program via email at sponsors@squidfunk.com.
 
 All technical questions should be asked openly on our [discussion board].
 
-  [discussion board]: https://github.com/squidfunk/mkdocs-material/discussions
+
+## Technical support
+
+### Issue Tracker
 
 [__Is additional support available for Material for MkDocs Insiders users?__](#support-additional){ #support-additional }
 
@@ -37,12 +32,15 @@ __The Organization__ tier or higher will be prioritized.[^1]
 
   [issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
 
+
 [__How can I report a bug in the Insiders edition?__](#insiders-bugs){ #insiders-bugs }
 
 If you encounter a bug in the Insiders edition, we kindly request that you
 report it on our [issue tracker] in the public community repository. When
 submitting the bug report, please ensure that you do not include any private
 Insiders' source code, as we want to uphold our fair use policy.
+
+### Discussion board
 
 [__How can I report an issue in my customizations?__](#customizations-issues){ #costumisations-issues }
 
@@ -57,3 +55,7 @@ please use our [discussion board] to engage with the community.
 
   [.zip file]: ../../guides/creating-a-reproduction.md
   [built-in info plugin]: https://squidfunk.github.io/mkdocs-material/guides/creating-a-reproduction/#creating-a-zip-file
+
+
+## Enterprise support
+ALEX

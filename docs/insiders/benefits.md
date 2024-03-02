@@ -1,33 +1,7 @@
-# What’s in it for me?
-
-----
-
-- Detailed list of features
-- Advantages for sponsors
-
-----
-
-    - What features are included?
-    - What has been accomplished so far?
-    - What features are coming next? - vision
-    - Can we influence your roadmap/ which for new features as sponsors?
-
-[__What features are included in the Insiders edition?__](#insiders-features){ #insiders-features }
-
-The Insiders edition includes more than 20 additional features. You can find an
-[overview of these features] on our [Insiders page], which is updated when new
-features are added and released.
-
-  [Insiders page]: ../index.md
-  [overview of these features]: ../index.md#whats-in-it-for-me
-
-[__How often is the Insiders edition updated?__](#insiders-updates){ #insiders-updates }
-
-We try to keep our open issue count low, fixing known bugs quickly. Both our
-repositories, the community and Insiders edition, are constantly updated with
-bug fixes and new features.
+# What’s in it for you
 
 
+## Insiders features
 
 The moment you [become a sponsor][how to become a sponsor], you'll get __immediate
 access to 26 additional features__ that you can __start using now__, and
@@ -62,11 +36,19 @@ which are currently exclusively available to sponsors:
 - [x] [Meta plugin]
 - [x] [Tags plugin: configurable listings]
 
+## What's coming next
 
+New features are popping up all the time
 
-## Funding <span class="mdx-sponsorship-total" data-mdx-component="sponsorship-total"></span>
+## Releases
 
-### Goals
+[__How often is the Insiders edition updated?__](#insiders-updates){ #insiders-updates }
+
+We try to keep our open issue count low, fixing known bugs quickly. Both our
+repositories, the community and Insiders edition, are constantly updated with
+bug fixes and new features.
+
+## Funding goals
 
 The following section lists all funding goals. Each goal contains a list of
 features prefixed with a checkmark symbol, denoting whether a feature is
@@ -306,7 +288,7 @@ can be used by all users.
 - [x] Improved search result relevance and scoring
 - [x] Missing query terms in search results
 
-
+### Premium Sponsors
 
 [__How can I display my logo on the list of premium sponsors?__](#sponsorship-logo-placement){ #sponsorship-logo-placement }
 

@@ -1,35 +1,21 @@
 # Licensing
 
-----
 
-- Explanation of the MIT license
-- Fair use policy
-- Upside:
-  - Open Source
-  - No vendor lock-in
-  - Ecosystem around the entire project
-  - Permissive license
+## Open Source
 
-----
+### Ecosystem
+
+around the entire project
+
+### No vendor lock-in
+
+## MIT license
+
+Permissive license
 
 
+## Fair use policy
 
-
-[__What constitutes commercial use of the Insiders edition?__](#commercial-use){ #commercial-use }
-
-Commercial use refers to any use of the software for a business or for-profit
-purpose. This includes any use by a corporation or other organization, whether
-or not they generate revenue directly from the software. We offer different
-pricing tiers for commercial use, each tailored to the needs of different
-businesses. It's important to note that internal use of the software within your
-organization is also considered commercial use, as with all commercial software.
-
-[__What constitutes non-commercial use of the Insiders edition?__](#non-commercial-use){ #non-commercial-use }
-
-[Non-commercial] use of our Material for MkDocs refers to private use. This
-includes individuals using the Insiders edition for private or purely
-non-commercial Open Source projects. We offer two different tiers for
-non-commercial use, depending on the number of sites you want to build.
 
 [__What is your fair use policy?__](#fair-use-policy){ #fair-use-policy }
 
