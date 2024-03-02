@@ -1,30 +1,7 @@
 # Payment and billing
 
-----
 
-- Explanation: Subscriptions vs. one time
-- Payment options
-  - Credit Card
-    - Monthly
-    - Yearly
-- Invoices
-- Discounts
-- Trial period
-- Policies on upgrading/downgrading
-- Refunds
-
-----
-
-
-[__Can I sponsor the project without a GitHub account?__](#sponsorship-account){ #sponsorship-account }
-
-No, you can't support Material for MkDocs if you don't have a GitHub account.
-GitHub Sponsors handles all transactions and access management for us. Please
-also note that the private Insiders repository is on GitHub, so in order to gain
-access, you'll need to have a GitHub individual or bot account that can be added
-as a collaborator. If your organization doesn't use GitHub or hosts its
-repositories on other platforms, you can mirror the Insiders repository in your
-environment once you have access.
+## Subscriptions vs. one time
 
 
 [__Why are one-time sponsorships not granted access to Insiders?__](#sponsorship-one-time){ #sponsorship-one-time }
@@ -39,18 +16,22 @@ Note that [$15] is the minimum amount to be granted access to Insiders.
   [$15]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210638
 
 
-[__Is there a trial period for the Insiders edition?__](#insiders-trial){ #insiders-trial }
+[__Can I purchase the Insiders edition with a one-time donation?__](#one-time-donation){ #one-time-donation }
 
-No, we do not offer a trial period for the Insiders edition. However, if you're
-a company and are considering sponsoring on the [commercial] tier, but want to
-first give the Insiders edition a try, you can sponsor on the [$15] tier with a
-personal account for [non-commercial] evaluation purposes.
+One-time donations, while appreciated, cannot support the ongoing development of
+Material for MkDocs as subscriptions do. Our project's growth relies on steady
+support from subscriptions to fund new features, updates, and maintenance.
+Therefore, the Insiders version is not available through a one-time donation.
 
-Additionally, our subscription model allows you to cancel your sponsorship
-anytime. If you decide to cancel, your sponsorship will remain active until
-the end of your billing cycle.
+If monthly payments do not work for you or your company, you can adjust your
+GitHub account's [billing cycle] to annual instead of monthly and sponsor at the
+appropriate tier.
 
-[__What payment options do you accept?__](#insiders-payment){ #insiders-payment }
+[billing cycle]: ../insiders/faq/sponsoring.md/#insiders-billing-cycle
+
+## Payment options
+
+### GitHub Sponsors
 
 We manage all our transactions and sponsorships through [GitHub Sponsors]. To
 become a sponsor of Material for MkDocs on GitHub, visit [our sponsors' page].
@@ -64,6 +45,56 @@ please don't hesitate to reach out to sponsors@squidfunk.com.
   [GitHub Sponsors]: https://github.com/sponsors
   [GitHub no longer supports PayPal]: https://github.blog/changelog/2023-01-23-github-sponsors-will-stop-supporting-paypal/
   [our sponsors' page]: https://github.com/sponsors/squidfunk/
+
+
+[__Can I sponsor the project without a GitHub account?__](#sponsorship-account){ #sponsorship-account }
+
+No, you can't support Material for MkDocs if you don't have a GitHub account.
+GitHub Sponsors handles all transactions and access management for us. Please
+also note that the private Insiders repository is on GitHub, so in order to gain
+access, you'll need to have a GitHub individual or bot account that can be added
+as a collaborator. If your organization doesn't use GitHub or hosts its
+repositories on other platforms, you can mirror the Insiders repository in your
+environment once you have access.
+
+#### Credit Card
+
+#### Billing cycle
+
+[__How can I set my billing to monthly or yearly?__](#insiders-billing-cycle){ #insiders-billing-cycle }
+
+Before you sponsor Material for MkDocs on one of our sponsoring tiers, you can
+change your [billing cycle] to either monthly or yearly, according to your
+preference. Your [billing cycle] is a setting at the account level on GitHub,
+which you can easily modify in your account settings. When selecting one of our
+sponsoring tiers, this adjustment will automatically categorize you as a monthly
+or yearly sponsor.
+
+If you find it challenging to make this change in your account, a practical
+workaround is to create a dedicated GitHub bot account where you set the billing
+cycle to yearly and use it specifically for your sponsorship contributions. This
+is a strategy some of our sponsors have successfully implemented. For any
+difficulties or further inquiries, please don’t hesitate to contact us at
+sponsors@squidfunk.com for support.
+
+  [billing cycle]: https://docs.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/changing-the-duration-of-your-billing-cycle
+
+##### Monthly
+
+##### Yearly
+
+## Trial period
+
+No, we do not offer a trial period for the Insiders edition. However, if you're
+a company and are considering sponsoring on the [commercial] tier, but want to
+first give the Insiders edition a try, you can sponsor on the [$15] tier with a
+personal account for [non-commercial] evaluation purposes.
+
+Additionally, our subscription model allows you to cancel your sponsorship
+anytime. If you decide to cancel, your sponsorship will remain active until
+the end of your billing cycle.
+
+## Discounts
 
 [__Are discounts available for the Insiders edition, such as student discounts?__](#insiders-discounts){ #insiders-discounts }
 
@@ -112,36 +143,8 @@ the Insiders edition.
 
   [community experts]: ../community-experts-program/index.md
 
-[__Can I purchase the Insiders edition with a one-time donation?__](#one-time-donation){ #one-time-donation }
 
-One-time donations, while appreciated, cannot support the ongoing development of
-Material for MkDocs as subscriptions do. Our project's growth relies on steady
-support from subscriptions to fund new features, updates, and maintenance.
-Therefore, the Insiders version is not available through a one-time donation.
-
-If monthly payments do not work for you or your company, you can adjust your
-GitHub account's [billing cycle] to annual instead of monthly and sponsor at the
-appropriate tier.
-
-[billing cycle]: ../insiders/faq/sponsoring.md/#insiders-billing-cycle
-
-[__How can I set my billing to monthly or yearly?__](#insiders-billing-cycle){ #insiders-billing-cycle }
-
-Before you sponsor Material for MkDocs on one of our sponsoring tiers, you can
-change your [billing cycle] to either monthly or yearly, according to your
-preference. Your [billing cycle] is a setting at the account level on GitHub,
-which you can easily modify in your account settings. When selecting one of our
-sponsoring tiers, this adjustment will automatically categorize you as a monthly
-or yearly sponsor.
-
-If you find it challenging to make this change in your account, a practical
-workaround is to create a dedicated GitHub bot account where you set the billing
-cycle to yearly and use it specifically for your sponsorship contributions. This
-is a strategy some of our sponsors have successfully implemented. For any
-difficulties or further inquiries, please don’t hesitate to contact us at
-sponsors@squidfunk.com for support.
-
-  [billing cycle]: https://docs.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/changing-the-duration-of-your-billing-cycle
+## Invoices
 
 [__Can I get an invoice for my sponsorship payment?__](#insiders-invoice){ #insiders-invoice}
 
@@ -153,6 +156,22 @@ require an invoice for your records, please contact us at sponsors@squidfunk.com
 before initiating your sponsorship.
 
   [GitHub Sponsors]: https://github.com/sponsors/squidfunk/
+
+
+## Refunds
+
+[__Do you offer refunds for sponsoring payments?__](#insiders-refunds){ #insiders-refunds }
+
+Unfortunately, we cannot offer any refund for sponsorship payments.
+[GitHub Sponsors] manages all sponsoring transactions. Because of that, we do
+not have any insights into the details of the funds and cannot access them. If
+you have any payment issues, please get in touch with the GitHub Sponsors
+support team, as they can help you.
+
+
+
+## Upgrading and downgrading
+
 
 [__Can I switch between different sponsoring tiers?__](#insiders-switch-tiers){ #insiders-switch-tiers }
 
@@ -185,12 +204,4 @@ please [upgrade your sponsorship] to a higher tier to continue using the
 Insiders edition and build more sites. The change will be effective immediately.
 
   [upgrade your sponsorship]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/upgrading-a-sponsorship
-
-[__Do you offer refunds for sponsoring payments?__](#insiders-refunds){ #insiders-refunds }
-
-Unfortunately, we cannot offer any refund for sponsorship payments.
-[GitHub Sponsors] manages all sponsoring transactions. Because of that, we do
-not have any insights into the details of the funds and cannot access them. If
-you have any payment issues, please get in touch with the GitHub Sponsors
-support team, as they can help you.
 

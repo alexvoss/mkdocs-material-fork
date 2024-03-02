@@ -1,28 +1,29 @@
 # Our sponsors
 
-----
+LIST ALL SPONSORS
 
-- Silver Sponsors
-- Bronze Sponsors
-- Testimonials
+<hr />
 
-----
+<div class="mdx-sponsorship" data-mdx-component="sponsorship" hidden>
+  <div class="mdx-sponsorship__list"></div>
+  <small>
+    If you sponsor publicly, you're automatically added here with a link to
+    your profile and avatar to show your support for Material for MkDocs.
+    Alternatively, if you wish to keep your sponsorship private, you'll be a
+    silent +1. You can select visibility during checkout and change it
+    afterwards.
+  </small>
+</div>
 
-    - Who is sponsoring?
+  [squidfunk's sponsor profile]: https://github.com/sponsors/squidfunk?metadata_origin=docs
+
+If you sponsor publicly, you're automatically added here with a link to your
+profile and avatar to show your support for Material for MkDocs. Alternatively,
+if you wish to keep your sponsorship private, you'll be a silent +1. You can
+select visibility during checkout and change it afterwards.
+
 
 ## Our Premium Sponsors
-
-
-
-<figure style="min-width:15.6rem">
-  <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true">
-    <a href="https://twitter.com/WillingCarol/status/1603416470616088576?ref_src=twsrc%5Etfw"></a>
-  </blockquote>
-  <script async src="https://platform.twitter.com/widgets.js"></script>
-</figure>
-
-
-
 
 
 <div class="mdx-premium" markdown>
@@ -138,3 +139,7 @@ display your logo in the [list of premium sponsors] and have it linked to your
 site, please contact us via mail. Simply send us a horizontal SVG or PNG version
 of your logo making sure it displays the name of your company and the logo to
 sponsors@squidfunk.com.
+
+
+## Testimonials
+

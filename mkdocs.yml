@@ -255,9 +255,9 @@ nav:
     - Tooltips: reference/tooltips.md
   - Insiders:
     - insiders/index.md
-    - Why support us?: insiders/why-sponsor-us.md
-    - What's in it for me?: insiders/benefits.md
-    - Who is sponsoring?: insiders/our-sponsors.md
+    - Why sponsor us: insiders/why-sponsor-us.md
+    - What's in it for you: insiders/benefits.md
+    - Our sponsors: insiders/our-sponsors.md
     - Sponsorship guide:
       - Sponsoring tiers: insiders/sponsorship-guide/sponsoring-tiers.md
       - How to sponsor: insiders/sponsorship-guide/how-to-sponsor.md
@@ -272,7 +272,6 @@ nav:
       - Installing Insiders: insiders/toolkit/insiders-installation.md
       - Changelog: insiders/toolkit/changelog.md
       - Upgrade: insiders/toolkit/upgrade.md
-    - Enterprise Support: enterprise-support.md
   - Community:
     - community/index.md
     - Contributing:
