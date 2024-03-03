@@ -25,7 +25,7 @@ solution that will allow you to manage collaborator status yourself.
 
 #### GitHub limitations
 
-Why can't our whole organization get access to Insiders?
+- Why can't our whole organization get access to Insiders?
 
 Currently, it is not possible to grant access to an organizational account, as
 GitHub only allows for adding individual user accounts. We are working on a
@@ -39,7 +39,7 @@ for sponsorship.
 
 ## Team management
 
-Can I share my Insiders access with others?
+- Can I share my Insiders access with others?
 
 At the moment, it is not possible to directly share your collaborator status
 for the private Insiders repository with other accounts. However, if you are
@@ -53,7 +53,7 @@ from the Insiders features and work together on the project.
   [forking]: https://docs.github.com/en/get-started/quickstart/fork-a-repo
   [mirroring]: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
 
-Do I need to fork the repository to use it?
+- Do I need to fork the repository to use it?
 
 It depends. If you are using the Insiders edition as an individual, you can work
 directly with the private repository, as you do not need to share the Insiders
@@ -70,7 +70,7 @@ your fork.
 
 ### Outside collaborators
 
-[__Can outside collaborators build and run the documentation locally without access to Insiders?__](#insiders-outside-collaborators){ #insiders-outside-collaborators }
+- Can outside collaborators build and run the documentation locally without access to Insiders?
 
 Yes. Insiders is compatible with Material for MkDocs. Almost all new features
 and configuration options are either backward-compatible or implemented behind
@@ -91,13 +91,13 @@ overrides via [configuration inheritance].
 See the [getting started guide] for more information.
 
   [configuration inheritance]: https://www.mkdocs.org/user-guide/configuration/#configuration-inheritance
-  [getting started guide]: ../getting-started.md#caveats
+  [getting started guide]: ../toolkit/insiders-installation.md#caveats
   [Card grids]: ../../reference/grids.md?h=grids#using-card-grids
 
 
 ## GitHub alternatives
 
-[__We are hosting our repository on Gitlab, can we also use Insiders?__](#github-alternatives){ #github-alternatives }
+- We are hosting our repository on Gitlab, can we also use Insiders?
 
 Absolutely! Material for MkDocs Insiders is designed to be compatible with
 various repository hosting platforms, including GitLab. The key requirement is

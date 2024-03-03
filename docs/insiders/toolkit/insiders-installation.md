@@ -9,7 +9,7 @@ repository, you need to [become an eligible sponsor] of @squidfunk on GitHub.
   [pip]: #with-pip
   [docker]: #with-docker
   [git]: #with-git
-  [become an eligible sponsor]: index.md#how-to-become-a-sponsor
+  [become an eligible sponsor]: ../sponsorship-guide/how-to-sponsor.md
 
 ## Requirements
 
@@ -95,7 +95,7 @@ docker pull ghcr.io/${GH_USERNAME}/mkdocs-material-insiders
 ```
 
 Should you wish to add additional plugins to the insiders container image, follow the steps
-outlined in the [Getting Started guide](../getting-started.md#with-docker).
+outlined in the [Getting Started guide](../toolkit/insiders-installation.md#with-docker).
 
   [^2]:
     Earlier, Insiders provided a dedicated Docker image which was available to
@@ -184,5 +184,5 @@ CI=1 INSIDERS=1 mkdocs build
     your project with the community edition and Insiders version of Material
     for MkDocs.
 
-  [built-in group plugin]: ../plugins/group.md
+  [built-in group plugin]: ../../plugins/group.md
   [configuration inheritance]: https://www.mkdocs.org/user-guide/configuration/#configuration-inheritance

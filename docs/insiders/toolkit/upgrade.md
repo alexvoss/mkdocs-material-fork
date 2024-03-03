@@ -10,9 +10,9 @@ MkDocs which makes up the first part of the version qualifier, e.g., Insiders
 
 If the major version increased, it's a good idea to consult the [upgrade
 guide] and go through the steps to ensure your configuration is up to date and
-all necessary changes have been made. 
+all necessary changes have been made.
 
-  [upgrade guide]: ../upgrade.md
+  [upgrade guide]: ../toolkit/upgrade.md
   [list of tags]: https://github.com/squidfunk/mkdocs-material-insiders/tags
 
 Depending on how you installed and what you want to upgrade to you
@@ -21,7 +21,7 @@ need to run different commands:
 === "pip upgrade to release"
 
     If you installed Insiders via `pip` and you want to upgrade to a
-    specific release, pick the tag from the [list of tags] and replace 
+    specific release, pick the tag from the [list of tags] and replace
     the tag at the end of the URL of the command given below:
 
     ```
@@ -48,26 +48,26 @@ need to run different commands:
 
     You can look up the tags using `git tag --sort -refname` or you
     can consult the [list of tags]. Then, checkout the tag you want to
-    use by replacing the one given in the command below (twice)and running 
+    use by replacing the one given in the command below (twice)and running
     it from your workspace[^detached]:
-      
+
       [^detached]:
         The `--detach` argument serves to tell `git` that you are ok to
         have your workspace in the [detached head] state, which is
         perfectly fine to have here.
-        
+
       [detached head]: https://www.git-tower.com/learn/git/faq/detached-head-when-checkout-commit/
 
-    ``` 
-    cd mkdocs-material 
-    git checkout --detach tags/9.4.2-insiders-4.42.0 
+    ```
+    cd mkdocs-material
+    git checkout --detach tags/9.4.2-insiders-4.42.0
     ```
 
     Now, change back to the parent directory in which your Git
     repository lives and run `pip`:
 
     ```
-    cd .. 
+    cd ..
     pip install -e mkdocs-material
     ```
 

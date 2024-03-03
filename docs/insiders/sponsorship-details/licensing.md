@@ -13,11 +13,14 @@ around the entire project
 
 Permissive license
 
+No. Whether you're an individual or a company, you may use Material for
+MkDocs Insiders precisely under the same terms as Material for MkDocs, which are
+given by the [MIT license].
+
+  [MIT license]: ../../license.md
+
 
 ## Fair use policy
-
-
-[__What is your fair use policy?__](#fair-use-policy){ #fair-use-policy }
 
 Our fair use policy includes the following guidelines:
 
@@ -33,11 +36,5 @@ to push this project forward.
 please make sure to [upgrade your sponsorship] once your current sponsoring tier
 limit has been reached.
 
-[__Does the Insiders edition have a different license?__](#insiders-license){ #insiders-license }
 
-No. Whether you're an individual or a company, you may use Material for
-MkDocs Insiders precisely under the same terms as Material for MkDocs, which are
-given by the [MIT license].
-
-  [MIT license]: ../../license.md
 

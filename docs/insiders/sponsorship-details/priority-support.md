@@ -3,7 +3,7 @@
 
 ## Sponsoring support
 
-[__How can I contact support if I have questions about becoming a sponsor?__ ](#support-contact){ #support-contact }
+- How can I contact support if I have questions about becoming a sponsor?
 
 If you have any questions and would like to contact us before starting your
 sponsorship, we are happy to answer all your non-technical questions about the
@@ -16,7 +16,7 @@ All technical questions should be asked openly on our [discussion board].
 
 ### Issue Tracker
 
-[__Is additional support available for Material for MkDocs Insiders users?__](#support-additional){ #support-additional }
+- Is additional support available for Material for MkDocs Insiders users?
 
 Yes, we provide non-technical support related to sponsoring at
 sponsors@squidfunk.com. For technical questions, please submit an issue openly
@@ -33,7 +33,7 @@ __The Organization__ tier or higher will be prioritized.[^1]
   [issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
 
 
-[__How can I report a bug in the Insiders edition?__](#insiders-bugs){ #insiders-bugs }
+- How can I report a bug in the Insiders edition?
 
 If you encounter a bug in the Insiders edition, we kindly request that you
 report it on our [issue tracker] in the public community repository. When
@@ -42,7 +42,7 @@ Insiders' source code, as we want to uphold our fair use policy.
 
 ### Discussion board
 
-[__How can I report an issue in my customizations?__](#customizations-issues){ #costumisations-issues }
+- How can I report an issue in my customizations?
 
 Please note, that we do not offer support for customizations as they vary
 widely and are specific to individual cases. Our support is primarily focused on
@@ -54,8 +54,9 @@ with customizations in place. For questions and issues with customizations,
 please use our [discussion board] to engage with the community.
 
   [.zip file]: ../../guides/creating-a-reproduction.md
-  [built-in info plugin]: https://squidfunk.github.io/mkdocs-material/guides/creating-a-reproduction/#creating-a-zip-file
+  [built-in info plugin]: ../../plugins/info.md
 
 
 ## Enterprise support
+
 ALEX

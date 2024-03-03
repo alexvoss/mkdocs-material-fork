@@ -4,7 +4,7 @@
 ## Subscriptions vs. one time
 
 
-[__Why are one-time sponsorships not granted access to Insiders?__](#sponsorship-one-time){ #sponsorship-one-time }
+- Why are one-time sponsorships not granted access to Insiders?
 
 Primarily due to technical reasons, that we're working on lifting in the future.
 We use GitHub webhooks to determine our current active sponsors. When you create
@@ -16,7 +16,7 @@ Note that [$15] is the minimum amount to be granted access to Insiders.
   [$15]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210638
 
 
-[__Can I purchase the Insiders edition with a one-time donation?__](#one-time-donation){ #one-time-donation }
+- Can I purchase the Insiders edition with a one-time donation?
 
 One-time donations, while appreciated, cannot support the ongoing development of
 Material for MkDocs as subscriptions do. Our project's growth relies on steady
@@ -24,10 +24,8 @@ support from subscriptions to fund new features, updates, and maintenance.
 Therefore, the Insiders version is not available through a one-time donation.
 
 If monthly payments do not work for you or your company, you can adjust your
-GitHub account's [billing cycle] to annual instead of monthly and sponsor at the
+GitHub account's billing cycle to annual instead of monthly and sponsor at the
 appropriate tier.
-
-[billing cycle]: ../insiders/faq/sponsoring.md/#insiders-billing-cycle
 
 ## Payment options
 
@@ -47,7 +45,7 @@ please don't hesitate to reach out to sponsors@squidfunk.com.
   [our sponsors' page]: https://github.com/sponsors/squidfunk/
 
 
-[__Can I sponsor the project without a GitHub account?__](#sponsorship-account){ #sponsorship-account }
+- Can I sponsor the project without a GitHub account?
 
 No, you can't support Material for MkDocs if you don't have a GitHub account.
 GitHub Sponsors handles all transactions and access management for us. Please
@@ -61,7 +59,7 @@ environment once you have access.
 
 #### Billing cycle
 
-[__How can I set my billing to monthly or yearly?__](#insiders-billing-cycle){ #insiders-billing-cycle }
+- How can I set my billing to monthly or yearly?
 
 Before you sponsor Material for MkDocs on one of our sponsoring tiers, you can
 change your [billing cycle] to either monthly or yearly, according to your
@@ -96,14 +94,14 @@ the end of your billing cycle.
 
 ## Discounts
 
-[__Are discounts available for the Insiders edition, such as student discounts?__](#insiders-discounts){ #insiders-discounts }
+- Are discounts available for the Insiders edition, such as student discounts?
 
 Unfortunately, we are not able to offer any discounts for the Material for
 MkDocs Insiders program. To ensure that everyone can afford the Insiders program
 and keep the barrier as low as possible, we have set prices as low as [$15] a
 month for [non-commercial] use.
 
-[__Do you offer free access to Insiders for Open Source projects?__](#insiders-open-source){ #insiders-open-source }
+- Do you offer free access to Insiders for Open Source projects?
 
 No, we do not offer free access to our Material for MkDocs Insiders edition.
 We understand that non-profit organizations may have limited budgets and may
@@ -118,7 +116,7 @@ which is meant for individuals and non-profit organizations using Material for
 MkDocs to build 1-2 sites for [non-commercial] purposes. This tier provides access
 to all new features, benefiting you from our ongoing development efforts.
 
-[__Is Insiders free for those who contribute to this project?__](#insiders-contributors){ #insiders-contributors }
+- Is Insiders free for those who contribute to this project?
 
 Thank you for your interest in contributing to Material for MkDocs! We value
 every contribution, but it's important to distinguish between different types of
@@ -141,12 +139,12 @@ granted free access to the Insiders edition. This presents a fantastic
 opportunity for you to make meaningful contributions while enjoying the perks of
 the Insiders edition.
 
-  [community experts]: ../community-experts-program/index.md
+  [community experts]: ../../community/community-experts-program/index.md
 
 
 ## Invoices
 
-[__Can I get an invoice for my sponsorship payment?__](#insiders-invoice){ #insiders-invoice}
+- Can I get an invoice for my sponsorship payment?
 
 Since [GitHub Sponsors] manages all transactions on our behalf, GitHub Sponsors
 is considered your supplier, not us. As part of their process, GitHub Sponsors
@@ -160,7 +158,7 @@ before initiating your sponsorship.
 
 ## Refunds
 
-[__Do you offer refunds for sponsoring payments?__](#insiders-refunds){ #insiders-refunds }
+- Do you offer refunds for sponsoring payments?
 
 Unfortunately, we cannot offer any refund for sponsorship payments.
 [GitHub Sponsors] manages all sponsoring transactions. Because of that, we do
@@ -169,11 +167,10 @@ you have any payment issues, please get in touch with the GitHub Sponsors
 support team, as they can help you.
 
 
-
 ## Upgrading and downgrading
 
 
-[__Can I switch between different sponsoring tiers?__](#insiders-switch-tiers){ #insiders-switch-tiers }
+- Can I switch between different sponsoring tiers?
 
 Yes, you can switch between different sponsoring tiers at any time. Simply go
 to the [GitHub Sponsors] page and change your sponsoring tier. Once you make
@@ -182,7 +179,7 @@ that change, you will immediately change to the new tier.
 If you change to a higher tier, the amount will be prorated according to your
 billing cycle.
 
-[__Can I sponsor the project for a specific feature or development goal?__](#insiders-goals){ #insiders-goals }
+- Can I sponsor the project for a specific feature or development goal?
 
 While sponsoring specific goals directly is not possible, our sponsoring goals
 are connected to specific features or development goals aligned with the
@@ -194,10 +191,10 @@ features, becoming a sponsor is the way to go. If you have a feature in mind
 that you would like to see on the list, we encourage you to
 [initiate a new discussion] to evaluate it with others.
 
-  [overview of these sponsoring goals]: ../index.md#goals
+  [overview of these sponsoring goals]: ../benefits.md#funding-goals
   [initiate a new discussion]: https://github.com/squidfunk/mkdocs-material/discussions
 
-[__What happens if I reach my sponsoring limit for my current tier?__](#insiders-limit){ #insiders-limit }
+- What happens if I reach my sponsoring limit for my current tier?
 
 If you extend the number of sites that are in your current sponsoring limit,
 please [upgrade your sponsorship] to a higher tier to continue using the

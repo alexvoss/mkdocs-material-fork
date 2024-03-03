@@ -41,7 +41,7 @@ You can cancel your sponsorship anytime.[^5]
 
 ## Restrictions
 
-[__Are there any geographical restrictions on becoming a sponsor?__](#sponsorship-geo){ #sponsorship-geo }
+- Are there any geographical restrictions on becoming a sponsor?
 
 No, there are no geographical restrictions for becoming a sponsor. We welcome
 sponsorships from individuals and organizations worldwide. As long as your
