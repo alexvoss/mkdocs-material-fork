@@ -1,84 +1,8 @@
 # Material for MkDocs Insiders
 
+- Why did we create Material for MkDocs Insiders?
 
-
-## What is Insiders?
-
-## Our mission
-
-## Our vision
-
-
-
-
-Material for MkDocs follows the __sponsorware__ release strategy, which means
-that new features are first exclusively released to sponsors as part of
-[Insiders]. Read on to learn [what sponsorships achieve],
-[how to become a sponsor] to get access to Insiders, and [what's in it for you]!
-
-<!-- <figure class="mdx-video" markdown>
-  <div class="mdx-video__inner">
-    <iframe src="https://streamable.com/e/yslhdu" allowfullscreen></iframe>
-  </div>
-  <figcaption markdown>
-
-This documentation is built with Insiders
-[squidfunk.github.io/mkdocs-material][Material for MkDocs]
-
-  </figcaption>
-</figure> -->
-
-  [Insiders]: #what-is-insiders
-  [what sponsorships achieve]: #what-sponsorships-achieve
-  [how to become a sponsor]: #how-to-become-a-sponsor
-  [what's in it for you]: #whats-in-it-for-me
-  [Material for MkDocs]: https://squidfunk.github.io/mkdocs-material/
-
-Material for MkDocs Insiders is a private fork of Material for MkDocs, hosted as
-a private GitHub repository. Almost[^1] [all new features][what's in it for you]
-are developed as part of this fork, which means that they are immediately
-available to all eligible sponsors, as they are made collaborators of this
-repository.
-
-  [^1]:
-    In general, every new feature is first exclusively released to sponsors, but
-    sometimes upstream dependencies like [Python Markdown Extensions] enhance
-    existing features that must be supported by Material for MkDocs.
-
-Every feature is tied to a [funding goal] in monthly subscriptions. When a
-funding goal is hit, the features that are tied to it are merged back into
-Material for MkDocs and released for general availability, making them available
-to all users. Bugfixes are always released in tandem.
-
-Sponsorships start as low as [__$15 a month__][how to become a sponsor].[^2]
-
-  [^2]:
-    Note that $15 a month is the minimum amount to become eligible for
-    Insiders. While GitHub Sponsors also allows to sponsor lower amounts or
-    one-time amounts, those can't be granted access to Insiders due to
-    technical reasons.
-
-  [Python Markdown Extensions]: https://facelessuser.github.io/pymdown-extensions/
-  [funding goal]: #funding
-
-
-
-
-Do you have questions about Material for MkDocs Insiders? We do our best to
-answer all of your questions on this page. If you can't find your question
-below, ask it on our [discussion board]!
-
-  [discussion board]: https://github.com/squidfunk/mkdocs-material/discussions/new/chooses
-
-
-
-
-
-
-
-[__Why did we create Material for MkDocs Insiders?__](#insiders-edition){ #insiders-edition }
-
-So, here's the deal: Material for MkDocs began as a passion project, which we
+Material for MkDocs began as a passion project, which we
 made open-source to share freely with everyone. However, as the project's
 popularity grew over the last few years, so did the demands of its maintenance
 and overhead. Faced with the growing demands and the tough choice between
@@ -89,22 +13,50 @@ To sustain this full-time commitment and to expand the team, we introduced
 Material for MkDocs Insiders. This private Insiders repository, available
 exclusively to our monthly sponsors, is where we first release the latest
 advancements of Material for MkDocs. That way our sponsors get the
-[premium features] in advance of all others users as a thank you for their
+premium features in advance of all others users as a thank you for their
 support. But here's the best part: once we achieve specific funding goals, these
 advancements become available to the wider community. This model ensures ongoing
 development and accessibility for all, keeping the project vibrant and
 up-to-date.
 
-We communicate these [funding goals] and their progress openly, ensuring our
+We communicate these funding goals and their progress openly, ensuring our
 community is involved every step of the way. It's our way of making sure that
 while we do need the support to keep going, everyone will eventually benefit
 from the advancements made possible by our sponsors.
 
-  [funding goals]: ../index.md/#funding
-  [premium features]: ../index.md/#whats-in-it-for-me
+
+## What is Insiders?
+
+Material for MkDocs follows the __sponsorware__ release strategy, which means
+that new features are first exclusively released to sponsors as part of
+Insiders. Material for MkDocs Insiders is a private fork of Material for MkDocs, hosted as
+a private GitHub repository. Almost[^1] all new features what's in it for you
+are developed as part of this fork, which means that they are immediately
+available to all eligible sponsors, as they are made collaborators of this
+repository.
+
+  [^1]:
+    In general, every new feature is first exclusively released to sponsors, but
+    sometimes upstream dependencies like [Python Markdown Extensions] enhance
+    existing features that must be supported by Material for MkDocs.
+
+Every feature is tied to a funding goal in monthly subscriptions. When a
+funding goal is hit, the features that are tied to it are merged back into
+Material for MkDocs and released for general availability, making them available
+to all users. Bugfixes are always released in tandem.
+
+Sponsorships start as low as __$15 a month__ how to become a sponsor.[^2]
+
+  [^2]:
+    Note that $15 a month is the minimum amount to become eligible for
+    Insiders. While GitHub Sponsors also allows to sponsor lower amounts or
+    one-time amounts, those can't be granted access to Insiders due to
+    technical reasons.
+
+  [Python Markdown Extensions]: https://facelessuser.github.io/pymdown-extensions/
 
 
-[__Why is the Insiders offered as a subscription model?__](#subscription-model){ #subscription-model }
+- Why is the Insiders offered as a subscription model?
 
 You might wonder why we opted for a subscription model for the Insiders edition
 instead of a one-time purchase. Here's the thing: Material for MkDocs is in
@@ -135,3 +87,14 @@ with confidence, knowing we have the backing to continue our work. This model
 has made all the difference, enabling us to rely on our sponsors' ongoing
 support and ensuring that Material for MkDocs remains a cutting-edge tool for
 everyone.
+
+
+
+## Our mission
+
+
+
+## Our vision
+
+
+

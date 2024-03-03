@@ -25,7 +25,6 @@ select visibility during checkout and change it afterwards.
 
 ## Our Premium Sponsors
 
-
 <div class="mdx-premium" markdown>
 
 ### Silver sponsors
@@ -132,7 +131,7 @@ select visibility during checkout and change it afterwards.
 
 If you would like to have your logo placed here, choose one of our organizational tiers!
 
-[__How can I display my logo on the list of premium sponsors?__](#sponsorship-logo-placement){ #sponsorship-logo-placement }
+- How can I display my logo on the list of premium sponsors?
 
 If your sponsorship tier includes logo placement, and you would like us to
 display your logo in the [list of premium sponsors] and have it linked to your

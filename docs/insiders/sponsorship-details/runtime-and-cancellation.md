@@ -2,7 +2,7 @@
 
 ## Runtime
 
-[__How long is my sponsorship valid?__](#sponsorship-runtime){ #sponsorship-runtime }
+- How long is my sponsorship valid?
 
 Your sponsorship is valid for as long as your monthly or yearly subscription
 is valid. If you choose to cancel your sponsorship, you will lose access to
@@ -11,7 +11,7 @@ removed by GitHub as a collaborator from the private repository.
 
 ## Cancellation process
 
-[__How do I cancel my sponsorship?__](#sponsorship-cancellation){ #sponsorship-cancellation }
+- How do I cancel my sponsorship?
 
 To cancel your sponsorship, follow the [step-by-step guide] provided by GitHub.
 If you sponsored using an organizational account, please ensure that you cancel
@@ -22,7 +22,7 @@ individual account.
 
 ### Effects of cancellation
 
-[__What happens when I cancel my sponsorship?__](#sponsorship-cancellation-effective){ #sponsorship-cancellation-effective }
+- What happens when I cancel my sponsorship?
 
 If you choose to cancel your subscription to Insiders, you will be
 automatically removed by GitHub as a collaborator on the day your cancellation is

@@ -3,7 +3,7 @@
 
 ## Insiders features
 
-The moment you [become a sponsor][how to become a sponsor], you'll get __immediate
+The moment you become a sponsor how to become a sponsor, you'll get __immediate
 access to 26 additional features__ that you can __start using now__, and
 which are currently exclusively available to sponsors:
 
@@ -42,7 +42,7 @@ New features are popping up all the time
 
 ## Releases
 
-[__How often is the Insiders edition updated?__](#insiders-updates){ #insiders-updates }
+- How often is the Insiders edition updated?
 
 We try to keep our open issue count low, fixing known bugs quickly. Both our
 repositories, the community and Insiders edition, are constantly updated with
@@ -290,7 +290,7 @@ can be used by all users.
 
 ### Premium Sponsors
 
-[__How can I display my logo on the list of premium sponsors?__](#sponsorship-logo-placement){ #sponsorship-logo-placement }
+- How can I display my logo on the list of premium sponsors?
 
 If your sponsorship tier includes logo placement, and you would like us to
 display your logo in the [list of premium sponsors] and have it linked to your
@@ -300,7 +300,7 @@ sponsors@squidfunk.com.
 
   [list of premium sponsors]: https://github.com/squidfunk/mkdocs-material#user-content-premium-sponsors
 
-[__Is logo placement optional?__](#sponsorship-logo-placement-optional){ #sponsorship-logo-placement-optional }
+- Is logo placement optional?
 
 Yes, all of our commercial benefits, such as logo placement and backlinks, are
 optional and can be opted in or out at any time. You can keep your sponsorship

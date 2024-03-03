@@ -6,7 +6,7 @@
 
 ## How to sponsor privately
 
-[__Can I sponsor privately?__](#sponsorship-private){ #sponsorship-private }
+- Can I sponsor privately?
 
 Yes, you can. GitHub offers the option to [set your sponsorship to private] when
 you initiate your sponsorship. This means that your account will not appear in
