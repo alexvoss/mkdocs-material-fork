@@ -27,11 +27,11 @@ from the advancements made possible by our sponsors.
 
 ## What is Insiders?
 
-Material for MkDocs follows the __sponsorware__ release strategy, which means
-that new features are first exclusively released to sponsors as part of
-Insiders. Material for MkDocs Insiders is a private fork of Material for MkDocs, hosted as
-a private GitHub repository. Almost[^1] all new features what's in it for you
-are developed as part of this fork, which means that they are immediately
+Material for MkDocs Insiders is a private fork of Material for MkDocs, hosted as
+a private GitHub repository. Material for MkDocs follows the __sponsorware__
+release strategy, which means that new features are first exclusively released
+to sponsors as part of Insiders. Almost[^1] all new features what's in it for
+you are developed as part of this fork, which means that they are immediately
 available to all eligible sponsors, as they are made collaborators of this
 repository.
 

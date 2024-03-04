@@ -5,17 +5,32 @@
 
 ### Access for individuals
 
-If you sponsored with your __individual account__, you should have received an
-email invitation to the private Material for MkDocs Insiders repository right
-after you initiated your sponsorship. Simply accept the invitation within seven
-days to gain access.
+If you sponsor using a [personal GitHub account], you will receive invitation link
+via mail to the private [Material for MkDocs Insiders repository] immediatley
+after you initiated your sponsorship. This invitation is automatically issued by
+GitHub. The invitation is valid for seven days and will not work afterwards.[^1]
+Once you accept it you'll be all set to [get started].
+
+  [^1]: If the invitation is not accepted within the time period of seven days,
+  you'll need to contact us via mail at sponsors@squidfunk.com and we will issue
+  the invitation once again.
+
+  [perspnal GitHub account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
+  [Material for MkDocs Insiders repository]: https://github.com/squidfunk/mkdocs-material-insiders
+  [get started]: ../toolkit/insiders-installation.md
+
 
 ### Access for organizations
 
-If you sponsored using an __organization account__, please note we need
-an individual account that we can list as a collaborator of the private Insiders
-repository. After you initiate your sponsorship, please email us at
-sponsors@squidfunk.com with the name of the individual or bot account. Once you
+If you sponsor using an [organization GitHub account], please note that we need
+__the name of a personal GitHub account__ that we can list as a collaborator of
+the private Material for MkDocs Insiders repository. In this case GitHub will
+not automatically issue an email invitate
+
+
+
+After you initiate your sponsorship, please email us at sponsors@squidfunk.com
+with the name of the individual or bot account. Once you
 provide us with this information, we will add the account as a collaborator, and
 after you accept the invitation, you will gain access to the repository.
 
@@ -23,19 +38,32 @@ If you have yet to receive the email or the invitation link has expired, please
 contact us, the maintainers, at sponsors@squidfunk.com. We're working on a
 solution that will allow you to manage collaborator status yourself.
 
+  [organization GitHub account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
+
+### Access for enterprises
+
+Currently not possible
+
+
 #### GitHub limitations
 
-- Why can't our whole organization get access to Insiders?
+##### Organization accounts
 
 Currently, it is not possible to grant access to an organizational account, as
-GitHub only allows for adding individual user accounts. We are working on a
-solution ourselves to simplify access for organizations. For now, to ensure that
-access is not tied to a particular individual, we recommend creating a bot
-account, i.e., a GitHub account that does not belong to a specific individual
-but is listed as the owner of the organizational account and using this account
-for sponsorship.
+GitHub only allows for adding individual user accounts. To ensure that access is
+not tied to a particular individual, we recommend creating a bot account, i.e.,
+a GitHub account that does not belong to a specific individual but is listed as
+the owner of the organizational account and using this account for sponsorship.
 
+##### Enterprise accounts
 
+No sponsoring for
+
+##### Matching
+
+No matching of email addresses and GitHub accounts
+
+#####
 
 ## Team management
 
