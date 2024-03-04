@@ -3,7 +3,7 @@
 
 ## How to get access
 
-### Access for individuals
+### Individuals
 
 If you sponsor using a [personal GitHub account], you will receive invitation link
 via mail to the private [Material for MkDocs Insiders repository] immediatley
@@ -11,16 +11,12 @@ after you initiated your sponsorship. This invitation is automatically issued by
 GitHub. The invitation is valid for seven days and will not work afterwards.[^1]
 Once you accept it you'll be all set to [get started].
 
-  [^1]: If the invitation is not accepted within the time period of seven days,
-  you'll need to contact us via mail at sponsors@squidfunk.com and we will issue
-  the invitation once again.
-
-  [perspnal GitHub account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
+  [personal GitHub account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
   [Material for MkDocs Insiders repository]: https://github.com/squidfunk/mkdocs-material-insiders
   [get started]: ../toolkit/insiders-installation.md
 
 
-### Access for organizations
+### Organizations
 
 If you sponsor using an [organization GitHub account], please note that we need
 __the name of a personal GitHub account__ that we can list as a collaborator of
@@ -40,30 +36,51 @@ solution that will allow you to manage collaborator status yourself.
 
   [organization GitHub account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
 
-### Access for enterprises
+### Enterprises
 
 Currently not possible
 
 
-#### GitHub limitations
 
-##### Organization accounts
+## GitHub limitations
+
+### Collaborators
 
 Currently, it is not possible to grant access to an organizational account, as
 GitHub only allows for adding individual user accounts. To ensure that access is
-not tied to a particular individual, we recommend creating a bot account, i.e.,
+not tied to a particular individual, we recommend creating a bot accsount, i.e.,
 a GitHub account that does not belong to a specific individual but is listed as
 the owner of the organizational account and using this account for sponsorship.
 
-##### Enterprise accounts
 
-No sponsoring for
 
-##### Matching
+It's currently not possible to grant access to each member of an organization,
+as GitHub only allows for adding users. Thus, after sponsoring, please send an
+email to sponsors@squidfunk.com, stating which account should become a
+collaborator of the Insiders repository. To ensure that access is not tied to a
+particular individual GitHub account, create a bot account (i.e. a GitHub
+account that is not tied to a specific individual), and use this account for the
+sponsoring. After being added to the list of collaborators, the bot account can
+create a private fork of the private Insiders GitHub repository, and grant
+access to all members of the organizations.
+
+#### Bot account
+
+### Matching
 
 No matching of email addresses and GitHub accounts
 
-#####
+### Waitlist
+
+No sponsoring for
+
+
+## Expired invitations
+
+If the invitation is not accepted within the time period of seven days, you'll
+need to contact us via mail at sponsors@squidfunk.com and we will issue the
+invitation once again.
+
 
 ## Team management
 
@@ -92,15 +109,13 @@ your fork.
 
 ### Forking
 
-### Cloming
+### Cloning
 
 ### Mirroring
 
 ### Outside collaborators
 
-- Can outside collaborators build and run the documentation locally without access to Insiders?
-
-Yes. Insiders is compatible with Material for MkDocs. Almost all new features
+Insiders is compatible with Material for MkDocs. Almost all new features
 and configuration options are either backward-compatible or implemented behind
 feature flags. When working with outside collaborators, changing the general
 appearance of your site should be optional. Most Insiders features enhance the
@@ -125,9 +140,7 @@ See the [getting started guide] for more information.
 
 ## GitHub alternatives
 
-- We are hosting our repository on Gitlab, can we also use Insiders?
-
-Absolutely! Material for MkDocs Insiders is designed to be compatible with
+Material for MkDocs Insiders is designed to be compatible with
 various repository hosting platforms, including GitLab. The key requirement is
 still a GitHub account, as we use GitHub Sponsors for all transactions and
 manage access to the private Insiders repository through GitHub.
