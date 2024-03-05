@@ -5,46 +5,44 @@
 
 ### Individuals
 
-If you sponsor using a [personal GitHub account], you will receive invitation link
-via mail to the private [Material for MkDocs Insiders repository] immediatley
-after you initiated your sponsorship. This invitation is automatically issued by
-GitHub. The invitation is valid for seven days and will not work afterwards.[^1]
-Once you accept it you'll be all set to [get started].
+If you sponsor using a [personal GitHub account], you will receive an invitation
+link via mail to the private [Material for MkDocs Insiders repository]
+immediatley after initiating your sponsorship. This invitation will
+automatically be issued by GitHub. The invitation is valid for seven days and
+once you accept it you'll be all set to [get started].
 
   [personal GitHub account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
   [Material for MkDocs Insiders repository]: https://github.com/squidfunk/mkdocs-material-insiders
   [get started]: ../toolkit/insiders-installation.md
 
-
 ### Organizations
 
-If you sponsor using an [organization GitHub account], please note that we need
-__the name of a personal GitHub account__ that we can list as a collaborator of
-the private Material for MkDocs Insiders repository. In this case GitHub will
-not automatically issue an email invitate
+If you sponsor using an [organization GitHub account], please note that GitHub
+will not issue an invitation to the private
+[Material for MkDocs Insiders repository] via mail. It is at this moment
+__not possible__ to grant access to an organizational account, due to
+[GitHub limitations].
 
-
-
-After you initiate your sponsorship, please email us at sponsors@squidfunk.com
-with the name of the individual or bot account. Once you
-provide us with this information, we will add the account as a collaborator, and
-after you accept the invitation, you will gain access to the repository.
-
-If you have yet to receive the email or the invitation link has expired, please
-contact us, the maintainers, at sponsors@squidfunk.com. We're working on a
-solution that will allow you to manage collaborator status yourself.
+Therefore, after you initiate your sponsorship, please provide us with the name
+of a [personal GitHub account] or a [bot account] which is publicly or privately
+listed as an owner of your GitHub organization via mail at sponsors@squidfunk.com.
+Once you provide us with the account name, we will add the account as a
+collaborator and you'll be all set to [get started].
 
   [organization GitHub account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
+  [GitHub limitations]: #collaborators
+  [bot account]: #bot-account
 
 ### Enterprises
 
-Currently not possible
-
-
+Currently not possible to sponsor as an enterprise nor is it possible to add
+GitHub organizations or GitHub Enterprises to private GitHub repositories.
 
 ## GitHub limitations
 
 ### Collaborators
+
+
 
 Currently, it is not possible to grant access to an organizational account, as
 GitHub only allows for adding individual user accounts. To ensure that access is
@@ -64,7 +62,8 @@ sponsoring. After being added to the list of collaborators, the bot account can
 create a private fork of the private Insiders GitHub repository, and grant
 access to all members of the organizations.
 
-#### Bot account
+
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
 
 ### Matching
 
@@ -75,16 +74,15 @@ No matching of email addresses and GitHub accounts
 No sponsoring for
 
 
+## Bot account
+
 ## Expired invitations
 
 If the invitation is not accepted within the time period of seven days, you'll
 need to contact us via mail at sponsors@squidfunk.com and we will issue the
 invitation once again.
 
-
 ## Team management
-
-- Can I share my Insiders access with others?
 
 At the moment, it is not possible to directly share your collaborator status
 for the private Insiders repository with other accounts. However, if you are
