@@ -35,6 +35,10 @@ collaborator and you'll be all set to [get started].
 
 ### Enterprises
 
+If you would like to sponsor using an GitHub Enterprise account, we'd recommend
+using a [personal GitHub account] or set up a [bot account]
+
+
 Currently not possible to sponsor as an enterprise nor is it possible to add
 GitHub organizations or GitHub Enterprises to private GitHub repositories.
 

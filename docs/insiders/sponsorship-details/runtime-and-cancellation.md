@@ -11,6 +11,15 @@ removed by GitHub as a collaborator from the private repository.
 
 ## Cancellation process
 
+
+If you cancel your sponsorship, GitHub schedules a cancellation request
+    which will become effective at the end of the billing cycle. This means
+    that even though you cancel your sponsorship, you will keep your access to
+    Insiders as long as your cancellation isn't effective. All charges are
+    processed by GitHub through Stripe. As we don't receive any information
+    regarding your payment, and GitHub doesn't offer refunds, sponsorships are
+    non-refundable.
+
 - How do I cancel my sponsorship?
 
 To cancel your sponsorship, follow the [step-by-step guide] provided by GitHub.
@@ -35,3 +44,4 @@ to ensure that you have a backup of the software if necessary and use the
 locally installed version.
 
   [GitHub deletes private forks]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/removing-a-collaborator-from-a-personal-repository#deleting-forks-of-private-repositories
+
