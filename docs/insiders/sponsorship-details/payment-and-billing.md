@@ -139,7 +139,7 @@ granted free access to the Insiders edition. This presents a fantastic
 opportunity for you to make meaningful contributions while enjoying the perks of
 the Insiders edition.
 
-  [community experts]: ../../community/community-experts-program/index.md
+  [community experts]: ../community-experts-program/index.md
 
 
 ## Invoices
