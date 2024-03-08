@@ -1,55 +1,65 @@
 # Access management
 
-
 ## How to get access
 
 ### Individuals
 
-If you sponsor using a [personal GitHub account], you will receive an invitation
+If you sponsor using a [personal account], you will receive an invitation
 link via mail to the private [Material for MkDocs Insiders repository]
-immediatley after initiating your sponsorship. This invitation will
-automatically be issued by GitHub. The invitation is valid for seven days and
-once you accept it you'll be all set to [get started].
+immediatley after initiating your sponsorship. This invitation is automatically
+issued by GitHub and is valid for seven days. Once you accept it you'll be all
+set to [get started].
 
-  [personal GitHub account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
+  [personal account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
   [Material for MkDocs Insiders repository]: https://github.com/squidfunk/mkdocs-material-insiders
-  [get started]: ../toolkit/insiders-installation.md
+  [get started]: ../usage/insiders-installation.md
 
 ### Organizations
 
-If you sponsor using an [organization GitHub account], please note that GitHub
-will not issue an invitation to the private
-[Material for MkDocs Insiders repository] via mail. It is at this moment
-__not possible__ to grant access to an organizational account, due to
-[GitHub limitations].
+If you sponsor using an [organization account], please note that GitHub
+will not issue an invitation to the private [Material for MkDocs Insiders
+repository] via mail. It is, at this moment, not possible to grant access to an
+[organization account] due to [GitHub limitations]. Therefore, when you
+initiate your sponsorship, please contact us via mail at sponsors@squidfunk.com
+afterwards and provide us with the name of a [personal account] or a
+[bot account] which is publicly or privately listed as an owner of your GitHub
+organization. We will then add this designated account as a collaborator and
+once you accept the invitation you'll be all set to [get started].
 
-Therefore, after you initiate your sponsorship, please provide us with the name
-of a [personal GitHub account] or a [bot account] which is publicly or privately
-listed as an owner of your GitHub organization via mail at sponsors@squidfunk.com.
-Once you provide us with the account name, we will add the account as a
-collaborator and you'll be all set to [get started].
-
-  [organization GitHub account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
+  [organization account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
   [GitHub limitations]: #collaborators
   [bot account]: #bot-account
 
 ### Enterprises
 
-If you would like to sponsor using an GitHub Enterprise account, we'd recommend
-using a [personal GitHub account] or set up a [bot account]
+If you would like to sponsor us using an [Enterprise account], we'd recommend
+using a [personal account] or a [bot account] to initiate your sponsorship.
 
 
-Currently not possible to sponsor as an enterprise nor is it possible to add
-GitHub organizations or GitHub Enterprises to private GitHub repositories.
+  [Enterprise account]:
 
 ## GitHub limitations
 
 ### Collaborators
 
+At this moment, it is not possible to grant access to
+[private repositories] to GitHub organization accounts as it is limited
+to [personal accounts]. Therefore it is not possible for us to add each
+member of a GitHub as a collaborator.
 
+  [private repositories]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
+  [personal accounts]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
 
-Currently, it is not possible to grant access to an organizational account, as
-GitHub only allows for adding individual user accounts. To ensure that access is
+### Matching
+
+GitHub protects your privacy and does not allow matching of email addresses and
+GitHub accounts. This matching can only be
+
+The user must have set a public email address.
+
+## Bot account
+
+To ensure that access is
 not tied to a particular individual, we recommend creating a bot accsount, i.e.,
 a GitHub account that does not belong to a specific individual but is listed as
 the owner of the organizational account and using this account for sponsorship.
@@ -66,19 +76,6 @@ sponsoring. After being added to the list of collaborators, the bot account can
 create a private fork of the private Insiders GitHub repository, and grant
 access to all members of the organizations.
 
-
-https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
-
-### Matching
-
-No matching of email addresses and GitHub accounts
-
-### Waitlist
-
-No sponsoring for
-
-
-## Bot account
 
 ## Expired invitations
 
@@ -136,7 +133,7 @@ overrides via [configuration inheritance].
 See the [getting started guide] for more information.
 
   [configuration inheritance]: https://www.mkdocs.org/user-guide/configuration/#configuration-inheritance
-  [getting started guide]: ../toolkit/insiders-installation.md#caveats
+  [getting started guide]: ../usage/insiders-installation.md#caveats
   [Card grids]: ../../reference/grids.md?h=grids#using-card-grids
 
 

@@ -4,6 +4,9 @@ What types of sponsoring are there?
 
 Slider: Commercial use | Non-commercial use
 
+## What's included
+
+Every tier has a limited number of seats of collaborators and limited number of sites-
 
 
 ## Commercial use

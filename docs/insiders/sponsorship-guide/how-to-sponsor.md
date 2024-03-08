@@ -1,7 +1,5 @@
 # How to become a sponsor
 
-New features are added every other week. Be sure to come back.
-
 Thanks for your interest in sponsoring! In order to become an eligible sponsor
 with your GitHub account, visit [squidfunk's sponsor profile], and complete
 a sponsorship of __$15 a month or more__. You can use your individual or

@@ -788,7 +788,7 @@
 - Fixed incorrect path separators for social cards on Windows
 
 ### 3.1.1 <small>September 26, 2021</small> { id="3.1.1" }
-
+m
 - Fixed ordering bug in search exclusion logic
 
 ### 3.1.0 <small>September 26, 2021</small> { id="3.1.0" }

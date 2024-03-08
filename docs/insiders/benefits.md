@@ -38,7 +38,7 @@ which are currently exclusively available to sponsors:
 
 ## What's coming next
 
-New features are popping up all the time
+New features are added every other week. Be sure to come back.
 
 ## Releases
 
