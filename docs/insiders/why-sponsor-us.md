@@ -8,7 +8,6 @@ The world runs on open Source
 ### Future of open source
 
 Open source = free?
-
 Highlight the importance of sponsorship
 
 ### Sponsorware
@@ -19,6 +18,11 @@ Impact on the project
 Why you should become a sponsor
 Anzahl der Stars, Issues
 Success story
+
+
+own your docs
+
+
 
 ## What Insiders accomplishes
 

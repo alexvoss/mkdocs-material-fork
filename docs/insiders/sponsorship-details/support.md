@@ -1,6 +1,5 @@
 # Support
 
-
 ## Sponsoring support
 
 - How can I contact support if I have questions about becoming a sponsor?
@@ -39,6 +38,8 @@ If you encounter a bug in the Insiders edition, we kindly request that you
 report it on our [issue tracker] in the public community repository. When
 submitting the bug report, please ensure that you do not include any private
 Insiders' source code, as we want to uphold our fair use policy.
+
+
 
 ### Discussion board
 

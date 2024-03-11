@@ -1,30 +1,39 @@
 # Access management
 
+Access management to the private Material for MkDocs Insiders repository is
+partially automated. If you're wondering how to gain access or share it with a
+team, you'll find everything you need to know on this page.
+
 ## How to get access
+
+After sponsoring us, we prioritize providing you with immediate access to the
+private Material for MkDocs Insiders repository. Depending on the type of
+account you've used to become a sponsor, we might need more information from you
+before we can grant access.
 
 ### Individuals
 
-If you sponsor using a [personal account], you will receive an invitation
-link via mail to the private [Material for MkDocs Insiders repository]
-immediatley after initiating your sponsorship. This invitation is automatically
-issued by GitHub and is valid for seven days. Once you accept it you'll be all
-set to [get started].
+If you sponsor using a [personal account], you will receive an invitation link
+via email to the private Material for MkDocs Insiders repository immediately
+after initiating your sponsorship. This invitation, automatically issued by
+GitHub, is valid for seven days. Once [accepted within this time], you'll be
+ready to [get started].
 
   [personal account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
-  [Material for MkDocs Insiders repository]: https://github.com/squidfunk/mkdocs-material-insiders
+  [accepted within this time]: #expired-invitations
   [get started]: ../usage/insiders-installation.md
 
 ### Organizations
 
-If you sponsor using an [organization account], please note that GitHub
-will not issue an invitation to the private [Material for MkDocs Insiders
-repository] via mail. It is, at this moment, not possible to grant access to an
-[organization account] due to [GitHub limitations]. Therefore, when you
-initiate your sponsorship, please contact us via mail at sponsors@squidfunk.com
-afterwards and provide us with the name of a [personal account] or a
-[bot account] which is publicly or privately listed as an owner of your GitHub
-organization. We will then add this designated account as a collaborator and
-once you accept the invitation you'll be all set to [get started].
+Sponsoring through an [organization account], please note that GitHub will not
+send an invitation via email to access the private Material for MkDocs Insiders
+repository due to [GitHub limitations]. It is not possible to grant access to an
+[organization account]. Therefore, if you've sponsored using an organization
+account, contact us at sponsors@squidfunk.com with the names of up to three
+[personal accounts] or one [bot account] that is publicly or privately listed
+as owners of your GitHub organization. We will add these designated accounts as
+collaborators, and once the invitation is accepted within seven days, you'll be
+all set to [get started].
 
   [organization account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
   [GitHub limitations]: #collaborators
@@ -32,128 +41,147 @@ once you accept the invitation you'll be all set to [get started].
 
 ### Enterprises
 
-If you would like to sponsor us using an [Enterprise account], we'd recommend
-using a [personal account] or a [bot account] to initiate your sponsorship.
+If you would like to sponsor us using an [enterprise account], we recommend
+using a [personal account] or a [bot account] to initiate the sponsorship and
+access the private Material for MkDocs Insiders repository using this account.
 
+  [enterprise account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#enterprise-accounts
 
-  [Enterprise account]:
+## Restrictions
 
-## GitHub limitations
+GitHub sets limitations beyond our control, which is why we require further
+information regarding [collaborators] and [matching].
+
+  [collaborators]: #collaborators
+  [matching]: #matching
 
 ### Collaborators
 
-At this moment, it is not possible to grant access to
-[private repositories] to GitHub organization accounts as it is limited
-to [personal accounts]. Therefore it is not possible for us to add each
-member of a GitHub as a collaborator.
+GitHub policy limits access to [private repositories] to [personal accounts]
+only, which is why it is currently not possible for us to add [organization
+accounts] to the Material for MkDocs Insiders repository, which is a private
+repository. Therefore, it is not feasible for us to add each member of an
+organization as collaborators.
 
   [private repositories]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
   [personal accounts]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
+  [organization accounts]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
 
 ### Matching
 
-GitHub protects your privacy and does not allow matching of email addresses and
-GitHub accounts. This matching can only be
-
-The user must have set a public email address.
+Due to privacy reasons, GitHub does not allow email addresses to be matched with
+GitHub accounts. When requesting access via email at sponsors@squidfunk.com,
+it's necessary to provide us with the name of a [personal account].
 
 ## Bot account
 
-To ensure that access is
-not tied to a particular individual, we recommend creating a bot accsount, i.e.,
-a GitHub account that does not belong to a specific individual but is listed as
-the owner of the organizational account and using this account for sponsorship.
+Given that only personal accounts can be listed as collaborators on
+[private repositories], ensuring access for an entire organization requires
+coordination through individuals. Changes within the team could lead to losing
+access to the entire organization. To avoid this, you have two options:
 
+  - Add multiple personal accounts as collaborators
+  - Create and add a bot account, which is [a new personal account] that does
+  not belong to a specific individual but is publicly or privately listed as the
+  owner of the GitHub organization
 
+Employing a bot account for access management and initiating your sponsorship
+offers a streamlined approach to handling all of your sponsoring costs, allowing
+you to manage access and payment for all sponsorships through a single account.
 
-It's currently not possible to grant access to each member of an organization,
-as GitHub only allows for adding users. Thus, after sponsoring, please send an
-email to sponsors@squidfunk.com, stating which account should become a
-collaborator of the Insiders repository. To ensure that access is not tied to a
-particular individual GitHub account, create a bot account (i.e. a GitHub
-account that is not tied to a specific individual), and use this account for the
-sponsoring. After being added to the list of collaborators, the bot account can
-create a private fork of the private Insiders GitHub repository, and grant
-access to all members of the organizations.
-
+  [a new personal account]: https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
 
 ## Expired invitations
 
-If the invitation is not accepted within the time period of seven days, you'll
-need to contact us via mail at sponsors@squidfunk.com and we will issue the
-invitation once again.
+If the invitation is not accepted within the period of seven days, you'll
+need to contact us via mail at sponsors@squidfunk.com, and we will issue the
+invitation to the private Material for MkDocs Insiders repository again.
 
 ## Team management
 
-At the moment, it is not possible to directly share your collaborator status
-for the private Insiders repository with other accounts. However, if you are
-working with a team and would like them to access Insiders, you can share the
-Insiders repository by utilizing options such as [cloning], [forking], or
-[mirroring]. By doing so, you can start collaborating with your team members on
-the new repository you have shared. This way, you can collectively benefit
-from the Insiders features and work together on the project.
+The collaborator status, unfortunately, cannot be shared directly with team
+members. However, the personal or bot account holding collaborator access can
+fork, clone, or mirror the private Insiders repository, providing a pathway for
+team collaboration.
 
-  [cloning]: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-  [forking]: https://docs.github.com/en/get-started/quickstart/fork-a-repo
-  [mirroring]: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
+If you are working together with a team and would like them to use the Material
+for MkDocs Insiders features with you, it is – at this moment – not possible to
+share your collaborator status with other accounts. However, the
+[personal account] or [bot account], which is listed as a collaborator, has the
+right to [fork], [clone] or [mirror] the private Material for MkDocs Insiders
+repository, which gives you more options.
 
-- Do I need to fork the repository to use it?
-
-It depends. If you are using the Insiders edition as an individual, you can work
-directly with the private repository, as you do not need to share the Insiders
-features with others. If you are working with a team, it is best to create a
-private [fork] using the individual account you listed as a collaborator of
-Material for MkDocs to grant access to all members of your organization to
-your fork.
-
-### Forking
-
-### Cloning
-
-### Mirroring
+  [fork]: #forking
+  [clone]: #cloning
+  [mirror]: #mirroring
 
 ### Outside collaborators
 
-Insiders is compatible with Material for MkDocs. Almost all new features
-and configuration options are either backward-compatible or implemented behind
-feature flags. When working with outside collaborators, changing the general
-appearance of your site should be optional. Most Insiders features enhance the
-overall experience, e.g., by adding icons to pages or providing a feedback
-widget. While these features add value for your site's users, they should be
-optional for previewing when making changes to content. Currently, the only
-content-related feature in Insiders that non-Insiders users can't properly
-preview are [Card grids].
+When working with outside collaborators, you should know that the Insiders
+edition is compatible with the Community edition. Almost all new features and
+configuration options are either backward-compatible or implemented behind
+feature flags. Changing the general appearance of your site should be optional.
+Most Insiders features enhance the overall experience, e.g., by adding icons to
+pages or providing a feedback widget. While these features add value for your
+site's users, they should be optional for previewing when making changes to
+content. Currently, the only content-related feature in Insiders that
+non-Insiders users can't correctly preview is [Card grids].
 
 This means that outside collaborators can build the documentation locally with
 Material for MkDocs, and when they push their changes, your CI pipeline will
 build it with Insiders. When using built-in plugins exclusive to Insiders, it's
 recommended to split configuration into a base `mkdocs.yml` and one with plugin
-overrides via [configuration inheritance].
-
-See the [getting started guide] for more information.
+overrides via [configuration inheritance]. See the [getting started guide] for
+more information.
 
   [configuration inheritance]: https://www.mkdocs.org/user-guide/configuration/#configuration-inheritance
   [getting started guide]: ../usage/insiders-installation.md#caveats
   [Card grids]: ../../reference/grids.md?h=grids#using-card-grids
 
 
+### Forking
+
+[Forking] a repository creates a copy of the repository that allows for
+independent development while maintaining a link to the original repository
+for updates.
+
+  [forking]: https://docs.github.com/en/get-started/quickstart/fork-a-repo
+
+### Cloning
+
+[Cloning] a repository copies the repository to your local machine or codespace,
+facilitating offline work and content management. [Cloning your private fork] is
+also an option for individualized control
+
+  [cloning]: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+  [cloning your private fork]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository
+
+### Mirroring
+
+[Mirroring] a repository creates an identical copy, ensuring you have the
+flexibility to host and work with the repository [in other environments] besides
+GitHub.
+
+  [mirroring]: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
+  [in other environments]: #github-alternatives
+
 ## GitHub alternatives
 
-Material for MkDocs Insiders is designed to be compatible with
-various repository hosting platforms, including GitLab. The key requirement is
-still a GitHub account, as we use GitHub Sponsors for all transactions and
-manage access to the private Insiders repository through GitHub.
+Material for MkDocs Insiders is designed to be compatible with various
+repository hosting platforms, including GitLab. The key requirement is still a
+GitHub account, as we use GitHub Sponsors for all transactions and manage access
+to the private Insiders repository through GitHub.
 
 Once you've become a sponsor and secured access to the private Insiders
-repository via an individual GitHub account, you can
-[mirror the repository in another location]. This mirroring process not only
-allows for easy integration into your existing workflow but also ensures that
-your projects stay up-to-date with the latest features and improvements of
-Material for MkDocs Insiders.
+repository via an individual GitHub account, you can [mirror the repository in
+another location]. This mirroring process not only allows for easy integration
+into your existing workflow but also ensures that your projects stay up-to-date
+with the latest features and improvements of Material for MkDocs Insiders.
 
-For any questions about integrating Material for MkDocs Insiders into your
-projects, our [discussion board] is a valuable resource. It offers a space to
-connect with others who may have similar requirements and setups as well as to
-exchange tips, and explore solutions together.
+Our discussion board is a valuable resource for any questions about integrating
+Material for MkDocs Insiders into your projects. It offers a space to connect
+with others who may have similar requirements and setups, as well as to
+exchange tips and explore solutions together.
 
   [mirror the repository in another location]: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository#mirroring-a-repository-in-another-location
+  [discussion board]: https://github.com/squidfunk/mkdocs-material/discussions
