@@ -54,8 +54,8 @@ which is essential when creating a reproduction, will not function correctly
 with customizations in place. For questions and issues with customizations,
 please use our [discussion board] to engage with the community.
 
-  [.zip file]: ../../guides/creating-a-reproduction.md
-  [built-in info plugin]: ../../plugins/info.md
+  [.zip file]: ../guides/creating-a-reproduction.md
+  [built-in info plugin]: ../plugins/info.md
 
 
 ## Enterprise support

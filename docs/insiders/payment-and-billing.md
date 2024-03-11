@@ -146,7 +146,7 @@ granted free access to the Insiders edition. This presents a fantastic
 opportunity for you to make meaningful contributions while enjoying the perks of
 the Insiders edition.
 
-  [community experts]: ../community-experts-program/index.md
+  [community experts]: community-experts-program/index.md
 
 
 ## Invoices
@@ -198,7 +198,7 @@ features, becoming a sponsor is the way to go. If you have a feature in mind
 that you would like to see on the list, we encourage you to
 [initiate a new discussion] to evaluate it with others.
 
-  [overview of these sponsoring goals]: ../benefits.md#funding-goals
+  [overview of these sponsoring goals]: benefits.md#funding-goals
   [initiate a new discussion]: https://github.com/squidfunk/mkdocs-material/discussions
 
 - What happens if I reach my sponsoring limit for my current tier?

@@ -6,10 +6,13 @@ team, you'll find everything you need to know on this page.
 
 ## How to get access
 
-After sponsoring us, we prioritize providing you with immediate access to the
-private Material for MkDocs Insiders repository. Depending on the type of
-account you've used to become a sponsor, we might need more information from you
-before we can grant access.
+After sponsoring us on one of our [sponsoring tiers] starting at $15/monthly,
+we prioritize providing you with immediate access to the private Material for
+MkDocs Insiders repository. Depending on the type of account you've used to
+become a sponsor, we might need more information from you before we can grant
+access.
+
+[sponsoring tiers]: sponsoring-tiers.md
 
 ### Individuals
 
@@ -21,7 +24,7 @@ ready to [get started].
 
   [personal account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
   [accepted within this time]: #expired-invitations
-  [get started]: ../usage/insiders-installation.md
+  [get started]: usage/insiders-installation.md
 
 ### Organizations
 
@@ -132,8 +135,8 @@ overrides via [configuration inheritance]. See the [getting started guide] for
 more information.
 
   [configuration inheritance]: https://www.mkdocs.org/user-guide/configuration/#configuration-inheritance
-  [getting started guide]: ../usage/insiders-installation.md#caveats
-  [Card grids]: ../../reference/grids.md?h=grids#using-card-grids
+  [getting started guide]: usage/insiders-installation.md#caveats
+  [Card grids]: ../reference/grids.md?h=grids#using-card-grids
 
 
 ### Forking

@@ -17,7 +17,7 @@ No. Whether you're an individual or a company, you may use Material for
 MkDocs Insiders precisely under the same terms as Material for MkDocs, which are
 given by the [MIT license].
 
-  [MIT license]: ../../license.md
+  [MIT license]: ../license.md
 
 
 ## Fair use policy

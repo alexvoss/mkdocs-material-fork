@@ -9,7 +9,7 @@ repository, you need to [become an eligible sponsor] of @squidfunk on GitHub.
   [pip]: #with-pip
   [docker]: #with-docker
   [git]: #with-git
-  [become an eligible sponsor]: ../sponsorship-guide/how-to-sponsor.md
+  [become an eligible sponsor]: ../how-to-sponsor.md
 
 ## Requirements
 
