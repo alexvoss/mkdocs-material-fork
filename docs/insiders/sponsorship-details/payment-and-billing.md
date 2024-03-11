@@ -1,12 +1,10 @@
 # Payment and billing
 
-
-## Subscriptions vs. one time
+Subscriptions vs. one-time
 
 
 - Why are one-time sponsorships not granted access to Insiders?
 
-Primarily due to technical reasons, that we're working on lifting in the future.
 We use GitHub webhooks to determine our current active sponsors. When you create
 or cancel your monthly subscription, GitHub sends events that we use to
 automatically add and remove collaborators.
@@ -59,14 +57,23 @@ environment once you have access.
 
 #### Billing cycle
 
-- How can I set my billing to monthly or yearly?
+The [billing cycle] is an account-level setting on GitHub and is set to monthly
+or yearly, according to your preference. You can change your billing cycle in
+your account setting at any time.
+
+
+
+When selecting one of our
+sponsoring tiers, this adjustment will automatically categorize you as a monthly
+or yearly sponsor.
+
+
+
 
 Before you sponsor Material for MkDocs on one of our sponsoring tiers, you can
 change your [billing cycle] to either monthly or yearly, according to your
-preference. Your [billing cycle] is a setting at the account level on GitHub,
-which you can easily modify in your account settings. When selecting one of our
-sponsoring tiers, this adjustment will automatically categorize you as a monthly
-or yearly sponsor.
+preference.
+
 
 If you find it challenging to make this change in your account, a practical
 workaround is to create a dedicated GitHub bot account where you set the billing
@@ -84,7 +91,7 @@ sponsors@squidfunk.com for support.
 ## Trial period
 
 No, we do not offer a trial period for the Insiders edition. However, if you're
-a company and are considering sponsoring on the [commercial] tier, but want to
+a company and are considering sponsoring on the [commercial] tier but want to
 first give the Insiders edition a try, you can sponsor on the [$15] tier with a
 personal account for [non-commercial] evaluation purposes.
 
@@ -106,8 +113,8 @@ month for [non-commercial] use.
 No, we do not offer free access to our Material for MkDocs Insiders edition.
 We understand that non-profit organizations may have limited budgets and may
 need to prioritize their spending on other projects or organizations. However,
-it's important to note that Material for MkDocs is maintained by a small team,
-investing a lot of time and resources into constantly improving this project.
+it's important to note that Material for MkDocs is maintained by a small team
+that is investing a lot of time and resources into constantly improving this project.
 Material for MkDocs and its core features are free to the community through our
 Open Source model. Therefore, Material for MkDocs itself is already free.
 
@@ -130,7 +137,7 @@ explore our [community experts] program. This program is designed for
 experienced users eager to share their expertise on our [discussion board]. Our
 discussion board facilitates the exchange of insights on workarounds, setups,
 and features and addresses queries from users at all levels of experience. As a
-community expert you become an integral part of our project by actively
+community expert, you become an integral part of our project by actively
 assisting users and addressing their inquiries. This allows our team to focus
 more on enhancing and developing new features – benefiting the entire community.
 
@@ -164,7 +171,7 @@ Unfortunately, we cannot offer any refund for sponsorship payments.
 [GitHub Sponsors] manages all sponsoring transactions. Because of that, we do
 not have any insights into the details of the funds and cannot access them. If
 you have any payment issues, please get in touch with the GitHub Sponsors
-support team, as they can help you.
+support team, and they can help you.
 
 
 ## Upgrading and downgrading

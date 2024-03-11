@@ -108,7 +108,7 @@ If you are working together with a team and would like them to use the Material
 for MkDocs Insiders features with you, it is – at this moment – not possible to
 share your collaborator status with other accounts. However, the
 [personal account] or [bot account], which is listed as a collaborator, has the
-right to [fork], [clone] or [mirror] the private Material for MkDocs Insiders
+right to [fork], [clone], or [mirror] the private Material for MkDocs Insiders
 repository, which gives you more options.
 
   [fork]: #forking
