@@ -99,17 +99,14 @@ invitation to the private Material for MkDocs Insiders repository again.
 
 ## Team management
 
-The collaborator status, unfortunately, cannot be shared directly with team
-members. However, the personal or bot account holding collaborator access can
-fork, clone, or mirror the private Insiders repository, providing a pathway for
-team collaboration.
-
-If you are working together with a team and would like them to use the Material
-for MkDocs Insiders features with you, it is – at this moment – not possible to
-share your collaborator status with other accounts. However, the
-[personal account] or [bot account], which is listed as a collaborator, has the
-right to [fork], [clone], or [mirror] the private Material for MkDocs Insiders
-repository, which gives you more options.
+If you are using Material for MkDocs Insiders as an Individual and do not work
+with a team, [forking] the private repository is not necessary. However, when
+working with a team, that would like to use the Material for MkDocs Insiders
+features with you, it is – at this moment – not possible to share your
+collaborator status with other accounts. In order to work in a team, the
+personal or bot account holding collaborator access can [fork], [clone], or
+[mirror] the private Material for MkDocs Insiders repository, providing a
+pathway for team collaboration.
 
   [fork]: #forking
   [clone]: #cloning
