@@ -1,18 +1,21 @@
 # Access management
 
-Access management to the private Material for MkDocs Insiders repository is
-partially automated. If you're wondering how to gain access or share it with a
-team, you'll find everything you need to know on this page.
+The Material for MkDocs Insiders repository is a private repository hosted on
+GitHub, access is therefore managed through GitHub itself. If you're wondering
+how access is managed and how sharing your access with your team works, you'll
+find everything you need to know on this page.
 
 ## How to get access
 
-After sponsoring us on one of our [sponsoring tiers] starting at $15/monthly,
-we prioritize providing you with immediate access to the private Material for
-MkDocs Insiders repository. Depending on the type of account you've used to
-become a sponsor, we might need more information from you before we can grant
-access.
+As the private Material for MkDocs Insiders repository is hosted on GitHub, you
+require a GitHub account to become a sponsor and to gain access. After
+sponsoring us on one of our [sponsoring tiers] starting at $15/monthly, we
+prioritize providing you with immediate access to the private Material for
+MkDocs Insiders repository. The process of gaining access is partially automated.
+Depending on the type of account you've used to become a sponsor, we might need
+more information from you before we can grant access.
 
-[sponsoring tiers]: sponsoring-tiers.md
+  [sponsoring tiers]: sponsoring-tiers.md
 
 ### Individuals
 

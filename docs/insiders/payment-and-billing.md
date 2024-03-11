@@ -1,5 +1,15 @@
 # Payment and billing
 
+If you're wondering what payment options and billing cycles
+you have,
+
+Access management to the private Material for MkDocs Insiders repository is
+partially automated. If you're wondering how to gain access or share it with a
+team, you'll find everything you need to know on this page.
+
+
+
+
 Subscriptions vs. one-time
 
 
@@ -27,16 +37,25 @@ appropriate tier.
 
 ## Payment options
 
+Sponsorings are [managed by GitHub Sponsors] on
+
+
+Material for MkDocs on GitHub, visit [our sponsors' page].
+ecome a
+
+Please note that as of the beginning of 2023, [GitHub no longer supports PayPal]
+payments.
+
+  [managed by GitHub Sponsors]: #github-sponsors
+
 ### GitHub Sponsors
 
-We manage all our transactions and sponsorships through [GitHub Sponsors]. To
-become a sponsor of Material for MkDocs on GitHub, visit [our sponsors' page].
-On there, you can choose from five different sponsorship tiers and pay by credit
-card. Please note that as of the beginning of 2023,
-[GitHub no longer supports PayPal] payments.
+[GitHub Sponsors] handles all transactions and sponsorships for us. Means that
 
-If you're a company and need assistance choosing the right payment method,
-please don't hesitate to reach out to sponsors@squidfunk.com.
+
+
+
+
 
   [GitHub Sponsors]: https://github.com/sponsors
   [GitHub no longer supports PayPal]: https://github.blog/changelog/2023-01-23-github-sponsors-will-stop-supporting-paypal/
@@ -54,6 +73,14 @@ repositories on other platforms, you can mirror the Insiders repository in your
 environment once you have access.
 
 #### Credit Card
+
+#### Invoice
+
+The organization needs to sign the sponsorship agreement which is a 3 year commitment. The GitHub Invoiced Sponsor Agreement is separate from other services.
+The organization needs a minimum spend of 5,000 US dollars (USD) per year on sponsoring.
+The organization needs to pay the invoice within 30 days.
+
+https://docs.github.com/en/sponsors/sponsoring-open-source-contributors/paying-for-github-sponsors-by-invoice
 
 #### Billing cycle
 
