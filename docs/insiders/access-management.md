@@ -24,7 +24,7 @@ ready to [get started].
 
   [personal account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
   [accepted within this time]: #expired-invitations
-  [get started]: usage/insiders-installation.md
+  [get started]: installation.md
 
 ### Organizations
 
@@ -135,7 +135,7 @@ overrides via [configuration inheritance]. See the [getting started guide] for
 more information.
 
   [configuration inheritance]: https://www.mkdocs.org/user-guide/configuration/#configuration-inheritance
-  [getting started guide]: usage/insiders-installation.md#caveats
+  [getting started guide]: installation.md
   [Card grids]: ../reference/grids.md?h=grids#using-card-grids
 
 

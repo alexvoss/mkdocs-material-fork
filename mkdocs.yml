@@ -266,12 +266,12 @@ nav:
       - Access management: insiders/access-management.md
       - Runtime and cancellation: insiders/runtime-and-cancellation.md
       - Privacy: insiders/privacy.md
-      - Licensing: insiders/licensing.md
+      - License: insiders/license.md
       - Support: insiders/support.md
     - Usage:
-      - Installing Insiders: insiders/usage/insiders-installation.md
-      - Changelog: insiders/usage/changelog.md
-      - Upgrade: insiders/usage/upgrade.md
+      - Installing Insiders: insiders/installation.md
+      - Changelog: insiders/changelog.md
+      - Upgrade: insiders/upgrade.md
   - Community:
     - Contributing:
       - contributing/index.md

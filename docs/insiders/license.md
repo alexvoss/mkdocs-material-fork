@@ -1,4 +1,4 @@
-# Licensing
+# Insiders license
 
 
 ## Open Source
