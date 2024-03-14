@@ -17,6 +17,7 @@ Subscriptions vs. one-time
 
 
 
+
 - Why are one-time sponsorships not granted access to Insiders?
 
 We use GitHub webhooks to determine our current active sponsors. When you create
@@ -119,10 +120,8 @@ the end of your billing cycle.
 
 ## Discounts
 
-- Are discounts available for the Insiders edition, such as student discounts?
-
-Unfortunately, we are not able to offer any discounts for the Material for
-MkDocs Insiders program. To ensure that everyone can afford the Insiders program
+We are not able to offer any sort of discounts for the Material for MkDocs
+Insiders program. To ensure that everyone can afford the Insiders program
 and keep the barrier as low as possible, we have set prices as low as [$15] a
 month for [non-commercial] use.
 

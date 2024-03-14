@@ -1,6 +1,7 @@
 # What’s in it for you
 
 
+
 ## Insiders features
 
 The moment you become a sponsor how to become a sponsor, you'll get __immediate

@@ -1,23 +1,26 @@
 # Material for MkDocs Insiders
 
-- Why did we create Material for MkDocs Insiders?
-
-Material for MkDocs began as a passion project, which we
-made open-source to share freely with everyone. However, as the project's
-popularity grew over the last few years, so did the demands of its maintenance
-and overhead. Faced with the growing demands and the tough choice between
-discontinuing our efforts or dedicating ourselves full-time, we chose to commit
-ourselves fully to the project.
-
+Material for MkDocs began as a passion project, which we made open-source to
+share freely with everyone. However, as the project's popularity grew over the
+last few years, so did the demands of its maintenance and overhead. Faced with
+the growing demands and the tough choice between discontinuing our efforts or
+dedicating ourselves full-time, we chose to commit ourselves fully to the project.
 To sustain this full-time commitment and to expand the team, we introduced
-Material for MkDocs Insiders. This private Insiders repository, available
-exclusively to our monthly sponsors, is where we first release the latest
-advancements of Material for MkDocs. That way our sponsors get the
-premium features in advance of all others users as a thank you for their
-support. But here's the best part: once we achieve specific funding goals, these
-advancements become available to the wider community. This model ensures ongoing
-development and accessibility for all, keeping the project vibrant and
-up-to-date.
+Material for MkDocs Insiders.
+
+## What is Insiders?
+
+The Material for MkDocs Insiders repository, is a private fork of Material for
+MkDocs, hosted as a private GitHub repository. This private repository is
+exclusively available to our monthly sponsors and includes the latest features.
+That way our sponsors get the premium features in advance of all others users as
+a thank you for their support.
+
+
+But here's the best part: once we achieve
+specific funding goals, these advancements become available to the wider
+community. This model ensures ongoing development and accessibility for all,
+keeping the project vibrant and up-to-date.
 
 We communicate these funding goals and their progress openly, ensuring our
 community is involved every step of the way. It's our way of making sure that
@@ -27,8 +30,7 @@ from the advancements made possible by our sponsors.
 
 ## What is Insiders?
 
-Material for MkDocs Insiders is a private fork of Material for MkDocs, hosted as
-a private GitHub repository. Material for MkDocs follows the __sponsorware__
+ Material for MkDocs follows the __sponsorware__
 release strategy, which means that new features are first exclusively released
 to sponsors as part of Insiders. Almost[^1] all new features what's in it for
 you are developed as part of this fork, which means that they are immediately
