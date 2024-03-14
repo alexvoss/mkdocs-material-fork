@@ -55,6 +55,8 @@ Sponsorships start as low as __$15 a month__ how to become a sponsor.[^2]
 
   [Python Markdown Extensions]: https://facelessuser.github.io/pymdown-extensions/
 
+Es sind keine Donations
+
 
 - Why is the Insiders offered as a subscription model?
 

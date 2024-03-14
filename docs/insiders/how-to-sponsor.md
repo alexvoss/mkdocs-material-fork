@@ -10,7 +10,6 @@ please send a short email to sponsors@squidfunk.com with the name of your
 organization and the GitHub account of the individual that should be added as a
 collaborator.
 
-
 [:octicons-heart-fill-24:{ .mdx-heart } &nbsp; Join our <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span> awesome sponsors][squidfunk's sponsor profile]{ .md-button .md-button--primary .mdx-sponsorship-butto
 
 

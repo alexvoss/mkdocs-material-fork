@@ -1,7 +1,7 @@
 # Access management
 
 The Material for MkDocs Insiders repository is a private repository hosted on
-GitHub, access is therefore managed through GitHub itself. If you're wondering
+GitHub access is, therefore, managed through GitHub itself. If you're wondering
 how access is managed and how sharing your access with your team works, you'll
 find everything you need to know on this page.
 
@@ -22,7 +22,7 @@ more information from you before we can grant access.
 If you sponsor using a [personal account], you will receive an invitation link
 via email to the private Material for MkDocs Insiders repository immediately
 after initiating your sponsorship. This invitation, automatically issued by
-GitHub, is valid for seven days. Once [accepted within this time], you'll be
+GitHub is valid for seven days. Once [accepted within this time], you'll be
 ready to [get started].
 
   [personal account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
@@ -91,11 +91,13 @@ access to the entire organization. To avoid this, you have two options:
   not belong to a specific individual but is publicly or privately listed as the
   owner of the GitHub organization
 
-Employing a bot account for access management and initiating your sponsorship
-offers a streamlined approach to handling all of your sponsoring costs, allowing
-you to manage access and payment for all sponsorships through a single account.
+Employing a bot account for access management and initiating your public or
+[private] sponsorship offers a streamlined approach to handling all of your
+sponsoring costs, allowing you to manage access and payment for all sponsorships
+through a single account.
 
   [a new personal account]: https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
+  [private]: privacy.md
 
 ## Expired invitations
 
@@ -105,9 +107,9 @@ invitation to the private Material for MkDocs Insiders repository again.
 
 ## Team management
 
-If you are using Material for MkDocs Insiders as an Individual and do not work
+If you are using Material for MkDocs Insiders as an [Individual] and do not work
 with a team, [forking] the private repository is not necessary. However, when
-working with a team, that would like to use the Material for MkDocs Insiders
+working with a team that would like to use the Material for MkDocs Insiders
 features with you, it is – at this moment – not possible to share your
 collaborator status with other accounts. In order to work in a team, the
 personal or bot account holding collaborator access can [fork], [clone], or
@@ -117,6 +119,7 @@ pathway for team collaboration.
   [fork]: #forking
   [clone]: #cloning
   [mirror]: #mirroring
+  [Individual]: #individuals
 
 ### Outside collaborators
 

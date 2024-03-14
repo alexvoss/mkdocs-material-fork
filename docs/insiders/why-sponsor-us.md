@@ -54,6 +54,11 @@ completed funding goals to learn whether you're already using features that
 were developed with the help of sponsorships. You're most likely using at least
 a handful of them, thanks to our awesome sponsors!
 
+Your sponsorship directly contributes to the development, maintenance, and improvement of Material for MkDocs. Here's how your support makes a difference:
+
+Innovation: Funding goes towards research, development, and the introduction of new features.
+Sustainability: Ensures that Material for MkDocs remains up-to-date, secure, and freely available.
+Community Support: Helps us provide timely support and resources to the community, fostering growth and learning.
 
 ## Who we are
 

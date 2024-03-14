@@ -3,14 +3,18 @@
 If you're wondering what payment options and billing cycles
 you have,
 
-Access management to the private Material for MkDocs Insiders repository is
-partially automated. If you're wondering how to gain access or share it with a
+If you're wondering how to gain access or share it with a
 team, you'll find everything you need to know on this page.
 
 
 
 
+
+
 Subscriptions vs. one-time
+
+## Payment
+
 
 
 - Why are one-time sponsorships not granted access to Insiders?
@@ -50,11 +54,8 @@ payments.
 
 ### GitHub Sponsors
 
-[GitHub Sponsors] handles all transactions and sponsorships for us. Means that
-
-
-
-
+[GitHub Sponsors] handles all transactions and sponsorships for us. To become a
+sponsor of Material for MkDocs, you require a GitHub account.
 
 
   [GitHub Sponsors]: https://github.com/sponsors
@@ -64,13 +65,7 @@ payments.
 
 - Can I sponsor the project without a GitHub account?
 
-No, you can't support Material for MkDocs if you don't have a GitHub account.
-GitHub Sponsors handles all transactions and access management for us. Please
-also note that the private Insiders repository is on GitHub, so in order to gain
-access, you'll need to have a GitHub individual or bot account that can be added
-as a collaborator. If your organization doesn't use GitHub or hosts its
-repositories on other platforms, you can mirror the Insiders repository in your
-environment once you have access.
+
 
 #### Credit Card
 
@@ -82,7 +77,7 @@ The organization needs to pay the invoice within 30 days.
 
 https://docs.github.com/en/sponsors/sponsoring-open-source-contributors/paying-for-github-sponsors-by-invoice
 
-#### Billing cycle
+## Billing cycle
 
 The [billing cycle] is an account-level setting on GitHub and is set to monthly
 or yearly, according to your preference. You can change your billing cycle in
@@ -110,10 +105,6 @@ difficulties or further inquiries, please don’t hesitate to contact us at
 sponsors@squidfunk.com for support.
 
   [billing cycle]: https://docs.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/changing-the-duration-of-your-billing-cycle
-
-##### Monthly
-
-##### Yearly
 
 ## Trial period
 
@@ -178,8 +169,6 @@ the Insiders edition.
 
 ## Invoices
 
-- Can I get an invoice for my sponsorship payment?
-
 Since [GitHub Sponsors] manages all transactions on our behalf, GitHub Sponsors
 is considered your supplier, not us. As part of their process, GitHub Sponsors
 automatically sends you a payment receipt via email for each billing cycle. It's
@@ -192,9 +181,6 @@ before initiating your sponsorship.
 
 ## Refunds
 
-- Do you offer refunds for sponsoring payments?
-
-Unfortunately, we cannot offer any refund for sponsorship payments.
 [GitHub Sponsors] manages all sponsoring transactions. Because of that, we do
 not have any insights into the details of the funds and cannot access them. If
 you have any payment issues, please get in touch with the GitHub Sponsors
@@ -213,6 +199,15 @@ that change, you will immediately change to the new tier.
 If you change to a higher tier, the amount will be prorated according to your
 billing cycle.
 
+- What happens if I reach my sponsoring limit for my current tier?
+
+If you extend the number of sites that are in your current sponsoring limit,
+please [upgrade your sponsorship] to a higher tier to continue using the
+Insiders edition and build more sites. The change will be effective immediately.
+
+  [upgrade your sponsorship]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/upgrading-a-sponsorship
+
+
 - Can I sponsor the project for a specific feature or development goal?
 
 While sponsoring specific goals directly is not possible, our sponsoring goals
@@ -227,12 +222,4 @@ that you would like to see on the list, we encourage you to
 
   [overview of these sponsoring goals]: benefits.md#funding-goals
   [initiate a new discussion]: https://github.com/squidfunk/mkdocs-material/discussions
-
-- What happens if I reach my sponsoring limit for my current tier?
-
-If you extend the number of sites that are in your current sponsoring limit,
-please [upgrade your sponsorship] to a higher tier to continue using the
-Insiders edition and build more sites. The change will be effective immediately.
-
-  [upgrade your sponsorship]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/upgrading-a-sponsorship
 
