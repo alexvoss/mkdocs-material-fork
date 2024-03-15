@@ -3,18 +3,11 @@
 If you're wondering what payment options and billing cycles
 you have,
 
-If you're wondering how to gain access or share it with a
-team, you'll find everything you need to know on this page.
-
-
-
-
 
 
 Subscriptions vs. one-time
 
 ## Payment
-
 
 
 

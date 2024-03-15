@@ -1,65 +1,73 @@
 # Support
 
-
+We're deeply invested in cultivating an open and supportive community where
+everyone can freely share their knowledge and insights. Our commitment is to
+support our community to the fullest, balancing this communication with the
+critical development of Material for MkDocs. To ensure efficiency,
+effectiveness and avoid double content, we try to guide you towards the most
+suitable channel below to connect you with the right assistance.
 
 ## Sponsoring support
 
-If you guided through our Insiders section and still have unanswered question
-about Material for MkDocs Insiders or would like to contact us before initiating
-your sponsorship, [Kathi] is here for you. She will be happy to answer all your
-non-technical sponsoring-related questions via email at sponsors@squidfunk.com.
+If questions remain after exploring our Insiders section, or if you're
+contemplating sponsorship, [Kathi] is ready to assist you. She is prepared to
+address all non-technical inquiries related to sponsorship. Reach out to her at
+sponsors@squidfunk.com for additional support.
 
   [Kathi]: https://github.com/katharinalisalin
 
 ## Technical support
 
+Our commitment to providing technical support, with a strong emphasis on keeping
+all communication transparent and open, which is why we strickly keep to [our
+discussion board] and [issue tracker].
+
+  [our discussion board]: #discussion-board
+  [issue tracker]: #issue-tracker
 
 
 ### Discussion board
 
+The [discussion board] is your go-to for technical questions, where our
+community and [Community Experts] actively share knowledge and solutions. Please
+search existing discussions for answers before initiating new discussions. Note
+that our direct support and that of our Community Experts focus on core features.
+Customization assistance, due to its highly individual nature, is more likely to
+come from the broader community.
 
-All technical questions should be asked openly on our [discussion board].
-
+  [Community Experts]: community-experts-program/index.md
   [discussion board]: https://github.com/squidfunk/mkdocs-material/discussions
 
 ### Issue Tracker
 
-For technical questions, please submit an issue openly on our [issue tracker]
-Issues and discussions from our organizational sponsors, sponsoring on
-__The Organization__ tier or higher will be prioritized. Priority support means
-we will prioritize your issue, meaning we will look into it and do our best to
-solve your issue asap. However, the prioritized bug support does not mean that
-we can solve your issue before any others since some issues might take more time
-to solve.
+For [bugs] or [change requests], please submit issues openly on [our issue
+tracker]. This transparency ensures that solutions benefit the entire community,
+not only individual user. For bugs in the Insiders edition, we request that you
+report these via our [public issue tracker] as well. When doing so, ensure that
+you don't share any private Insiders' source code to comply with our [fair use
+policy] which helps maintain the integrity and security of the Insiders edition.
 
-  [issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
+  [bugs]: ../contributing/reporting-a-bug.md
+  [change requests]: ../contributing/requesting-a-change.md
+  [our issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
+  [public issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
+  [fair use policy]:
 
-If you encounter a bug in the Insiders edition, we kindly request that you
-report it on our [issue tracker] in the public community repository. When
-submitting the bug report, please ensure that you do not include any private
-Insiders' source code, as we want to uphold our fair use policy.
+### Prioritized bug support
 
-Please note that our support is primarily focused on assisting with our core
-features. Customizations vary widely and are specific to individual cases. When
-reporting an issue, please remove all customizations to ensure effective problem
-diagnosis with a minimal reproduction [.zip file], as described in our bug
-reporting guide. Our [built-in info plugin], which is essential when creating a
-reproduction, will not function correctly with customizations in place. For
-questions and issues with customizations, please use our [discussion board] to
-engage with the community.
-
-  [.zip file]: ../guides/creating-a-reproduction.md
-  [built-in info plugin]: ../plugins/info.md
+Organizational sponsors at "The Organization" tier or above receive prioritized
+bug support. This doesn't mean skipping the queue but ensuring your concerns are
+addressed promptly. We're committed to looking into and solving your issues as
+efficiently as possible. However, please understand that while we aim to resolve
+issues swiftly, the complexity of some problems may lead to longer resolution
+times.
 
 ## Enterprise support
 
-If you do need assistance with using Material for MkDocs or want to find out how to improve it. We do offer a one
+For in-depth support on utilizing Material for MkDocs or to explore ways to
+enhance your documentation, we offer a [one-hour consulting call] with
+@squidfunk – the original author and maintainer of Material for MkDocs. Our
+experience shows that such a session can save you valuable time and help you
+unlock Material for MkDocs' full potential.
 
-You may want to consider [adding a one-time payment of $350] for a one-hour call
-with @squidfunk, the original author and maintainer of Material for MkDocs.
-Our experience shows that such a one-hour consultation can save a lot of time
-that would otherwise be spent tinkering, as well as unlock the full potential
-of Material for MkDocs.
-
-If, after this initial consultation, it emerges that additional assistance is
-required, we can discuss options for how members of the team can help.
+  [one-hour consulting call]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210891
