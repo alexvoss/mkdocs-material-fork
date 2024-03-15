@@ -51,14 +51,14 @@ please reach out to us at sponsors@squidfunk.com.
 Unfortunately, we cannot sign any NDAs. As a small team working on Material for
 MkDocs, we have limited resources and cannot review and sign agreements.
 
-### Our promise
+## Our promise
 
-#### Logo placement
+### Logo placement
 
 No logo placement without your confirmation. Please note that all our perks,
 such as logo placement, are entirely optional and must be explicitly requested
 by our sponsors.
 
-#### No Marketing
+### No Marketing
 
 No marketing your sponsorship in any form. Private means private

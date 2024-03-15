@@ -128,17 +128,10 @@ select visibility during checkout and change it afterwards.
 
   [squidfunk's sponsor profile]: https://github.com/sponsors/squidfunk?metadata_origin=docs
 
+Want to have your logo placed here?
+Sponsor us at one of [our organizational tiers]!
 
-If you would like to have your logo placed here, choose one of our organizational tiers!
-
-- How can I display my logo on the list of premium sponsors?
-
-If your sponsorship tier includes logo placement, and you would like us to
-display your logo in the [list of premium sponsors] and have it linked to your
-site, please contact us via mail. Simply send us a horizontal SVG or PNG version
-of your logo making sure it displays the name of your company and the logo to
-sponsors@squidfunk.com.
-
+  [our organizational tiers]:
 
 ## Testimonials
 
