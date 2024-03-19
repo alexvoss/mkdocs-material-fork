@@ -1,16 +1,16 @@
-# Blog Tutorial
+# Blog tutorial
 
 ## 1. Overview
-__Content:__ The tutorial will guide you through the process of configuring the
-[blog plugin], creating posts, setting up authors, producing an RSS feed as well
-as... <!-- TODO -->
+__Content:__ The tutorial guides you through the process of configuring the
+[blog plugin], creating posts, setting up authors, providing secondary navigation
+with tags and producing an RSS feed.
 
 [blog plugin]: ../../plugins/blog
 
 __Prerequisites:__ This tutorial assumes that you have installed either the
 [public version] or the [Insiders edition] of Material for MkDocs and that you have
-worked through the [Creating your site] setup guide. Note that where features of
-the Insiders edition are used, these will be marked with the heart icon:
+worked through the [Creating your site] setup guide. Note that where features
+we use the Insiders edition, we mark these with the heart icon:
 <!-- md:sponsors --> If you are using the public version then you can skip these
 steps.
 
@@ -21,11 +21,11 @@ steps.
 
 __Outcomes:__ After working through the tutorial, you will have learned how to
 produce a professional or personal blog to engage with your audience. You will
-know and have experienced how the blog plugin ab be used in combination with
+know and have experienced how you can use the blog plugin in combination with
 other features and third-party plugins to achieve this.
 
 __Time required:__ To run through this tutorial in full you will typically need
-to have about XX minutes of time. Note that the time it takes will depend on a
+to have about XX minutes of time. Note that the time it takes depends on a
 number of factors, so this is only a rough estimation based on our experience
 and testing.
 
@@ -64,37 +64,36 @@ An index page shows the posts in reverse chronological order, with the most
 recent post at the top. It usually shows only a short _excerpt_ and a link that
 the user can click to navigate to the full post.
 
-Both the index page and the post itself will usually list information such as
-when the post was published, when it was updated, who the author is and what the
+Both the index page and the post itself usually list information such as
+when you published the post, when you updated it, who the author is and what the
 expected reading time is.
 
 Since the blog posts are primarily arranged by time and not into a hierarchy,
 their URLs do not reflect such a structure. Instead, each post's URL usually
 contains a shortened description, the _slug_.
 
-The main navigation structure is the timeline, which can be subdivided into
+The main navigation structure is the timeline, which you can subdivide into
 _categories_. In addition, posts can be _tagged_ to provide an additional
 navigation structure based on content rather than time of posting.
 
 The navigation elements in the blog are the timeline, with the main index page
 showing a given number of posts and an _archive_ section allowing access to
-older posts, organised be year. The _categories_ section provides access to
-index pages for the category index pages. In addition, when tagging is used, tag
-index pages may also be available in the navigation.
+older posts, organized by year. The _categories_ section provides access to
+index pages for the category index pages. In addition, when using tagging,
+tag index pages can also be available in the navigation.
 
 An _author index_ may show all the posts by an individual author. Each author
-may also have a profile page that provides more information about them. The two
-can be integrated.
+may also have a profile page that provides more information about them.
 
 Finally, an _RSS feed_ allows users to subscribe to a blog so that they get
-notified when new posts are published. RSS Feed readers are often used to access
+notified when you publish new posts. RSS Feed readers are often used to access
 blogs that a user follows. They usually support downloading the blog content for
 offline consumption.
 
 ## 4. Setting up a blog
 
-The blog plugin is part of Material for MkDocs but needs to be configured in the
-`mkdocs.yml`.
+The blog plugin is part of Material for MkDocs but you needs to configure it
+in the `mkdocs.yml`.
 
 !!! example "Set up a blog"
 
@@ -150,9 +149,9 @@ Each post _must_ have a page header, which appears at the top of the Markdown
 code between lines with three dashes. Within this header, you need to have at
 least a `date` entry but you can add other data, as you will see below.
 Following the header comes the page content, which is any Markdown. Note,
-however, that it is important to have a level one heading as this will be used
-to produce the _slug_. Also, you can define where the extract will end that is
-shown on the index page by adding `<!-- more -->` (an HTML comment) to the page.
+however, that it is important to have a level one heading as the plugin uses it
+to produce the _slug_. Also, by adding `<!-- more -->` to the page, you can
+define where the extract will end that the index page shows.
 
 !!! example "Write your first post"
 
@@ -185,9 +184,8 @@ shown on the index page by adding `<!-- more -->` (an HTML comment) to the page.
 ## 5. Drafts, edits, pinning, slugs
 
 You may want to produce a draft of a blog post and work with it locally but
-exclude it from the build that you will publish until it is finished. You can
-add a field to the page header to indicate that a post is still in draft form
-and should not be published.
+exclude it from the build that you publish. You can add a field to the page
+header to indicate that a post is still in draft form.
 
 !!! example "Create a draft"
 
@@ -244,7 +242,7 @@ a folder to keep your drafts in and use the [Meta plugin] to add the
       - meta
     ```
 
-    Now create the folder for 
+    Now create the folder for
 
     === "MacOS/Linux"
 
@@ -263,13 +261,12 @@ a folder to keep your drafts in and use the [Meta plugin] to add the
 
     Add another blog post and store it in `docs/blog/posts/drafts`. When you
     look at it locally, you will see the label that identifies it as a draft,
-    while in the version built for publication it does not appear. To move a 
+    while in the version built for publication it does not appear. To move a
     post from draft status to published, simply move it outside `drafts/`.
 
 Sometimes, bloggers need to update a post. This might happen when they have made
-a mistake or when something changes that need to be reflected in the post. It is
-good practice to indicate that a post has been edited. One way this can be done
-is to include an edit date in the page header:
+a mistake or when something changes they need to reflect in the post. To
+indicate you have edited a post, you can include an edit date in the page header:
 
 !!! example "Editing a post"
 
@@ -284,7 +281,7 @@ is to include an edit date in the page header:
 
 Sometimes, blog authors want to 'pin' a specific post so that it will always
 appear at the top of the index page, no matter what else gets published. If you
-are using the [Insiders edition], you can achieve this by adding the `pin` 
+are using the [Insiders edition], you can achieve this by adding the `pin`
 attribute in the page header:
 
 !!! example "Pin a post <!-- md:sponsors -->"
@@ -297,13 +294,13 @@ attribute in the page header:
     updated: 2024-01-02
     pin: true
     ---
-    ``` 
-    
+    ```
+
     Observe how this makes the post appear on top of the index page even though
     its publication date is prior to other posts.
 
 Another useful header attribute is `slug`, which allows you to define the slug
-for your post instead of having it auto-generated by the Blog plugin. 
+for your post instead of having it auto-generated by the Blog plugin.
 
 !!! example "Change slug"
 
@@ -317,11 +314,11 @@ for your post instead of having it auto-generated by the Blog plugin.
     pin: true
     slug: ny-eve
     ---
-    ``` 
-    
+    ```
+
     The URL for this post should now be
     `http://localhost:8000/blog/2023/01/31/ny-eve/`.
-    
+
 
 ## 6. Defining authors
 
@@ -334,14 +331,14 @@ the page header.
 
     Create a file `docs/blog/.authors.yml` with this content:
 
-    ```yaml 
+    ```yaml
     authors:
       material:
         name: Material Team
         description: Creator
         avatar: https://simpleicons.org/icons/materialformkdocs.svg
       mkdocs:
-        name: 
+        name:
     ```
 
     and then add a line to the header of the first post:
@@ -402,18 +399,18 @@ information about the author.
     As you can see, the author index gets appended to the content you have
     written in the Markdown file.
 
-## 7. Integrating Navigation
+## 7. Integrating navigation
 
 So far, you have let the Blog plugin and MkDocs worry about navigation. For some
 use cases, this might be enough and it is simple sufficient to not declare a
-`nav` section in the `mkdocs.yml`. 
+`nav` section in the `mkdocs.yml`.
 
-However, in many projects a blog needs to be integrated with other content and a
-navigation structure that is defined in the `nav` section of the configuration.
-In such cases, you need to provide a place where the Blog plugin is meant to
+However, you may want to integrate a blog with other content and a navigation
+structure that you have defined in the `nav` section of the configuration.
+In such cases, you need to provide a place where the Blog plugin should
 attach the blog navigation to the rest of the navigation structure.
 
-Note that all you need to do is to add an entry 
+Note that all you need to do is to add an entry
 
 !!! example "Integrate with site navigation"
 
@@ -421,7 +418,7 @@ Note that all you need to do is to add an entry
     integrate the blog navigation with the overall navigation structure.
 
     ```yaml hl_lines="5"
-    nav: 
+    nav:
       - Home: index.md
       - Install: install.md
       - Usage: usage.md
@@ -444,7 +441,7 @@ Note that all you need to do is to add an entry
 Categories are a way to make blog posts accessible by topic while retaining
 the navigation structure based on chronology within each category listing.
 Use categories when there is a limited set of non-overlapping categories that
-your posts can be organised into.
+you can categorize your posts into.
 
 Categories appear in the main navigation, so are directly accessible from there.
 This implies that there are relatively few categories as otherwise the
@@ -481,7 +478,7 @@ This implies that there are relatively few categories as otherwise the
 
 Material allows you to control what categories can be used by declaring them in
 the `mkdocs.yml`. This way you can make sure that authors stick to agreed
-categories and that typos are detected.
+categories and that the plugin detects typos.
 
 !!! example "Control your categories"
 
@@ -499,7 +496,7 @@ categories and that typos are detected.
     ```
 
     Now, then you add a category to a blog post that does not match one of these
-    two, you should get a build error. 
+    two, you should get a build error.
 
 ## 8. Using tags
 
@@ -511,9 +508,9 @@ of the navigation hierarchy.
 [Tags plugin]: https://squidfunk.github.io/mkdocs-material/plugins/tags/
 
 You may have a tutorial, like this one, showcasing features, a more
-comprehensive setup guide, as well as reference documentation. Adding the same 
+comprehensive setup guide, as well as reference documentation. Adding the same
 tag to all three shows that they are related. As you will see, it is possible to
-navigate from a page that is tagged to the tag index and, from there, to other
+navigate from a tagged page to the tag index and, from there, to other
 pages that carry the same tag.
 
 !!! example "Enable the plugin"
@@ -531,8 +528,6 @@ pages that carry the same tag.
       - tags
     ```
 
-    Once this is done, you can 
+    Once this is done, you can
 
-## x. 
-## X. Pagination 
-## 
+## 9. Pagination
