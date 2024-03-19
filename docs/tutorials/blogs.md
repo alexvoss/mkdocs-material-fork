@@ -5,7 +5,7 @@ __Content:__ The tutorial guides you through the process of configuring the
 [blog plugin], creating posts, setting up authors, providing secondary navigation
 with tags and producing an RSS feed.
 
-[blog plugin]: ../../plugins/blog
+[blog plugin]: ../plugins/blog.md
 
 __Prerequisites:__ This tutorial assumes that you have installed either the
 [public version] or the [Insiders edition] of Material for MkDocs and that you have
@@ -14,9 +14,9 @@ we use the Insiders edition, we mark these with the heart icon:
 <!-- md:sponsors --> If you are using the public version then you can skip these
 steps.
 
-[public version]: ../../getting-started
-[Insiders edition]: ../../insiders/getting-started
-[Creating your site]: ../../creating-your-site
+[public version]: ../getting-started.md
+[Insiders edition]: ../insiders/getting-started.md
+[Creating your site]: ../creating-your-site.md
 
 
 __Outcomes:__ After working through the tutorial, you will have learned how to
