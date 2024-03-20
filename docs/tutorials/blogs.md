@@ -518,6 +518,23 @@ Note that all you need to do is to add an entry
         - navigation.indexes
     ```
 
+!!! tip "Stand-alone blog"
+
+    If what you need is a stand-alone blog instead of one that is integrated with
+    a larger site, this can be done by using the `blog_dir` configuration option.
+    To see how this is done, see [Setting up a blog].
+    The rest of the tutorial assumes that you are integrating the blog with
+    a wider site.
+
+[Setting up a blog]: ../setup/setting-up-a-blog.md#blog-only
+
+!!! tip "Adding pages"
+
+    You can add pages to the blog section by putting them into `docs/blog`
+    and adding them to the navigation. The generated blog index pages
+    (archive and categories) will be added to the navigation after these
+    pages. We will see this below when we add a tag index.
+
 ## 8. Using categories
 
 Categories are a way to make blog posts accessible by topic while retaining
