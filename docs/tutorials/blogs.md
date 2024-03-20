@@ -498,6 +498,9 @@ Note that all you need to do is to add an entry
 
     Add the following to your `mkdocs.yml` to see how the Blog plugin can
     integrate the blog navigation with the overall navigation structure.
+    Note that you do not need to add the individual blog posts to the navigation
+    structure, nor placeholders for index pages. The Blog plugin will take care
+    of that.
 
     ```yaml hl_lines="5"
     nav:
@@ -507,6 +510,8 @@ Note that all you need to do is to add an entry
       - Blog:
          - blog/index.md
     ```
+
+
 
     You will notice that "Blog" is duplicated in the navigation structure. To
     avoid this, you can use the `navigation.indexes` feature:
@@ -534,6 +539,7 @@ Note that all you need to do is to add an entry
     and adding them to the navigation. The generated blog index pages
     (archive and categories) will be added to the navigation after these
     pages. We will see this below when we add a tag index.
+
 
 ## 8. Using categories
 
