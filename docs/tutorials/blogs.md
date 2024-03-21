@@ -9,10 +9,12 @@ with tags and producing an RSS feed.
 
 __Prerequisites:__ This tutorial assumes that you have installed either the
 [public version] or the [Insiders edition] of Material for MkDocs and that you have
-worked through the [Creating your site] setup guide. Note that where features
+worked through the [Creating your site] setup guide. Note that where the features
 we use the Insiders edition, we mark these with the heart icon:
 <!-- md:sponsors --> If you are using the public version then you can skip these
-steps.
+steps. Sometimes there will be ways of achieving the same goal that differ
+between the public version and the Insider edition. In that case, we will show
+them in a tabbed view so you can see one or the other.
 
 [public version]: ../getting-started.md
 [Insiders edition]: ../insiders/getting-started.md
@@ -70,29 +72,31 @@ expected reading time is.
 
 Since the blog posts are primarily arranged by time and not into a hierarchy,
 their URLs do not reflect such a structure. Instead, each post's URL usually
-contains a shortened description, the _slug_.
+contains a shortened description, the _slug_, which is usually derived from
+the first heading in the post.
 
 The main navigation structure is the timeline, which you can subdivide into
 _categories_. In addition, posts can be _tagged_ to provide an additional
-navigation structure based on content rather than time of posting.
+navigation structure based on content.
 
 The navigation elements in the blog are the timeline, with the main index page
 showing a given number of posts and an _archive_ section allowing access to
 older posts, organized by year. The _categories_ section provides access to
-index pages for the category index pages. In addition, when using tagging,
-tag index pages can also be available in the navigation.
+index pages for the categories. In addition, when using tagging, you can also
+create tag index pages.
 
-An _author index_ may show all the posts by an individual author. Each author
-may also have a profile page that provides more information about them.
+Navigaton by _author_ helps users to find posts by a specific user when there
+are more than one. Each author index page lists posts by that author in reverse
+chronological order and can provice more information about them.
 
 Finally, an _RSS feed_ allows users to subscribe to a blog so that they get
 notified when you publish new posts. RSS Feed readers are often used to access
 blogs that a user follows. They usually support downloading the blog content for
 offline consumption.
 
-## 4. Setting up a blog
+## 4. Setting up your blog
 
-The blog plugin is part of Material for MkDocs but you needs to configure it
+The blog plugin is part of Material for MkDocs but you need to configure it
 in the `mkdocs.yml`.
 
 !!! example "Set up a blog"
@@ -143,15 +147,15 @@ not exist, so simply run a MkDocs build:
 
 Now you can create your first blog post in `docs/blog/posts`. You can use any
 naming convention and directory structure you like for your posts, as long as
-they are inside  `docs/blog/posts`.
+they are inside `docs/blog/posts`.
 
 Each post _must_ have a page header, which appears at the top of the Markdown
 code between lines with three dashes. Within this header, you need to have at
 least a `date` entry but you can add other data, as you will see below.
-Following the header comes the page content, which is any Markdown. Note,
-however, that it is important to have a level one heading as the plugin uses it
-to produce the _slug_. Also, by adding `<!-- more -->` to the page, you can
-define where the extract will end that the index page shows.
+Following the header comes the page content. Note, however, that it is important
+to have a level one heading as the plugin uses it to produce the _slug_. Also,
+by adding `<!-- more -->` to the page, you can define where the excerpt will end
+that the index page shows.
 
 !!! example "Write your first post"
 
@@ -210,8 +214,8 @@ header to indicate that a post is still in draft form.
     ```
 
     Now, note how the draft appears on the index page but with a label that
-    indicates that it is a draft. Now, crucially, when you run `mkdocs build`,
-    the draft will not appear in the output:
+    indicates that it is a draft. When you run `mkdocs build`, the draft will
+    _not_ appear in the output:
 
     === "MacOS/Linux"
         ```
@@ -233,7 +237,7 @@ a folder to keep your drafts in and use the [Meta plugin] to add the
 
 [Meta plugin]: ../plugins/meta.md
 
-!!! example "Drafts using the Meta plugin<!-- md:sponsors -->"
+!!! example "Drafts using the Meta plugin <!-- md:sponsors -->"
 
     You first need to activate the plugin in your `mkdocs.yaml`:
 
@@ -244,7 +248,7 @@ a folder to keep your drafts in and use the [Meta plugin] to add the
       - meta
     ```
 
-    Now create the folder for
+    Now create the folder for the drafts:
 
     === "MacOS/Linux"
 
@@ -336,7 +340,8 @@ attribute in the page header:
 ### Custom slugs
 
 Another useful header attribute is `slug`, which allows you to define the slug
-for your post instead of having it auto-generated by the Blog plugin.
+for your post instead of having it auto-generated by the Blog plugin from the
+first heading.
 
 !!! example "Change slug"
 
@@ -419,8 +424,10 @@ the page header.
         name: Material Team
         description: Creator
         avatar: https://simpleicons.org/icons/materialformkdocs.svg
-      mkdocs:
-        name:
+      quidfunk:
+        name: Martin Donath
+        description: Creator
+        avatar: https://github.com/squidfunk.png
     ```
 
     and then add a line to the header of the first post:
@@ -435,18 +442,17 @@ the page header.
     ---
     ```
 
-    Note that `authors` is a list, so you can specify multiple authors. is a
-    list, so you can specify multiple authors, as you will see below.
+    Note that `authors` is a list, so you can specify multiple authors.
 
 With the Insiders edition, you can create custom author index pages that
 can highlight the contributions of an author as well as provide additional
-information about the author.
+information about them.
 
 !!! example "Add author page <!-- md:sponsors -->"
 
     First, you need to enable author profiles in the `mkdocs.yml`:
 
-    ```yaml
+    ```yaml hl_lines="4"
     plugins:
       - search
       - blog:
@@ -484,15 +490,13 @@ information about the author.
 ## 7. Integrating navigation
 
 So far, you have let the Blog plugin and MkDocs worry about navigation. For some
-use cases, this might be enough and it is simple sufficient to not declare a
+use cases, this might be enough and it is simply sufficient to not declare a
 `nav` section in the `mkdocs.yml`.
 
 However, you may want to integrate a blog with other content and a navigation
 structure that you have defined in the `nav` section of the configuration.
 In such cases, you need to provide a place where the Blog plugin should
 attach the blog navigation to the rest of the navigation structure.
-
-Note that all you need to do is to add an entry
 
 !!! example "Integrate with site navigation"
 
@@ -511,8 +515,6 @@ Note that all you need to do is to add an entry
          - blog/index.md
     ```
 
-
-
     You will notice that "Blog" is duplicated in the navigation structure. To
     avoid this, you can use the `navigation.indexes` feature:
 
@@ -527,7 +529,7 @@ Note that all you need to do is to add an entry
 
     If what you need is a stand-alone blog instead of one that is integrated with
     a larger site, this can be done by using the `blog_dir` configuration option.
-    To see how this is done, see [Setting up a blog].
+    To see how this is done, see [setting up a blog].
     The rest of the tutorial assumes that you are integrating the blog with
     a wider site.
 
@@ -651,9 +653,9 @@ pages that carry the same tag.
     ```
 
 You should see the tags that you defined at the top of the post. However, at the
-moment that is it. While blog plugin automatically creates an index page for
+moment that is it. While the blog plugin automatically creates an index page for
 categories, the tags plugin does not do the same for tags. This is because the
-tags plugin is not specific for blogs but can be used for any site content. So,
+tags plugin is not specific for blogs. You can use it for any site content, so
 it is not obvious were the tag index should go.
 
 You can configure a basic tag index using the public version of Material for
@@ -714,9 +716,11 @@ indexes, scoped listings, shadow tags, nested tags, and much more.
 
 [tags plugin reference]: ../plugins/tags.md
 
-
-
 ## 10. Pagination
 
-Once your blog starts growing, you may not want to
+Once your blog starts growing, you may not want to pay attention to the number
+of posts displayed per page. By default, the plugin displays up to 10 posts on
+the archive and
+
+
 ## 11. Add a discussion system
