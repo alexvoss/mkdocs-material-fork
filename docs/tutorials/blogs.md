@@ -714,6 +714,23 @@ indexes, scoped listings, shadow tags, nested tags, and much more.
         <!-- material/tags -->
         ```
 
+        Now, you may want to keep the tags for your blog separate from tags
+        you use in the rest of your page. You can achieve this by assigning
+        the tag index a scope. Put the following under `docs/blog/tags.md`:
+
+        ```markdown
+        # Tag index  for the blog
+        <!-- material/tags { scope: true } -->
+        ```
+
+        You now have two index pages. One that covers the whole site and one
+        that covers only the blog.
+
+        The tags plugin in the Insider Edition is an incredibly powerful tool
+        and we can only scratch the surface of what is possible with it. If you
+        want to explore more after you have worked for this part of the tutorial,
+        have a look at the [tags plugin reference].
+
 [tags plugin reference]: ../plugins/tags.md
 
 ## 10. Pagination
