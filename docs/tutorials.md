@@ -6,8 +6,8 @@ the getting started guides or the reference documentation, the tutorials show
 the breadth of functionality available with Material for MkDocs but also within
 the wider MkDocs ecosystem.
 
-* [Blogs](blogs.md)
-* [MkDocStrings](mkdocstrings.md)
+* [Blogs](tutorials/blogs.md)
+* [MkDocStrings](tutorials/mkdocstrings.md)
 
 ## Tutorial Structure
 
@@ -17,7 +17,7 @@ a template for your own projects. For convenience, these templates are also
 available as [template repositories on GitHub].
 
 <!-- TODO -->
-[template repositories on GitHub]: ../templates.md
+[template repositories on GitHub]: templates.md
 
 Each tutorial is a single page, so use the Table of Contents navigation to move
 between numbered steps. They start by mentioning prerequisites and giving an
@@ -58,4 +58,3 @@ Note, however, that suggestions should be specific and feasible. We want to
 focus on creating more content instead of developing a specific styling or
 behaviour for the tutorials. If there are worthwhile improvements that can
 be made through simple customization we are happy to consider those.
-
