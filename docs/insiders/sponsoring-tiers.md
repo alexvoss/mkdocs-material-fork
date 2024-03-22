@@ -155,6 +155,23 @@ organizations are asked to sponsor $125 or more. Contributions beyond these
 amounts help us greatly, though one-time donations, regardless of size, will not
 receive Insider access due to technical reasons.
 
+## Upgrading and downgrading
+
+Switching between different sponsoring tiers – [upgrading] or [downgrading] – is
+possible at any time. Simply go to the [GitHub Sponsors] page and change your
+sponsoring tier. Once you make that change, you will immediately change and
+sponsor on the new tier.
+
+If you extend the number of sites that are in your current sponsoring limit, we
+kindly ask you to [upgrade your sponsorship] to a higher tier to continue using
+the Material for MkDocs Insiders edition and build more sites. The change will
+be effective immediately and the amount will be prorated according to your
+[billing cycle].
+
+  [upgrading]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/upgrading-a-sponsorship
+  [downgrading]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/downgrading-a-sponsorship
+  [upgrade]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/upgrading-a-sponsorship
+
 ## Purpose
 
 Understanding the difference between commercial and non-commercial use is key to
