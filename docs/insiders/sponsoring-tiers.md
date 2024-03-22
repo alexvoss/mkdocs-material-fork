@@ -34,7 +34,14 @@ Insiders and the community edition.
 
 Slider: Commercial use | Non-commercial use
 
-### $15 a month
+### Non-commercial use
+
+Non-commercial use of our Material for MkDocs refers to private use. This
+includes individuals using the Insiders edition for private or purely
+non-commercial Open Source projects. We offer two different tiers for
+non-commercial use, depending on the number of sites you want to build.
+
+#### $15 a month
 __The Individual__
 
 _Choose for non-commercial use (1-2 sites)_
@@ -47,7 +54,7 @@ __Rewards:__
 
   - Access to Insiders (one seat)
 
-### $35 a month
+#### $35 a month
 __The Dedicated Individual__
 
 _Choose for non-commercial use (3+ sites)_
@@ -63,7 +70,16 @@ __Rewards:__
 
   - Access to Insiders (two seats)
 
-### $125 a month
+### Commercial use
+
+Commercial use refers to any use of the software for a business or for-profit
+purpose. This includes any use by a corporation or other organization, whether
+or not they generate revenue directly from the software. We offer different
+pricing tiers for commercial use, each tailored to the needs of different
+businesses. It's important to note that internal use of the software within your
+organization is also considered commercial use, as with all commercial software.
+
+#### $125 a month
 __The Organization__
 
 _Choose for commercial use (1-9 sites)_
@@ -80,7 +96,7 @@ __Rewards:__
   - Have your bug reports prioritized
   - Bronze sponsor 🥉 your logo here (S)
 
-### $250 a month
+#### $250 a month
 __The Global Organization__
 
 _Choose for commercial use (10-49 sites)_
@@ -98,7 +114,7 @@ __Rewards:__
   - Have your bug reports prioritized
   - Silver sponsor 🥈 your logo here (M)
 
-### $1,000 a month
+#### $1,000 a month
 __The Holistic Organization__
 
 _Choose for commercial use (50+ sites)_
@@ -171,24 +187,3 @@ be effective immediately and the amount will be prorated according to your
   [upgrading]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/upgrading-a-sponsorship
   [downgrading]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/downgrading-a-sponsorship
   [upgrade]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/upgrading-a-sponsorship
-
-## Purpose
-
-Understanding the difference between commercial and non-commercial use is key to
-selecting the right sponsorship tier for your needs:
-
-### Non-commercial use
-
-Non-commercial use of our Material for MkDocs refers to __private use__. This
-includes individuals using the Insiders edition for private or purely
-non-commercial Open Source projects. We offer two different tiers for
-non-commercial use, depending on the number of sites you want to build.
-
-### Commercial use
-
-Commercial use refers to any use of the software for a business or for-profit
-purpose. This includes any use by a corporation or other organization, whether
-or not they generate revenue directly from the software. We offer different
-pricing tiers for commercial use, each tailored to the needs of different
-businesses. It's important to note that internal use of the software within your
-organization is also considered commercial use, as with all commercial software.
