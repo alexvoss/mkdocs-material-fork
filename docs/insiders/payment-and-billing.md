@@ -1,58 +1,16 @@
 # Payment and billing
 
 
-## One-time payment
-
-One-time donations, while appreciated, cannot support the ongoing development of
-Material for MkDocs as subscriptions do. Our project's growth relies on steady
-support from subscriptions to fund new features, updates, and maintenance.
-Therefore, the Insiders version is not available through a one-time donation.
-
-If monthly payments do not work for you or your company, you can adjust your
-GitHub account's billing cycle to annual instead of monthly and sponsor at the
-appropriate tier.
-
-Why are one-time sponsorships not granted access to Insiders?
-
-We use GitHub webhooks to determine our current active sponsors. When you create
-or cancel your monthly subscription, GitHub sends events that we use to
-automatically add and remove collaborators.
-
-Note that [$15 a month] is the minimum amount to be granted access to Insiders.
-
-## Monthly payment
-
-
-
-## Billing cycle
-
-The [billing cycle] is an account-level setting on GitHub and is set to monthly
-or yearly, according to your preference. You can change your billing cycle in
-your account setting at any time. Before you sponsor Material for MkDocs on one
-of our sponsoring tiers, you can change your [billing cycle] to either monthly
-or yearly, according to your preference.
-
-If you find it challenging to make this change in your account, a practical
-workaround is to create a dedicated GitHub bot account where you set the billing
-cycle to yearly and use it specifically for your sponsorship contributions. This
-is a strategy some of our sponsors have successfully implemented. For any
-difficulties or further inquiries, please don’t hesitate to contact us at
-sponsors@squidfunk.com for support.
-
-  [billing cycle]: https://docs.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/changing-the-duration-of-your-billing-cycle
-
-
 
 ## Payment options
 
-We rely on GitHub
+We rely on [GitHub Sponsors] for the sponsor management. As we host our
+repositories, the commuity edition and the private Insiders edition, we decided
+to
 
 
 
-
-
-
-[GitHub Sponsors] handles all transactions and sponsorships for us. To become a
+handles all transactions and sponsorships for us. To become a
 sponsor of Material for MkDocs, you require a GitHub account.
 
 
@@ -78,7 +36,6 @@ sponsor of Material for MkDocs, you require a GitHub account.
 
 
 - Can I sponsor the project without a GitHub account?
-
 
 #### Credit Card
 
@@ -181,3 +138,40 @@ that you would like to see on the list, we encourage you to
   [overview of these sponsoring goals]: benefits.md#funding-goals
   [initiate a new discussion]: https://github.com/squidfunk/mkdocs-material/discussions
 
+## Billing cycle
+
+The [billing cycle] is an account-level setting on GitHub and is set to monthly
+or yearly, according to your preference. You can change your billing cycle in
+your account setting at any time. Before you sponsor Material for MkDocs on one
+of our sponsoring tiers, you can change your [billing cycle] to either monthly
+or yearly, according to your preference.
+
+If you find it challenging to make this change in your account, a practical
+workaround is to create a dedicated GitHub bot account where you set the billing
+cycle to yearly and use it specifically for your sponsorship contributions. This
+is a strategy some of our sponsors have successfully implemented. For any
+difficulties or further inquiries, please don’t hesitate to contact us at
+sponsors@squidfunk.com for support.
+
+  [billing cycle]: https://docs.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/changing-the-duration-of-your-billing-cycle
+
+## One-time payment
+
+One-time donations, while appreciated, cannot support the ongoing development of
+Material for MkDocs as subscriptions do. Our project's growth relies on steady
+support from subscriptions to fund new features, updates, and maintenance.
+Therefore, the Insiders version is not available through a one-time donation.
+
+If monthly payments do not work for you or your company, you can adjust your
+GitHub account's billing cycle to annual instead of monthly and sponsor at the
+appropriate tier.
+
+Why are one-time sponsorships not granted access to Insiders?
+
+We use GitHub webhooks to determine our current active sponsors. When you create
+or cancel your monthly subscription, GitHub sends events that we use to
+automatically add and remove collaborators.
+
+Note that [$15 a month] is the minimum amount to be granted access to Insiders.
+
+## Monthly payment
