@@ -85,9 +85,9 @@ older posts, organized by year. The _categories_ section provides access to
 index pages for the categories. In addition, when using tagging, you can also
 create tag index pages.
 
-Navigaton by _author_ helps users to find posts by a specific user when there
+Navigation by _author_ helps users to find posts by a specific user when there
 are more than one. Each author index page lists posts by that author in reverse
-chronological order and can provice more information about them.
+chronological order and can provide more information about them.
 
 Finally, an _RSS feed_ allows users to subscribe to a blog so that they get
 notified when you publish new posts. RSS Feed readers are often used to access
@@ -116,7 +116,9 @@ in the `mkdocs.yml`.
     if has the following content:
 
     ```yaml
-    site_name: Blog Template
+    site_name: Blog Tutorial
+    site_description: an example blog set up following the tutorial
+    site_url: http://www.example.com
 
     theme:
       name: material
@@ -740,4 +742,144 @@ of posts displayed per page. By default, the plugin displays up to 10 posts on
 the archive and
 
 
-## 11. Add a discussion system
+
+
+## 11. Social Media
+
+The blog plugin works well with the social plugin, which creates social cards
+for all pages, including blog posts. Social cards are images that other systems
+such as social media can display as a preview for content linked to.
+It is easy to get started with the social plugin, true to the motto of
+Material with MkDocs: "batteries included."
+
+!!! example "Add social cards"
+
+    To add social cards to your blog you need to install some dependencies.
+    These differ depending on what operating system you use.
+
+    TODO: paste in installation instructions here - use snippets since this is
+    a lot of duplicated material?
+
+    Once these prerequisites are fulfilled, you can simply add the social plugin
+    to your list of plugins:
+
+    ```yaml hl_lines="10"
+        plugins:
+            - search
+            - blog:
+                authors_profiles: true
+                categories_allowed:
+                    - Holidays
+                    - News
+            - tags:
+                tags_file: blog/tags.md
+            - social
+    ```
+
+    Now, then you run `mkdocs build` and look at the `site` directory, you will
+    see that it contains subfolders under `assets/images/social` that reflect
+    the structure of your Markdown files. Each page has a corresponding PNG file
+    that contains the social card image. Of interest here are the social cards
+    for the blog posts, so have a look at them.
+
+    TODO: posting them to social media - demo with Mastodon?
+
+## 12. Meta Plugin
+
+
+
+## 13. RSS Feeds
+
+Your readers can subscribe to a blog if you configure an RSS feed for it. An
+easy way to do this is with the [MkDocs RSS Plugin], which is will integrated
+with Material for MkDocs. Being a third-party plugin, it needs to be installed
+before it can be used.
+
+[MkDocs RSS Plugin]: https://guts.github.io/mkdocs-rss-plugin
+
+!!! example "Add an RSS feed"
+
+    Install the RSS plugin into your project:
+
+    ```
+    $ pip install mkdocs-rss-plugin
+    ```
+
+    It is important that have the `site_name`, `site_description` and
+    `site_url` settings configured as instructed in [4. Setting up your blog].
+    The RSS plugin makes use of this information to construct the feed, so make
+    sure you have configured them:
+
+    [4. Setting up your blog]: #4-setting-up-your-blog
+
+    Now, configure it in the `mkdocs.yml` in the `plugins` section.
+
+    ```yaml hl_lines="9"
+    plugins:
+        - search
+        - blog:
+            authors_profiles: true
+            categories_allowed:
+            - Holidays
+            - News
+        - tags
+        - rss
+    ```
+
+    Have a look at http://localhost:8000/feed_rss_created.xml to see the RSS
+    feed in all its XML glory. You can use a browser like Firefox or Chrome.
+
+    Unfortunately, Safari will always look for an app for RSS feeds and will not
+    display anything itself. Alternatively, you can use `curl` to get the feed
+    and `xmllint` to format it:
+
+    ```
+    curl -s http://localhost:8000/feed_rss_created.xml | xmllint --format -
+    ```
+
+    You way want to try your feed with a feed reader. There are various desktop
+    and mobile apps as well as online services. Of course, to use the latter you
+    will need to deploy your project somewhere that is accessible to them.
+
+This minimal configuration should work well if you have not made any changes
+to the default configuration of the blog plugin.
+
+The table below summarizes how the plugin constructs information for the feed
+itself and what configuration options you can use modify the defaults. Required
+RSS element are marked with an asterisk.
+
+| RSS element      | default                    | configure |
+| ---------------- | -------------------------- | :-------: |
+| `title`*         | `site_name`                |           |
+| `description`*   | `site_description`         |           |
+| `link`*          | `site_url`                 |           |
+| `atom:link`      | `site_url` + feed path     |           |
+| `managingEditor` | `site_author`              |           |
+| `copyright`      | `copyright`                |           |
+| `language`       | `theme/language`           |           |
+| `pubDate`        | MkDocs build timestamp     |           |
+| `lastBuildDate`  | MkDocs build timestamp     |           |
+| `ttl`            | 1440                       |           |
+| `generator`      | MkDocs RSS plugin - v1.8.0 | NA        |
+
+An RSS feed can have an image associated with it. The default image that the
+RSS plugin uses is the site logo. You can use the `image` option if you want
+a different image associated with the feed.
+
+??? tip "`pubDate` vs. `lastBuildDate`"
+
+    The RSS standard specifies to dates that can describe a feed: `pubDate` and
+    `lastBuildDate`. The RSS standard does not define these well as the
+    definitions given are largely tautological. In his book [Developing Feeds
+    with RSS and Atom], Ben Hammersley gives a better explanation of the values
+    of these fields:
+
+    `pubDate` is the publication date and can be in the future, while the
+    `lastBuildDate` states when the feed was last updated, so is always in the
+    past.  Because these fields are not well defined, it is not certain what an
+    RSS reader will make of them.
+
+[Developing Feeds with RSS and Atom]: https://learning.oreilly.com/library/view/developing-feeds-with/0596008813/
+
+
+## 14. Add a discussion system
