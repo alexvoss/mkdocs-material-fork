@@ -784,6 +784,133 @@ Material with MkDocs: "batteries included."
 
     TODO: posting them to social media - demo with Mastodon?
 
+Now, the social plugin provides a number of default layouts and configuration
+options for changing aspects such as colors, images, fonts, logos, the title,
+even the description.
+
+
+!!! example "Changing background color"
+
+    For example, to set the background color to an attention-grabbing hot pink,
+    you might add:
+
+    ```yaml hl_lines="4 5"
+    plugins:
+    ...
+    - social:
+        cards_layout_options:
+            background_color: "#ff1493"
+    ```
+
+!!! tip "Override card layout in page header <!-- md:sponsors -->"
+
+    With the Insider Edition, you can customize the card layout for each
+    page by adding settings to the page header. So, you want only certain
+    cards to be in hot pink:
+
+    ```yaml
+    ---
+    social:
+      cards_layout_options:
+        background_color: "#ff1493"
+    ---
+    ```
+
+### Custom cards <!-- md:sponsors -->
+
+In the context of a blog, you may want to have more than just the blog post
+title on the card. In the Insiders Edition, the social plugin allows you not
+just to configure the existing layouts but also to develop your own from scratch
+that contain the content that you need.
+
+!!! example "Custom layout for events <!-- md:sponsors -->"
+
+    For example, you may want to include the date of an event on the social
+    card as well as a calendar icon to indicate that the card leads to an
+    event page when clicked on.
+
+    First, copy the default social card layout from your installation of Material
+    for MkDocs to a new directory `layouts`. The instructions below assume you
+    are in your project root and have a virtual environment within this. The
+    path on your machine, of course may differ.
+
+    ```
+    $ mkdir layouts
+    $ cp venv/lib/python3.12/site-packages/material/plugins/social/templates/default.yml \
+      layouts/event.yml
+    ```
+
+    Have a look at the file contents. You will see that there are:
+
+    * a number of definitions of content that is pulled from the site,
+    * definitions of tags that end up in the `meta` elements in the page header
+      of each page when it is generated,
+    * a specification that consists of a number of layers that are applied on
+      top of each other in the order in which they are defined.
+
+    Before configuring the social cards, you need to tell the plugin where to
+    find them, so add the following to the plugin configuration in your
+    `mkdocs.yml`:
+
+    ``` yaml hl_lines="2"
+    - social:
+        cards_layout_dir: layouts
+    ```
+
+    To include an event date and location, it makes sense to use information in
+    the header of a post, also specifying that the new event layout is to be
+    used. Create a new blog post:
+
+    ```yaml
+    ---
+    date: 2024-04-03
+    tags:
+      - events
+    social:
+      cards_layout: event
+    event:
+      date: 2024-04-08
+      location: Online
+    ---
+
+    # Introduction to Material for MkDocs
+    ```
+
+    Given this data, we can add some code to the layout that pulls it out and
+    makes it available to be rendered later on. Add the following at the top
+    of the layout file:
+
+    ```yaml hl_lines="2-99"
+    definitions:
+      - &event >-
+        {%- if 'event' in page.meta %}
+            {%- if 'date' in page.meta['event'] %}
+                {{ "%s - " | format(page.meta['event']['date'].strftime('%d %B %Y')) }}
+            {%- else -%}
+                Date is undefined!
+            {%- endif -%}
+            {%- if 'location' in page.meta['event'] -%}
+                {{ page.meta['event']['location'] }}
+            {%- else -%}
+                Location is undefined!
+            {%- endif -%}
+        {%- else -%}
+            No event data defined!
+        {%- endif -%}
+    ```
+
+    Now, add a new layer to te ones already present that renders the date and
+    location:
+
+    ```yaml
+      - size: { width: 990, height: 50 }
+        offset: { x: 50, y: 360 }
+        typography:
+        content: *event
+        align: start
+        color: *color
+    ```
+
 ## 12. Meta Plugin
 
 
