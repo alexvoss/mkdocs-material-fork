@@ -235,42 +235,10 @@ header to indicate that a post is still in draft form.
 
 If you are using the [Insiders edition], you can also create
 a folder to keep your drafts in and use the [Meta plugin] to add the
-`draft` header setting to all the posts in that folder.
+`draft` header setting to all the posts in that folder. We will cover the
+Meta plugin later on.
 
 [Meta plugin]: ../plugins/meta.md
-
-!!! example "Drafts using the Meta plugin <!-- md:sponsors -->"
-
-    You first need to activate the plugin in your `mkdocs.yaml`:
-
-    ```yaml hl_lines="4"
-    plugins:
-      - search
-      - blog
-      - meta
-    ```
-
-    Now create the folder for the drafts:
-
-    === "MacOS/Linux"
-
-        ```bash
-        $ mkdir docs/blog/posts/drafts
-        ```
-
-    === "Windows"
-        TODO
-
-    Now, within this folder, crate a file `.meta.yml` that contains:
-
-    ```yaml
-    draft: true
-    ```
-
-    Add another blog post and store it in `docs/blog/posts/drafts`. When you
-    look at it locally, you will see the label that identifies it as a draft,
-    while in the version built for publication it does not appear. To move a
-    post from draft status to published, simply move it outside `drafts/`.
 
 ### Edits
 
@@ -913,7 +881,104 @@ that contain the content that you need.
 
 ## 12. Meta Plugin
 
+The Meta plugin is available in the Insiders Edition <!-- md:sponsors -->.
+It helps simplify the management of metadata that is common to a group of
+files that reside in the same subdirectory. Instead of having to repeat the
+same metadata in the page headers of a number of files, you can add a
+`.meta.yml` file in the directory and the contents will be merged into the
+headers of all the pages contained.
 
+For example, you may want to manage drafts by keeping them in a directory
+together so that they are not only flagged as drafts but also easier to find.
+(Otherwise, you would need to inspect the page headers or trace back from the
+output to the files.)
+
+!!! example "Drafts using the Meta plugin <!-- md:sponsors -->"
+
+    You first need to activate the plugin in your `mkdocs.yaml`:
+
+    ```yaml hl_lines="4"
+    plugins:
+      - search
+      - blog
+      - meta
+    ```
+
+    Now create the folder for the drafts:
+
+    === "MacOS/Linux"
+
+        ```bash
+        $ mkdir docs/blog/posts/drafts
+        ```
+
+    === "Windows"
+        TODO
+
+    Now, within this folder, crate a file `.meta.yml` that contains:
+
+    ```yaml
+    draft: true
+    ```
+
+    Add another blog post and store it in `docs/blog/posts/drafts`. When you
+    look at it locally, you will see the label that identifies it as a draft,
+    while in the version built for publication it does not appear. To move a
+    post from draft status to published, simply move it outside `drafts/`.
+
+Another example of the use of the Meta plugin is setting the metadata for the
+social plugin. Imagine you have a custom layout for events and need to apply
+this to specific blog posts. You can simply keep all posts that are event
+announcements in a subdirectory `events` and add a `.meta.yml` that contains
+the necessary metadata:
+
+!!! example "Creating event social cards with the Meta plugin <!-- md:sponsors -->"
+
+    First, create the folder for the events:
+
+    === "MacOS/Linux"
+
+        ```bash
+        $ mkdir docs/blog/posts/events
+        ```
+
+    === "Windows"
+
+        TODO
+
+    Now, add a `.meta.yaml` file with content to configure the social cards
+    for these posts. You may also want to add the `event` tag while you are at
+    it:
+
+    ```yaml
+    social:
+        cards_layout: event
+    tags:
+      - events
+    ```
+
+    Now, create a post in `docs/blog/posts/events` with the following header:
+
+    ```yaml
+    ----
+    date: 2024-04-03
+    tags:
+        - material
+        - documentation
+        - made easy
+    event:
+        date: 2024-04-08
+        location: Online
+    ----
+    ```
+
+    Build and inspect the result. You should see that the correct social card
+    layout was used and that the `events` tag was added to the list of tags
+    defined in the post itself.
+
+While merging the data from the `.meta.yml` file, settings from the page header
+take precedence, so you can always override settings by adding them to the
+post itself.
 
 ## 13. RSS Feeds
 
