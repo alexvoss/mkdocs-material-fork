@@ -879,6 +879,16 @@ that contain the content that you need.
         color: *color
     ```
 
+!!! tip "Debugging layout files"
+
+    Should you find that your layouts are causing your MkDocs build to fail,
+    there are a number of things you can do:
+
+    1. Run Mkdocs with the `--verbose` option to get more detailed reporting.
+    2. Comment out things you recently added or that you suspect are the cause
+    3. Install the `jinja2` command-line tool with `pip install Jinja2` and
+       run it over your layout file, for example: `jinja2 event.yml`.
+
 ## 12. Meta Plugin
 
 The Meta plugin is available in the Insiders Edition <!-- md:sponsors -->.
