@@ -5,7 +5,7 @@ everyone can freely share their knowledge and insights. Our commitment is to
 support our community to the fullest, balancing this communication with the
 critical development of Material for MkDocs. To ensure efficiency,
 effectiveness and avoid double content, we try to guide you towards the most
-suitable channel below to connect you with the right assistance.
+suitable channel.
 
 ## Sponsoring support
 
@@ -53,7 +53,7 @@ policy] which helps maintain the integrity and security of the Insiders edition.
   [public issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
   [fair use policy]:
 
-### Prioritized bug support
+### Prioritized support
 
 Organizational sponsors at "The Organization" tier or above receive prioritized
 bug support. This doesn't mean skipping the queue but ensuring your concerns are

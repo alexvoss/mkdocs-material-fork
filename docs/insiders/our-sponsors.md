@@ -1,5 +1,8 @@
 # Our sponsors
 
+Intro
+
+
 LIST ALL SPONSORS
 
 <hr />
@@ -21,7 +24,6 @@ If you sponsor publicly, you're automatically added here with a link to your
 profile and avatar to show your support for Material for MkDocs. Alternatively,
 if you wish to keep your sponsorship private, you'll be a silent +1. You can
 select visibility during checkout and change it afterwards.
-
 
 ## Our Premium Sponsors
 

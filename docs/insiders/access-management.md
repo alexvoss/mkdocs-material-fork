@@ -1,20 +1,21 @@
 # Access management
 
 The Material for MkDocs Insiders repository is a private repository hosted on
-GitHub access is, therefore, managed through GitHub itself. If you're wondering
-how access is managed and how sharing your access with your team works, you'll
-find everything you need to know on this page.
+GitHub and access is, therefore, managed through GitHub. If you're wondering how
+to get access to Insiders once you initiated your sponsorship and how you can
+share access with your team, you'll find everything you need to know below.
 
 ## How to get access
 
 As the private Material for MkDocs Insiders repository is hosted on GitHub, you
 require a GitHub account to become a sponsor and to gain access. After
-sponsoring us on one of our [sponsoring tiers] starting at $15/monthly, we
+sponsoring us on one of our [sponsoring tiers] starting at [$15 a month], we
 prioritize providing you with immediate access to the private Material for
 MkDocs Insiders repository. The process of gaining access is partially automated.
-Depending on the type of account you've used to become a sponsor, we might need
-more information from you before we can grant access.
+However, depending on the type of account you've used to become a sponsor, we
+might need more information from you before we can grant access.
 
+  [$15 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210638
   [sponsoring tiers]: sponsoring-tiers.md
 
 ### Individuals
@@ -22,28 +23,29 @@ more information from you before we can grant access.
 If you sponsor using a [personal account], you will receive an invitation link
 via email to the private Material for MkDocs Insiders repository immediately
 after initiating your sponsorship. This invitation, automatically issued by
-GitHub is valid for seven days. Once [accepted within this time], you'll be
+GitHub is [valid for seven days]. Once you accept the invitation, you'll be
 ready to [get started].
 
   [personal account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
-  [accepted within this time]: #expired-invitations
+  [valid for seven days]: #expired-invitations
   [get started]: installation.md
 
 ### Organizations
 
-Sponsoring through an [organization account], please note that GitHub will not
-send an invitation via email to access the private Material for MkDocs Insiders
-repository due to [GitHub limitations]. It is not possible to grant access to an
-[organization account]. Therefore, if you've sponsored using an organization
-account, contact us at sponsors@squidfunk.com with the names of up to three
-[personal accounts] or one [bot account] that is publicly or privately listed
-as owners of your GitHub organization. We will add these designated accounts as
-collaborators, and once the invitation is accepted within seven days, you'll be
-all set to [get started].
+When sponsoring using an [organization account], please note that GitHub will
+not send an automated invitation via email to access the private Material for
+MkDocs Insiders repository. Due to [GitHub limitations], granting access to a
+private repository for organization accounts is not possible. Therefore, please
+contact us at sponsors@squidfunk.com with the names of [personal accounts] or a
+[bot account] that is publicly or privately listed as owners of your GitHub
+organization immediately after initiating your sponsorship. We will add these
+designated accounts as collaborators, and once the invitations are [accepted
+within seven days], your organization will be all set to [get started].
 
   [organization account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
-  [GitHub limitations]: #collaborators
+  [GitHub limitations]: #collaboratorsr
   [bot account]: #bot-account
+  [accepted within seven days]: #expired-invitations
 
 ### Enterprises
 
@@ -56,7 +58,8 @@ access the private Material for MkDocs Insiders repository using this account.
 ## Restrictions
 
 GitHub sets limitations beyond our control, which is why we require further
-information regarding [collaborators] and [matching].
+information regarding [collaborators] of private repositories and [matching] of
+GitHub accounts.
 
   [collaborators]: #collaborators
   [matching]: #matching
@@ -66,12 +69,14 @@ information regarding [collaborators] and [matching].
 GitHub policy limits access to [private repositories] to [personal accounts]
 only, which is why it is currently not possible for us to add [organization
 accounts] to the Material for MkDocs Insiders repository, which is a private
-repository. Therefore, it is not feasible for us to add each member of an
-organization as collaborators.
+repository. However, as much as we would love to give each member of your
+organization access, it is simply not feasible for us to add, which is why each
+[sponsoring tier] has limited seats.
 
   [private repositories]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
   [personal accounts]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts
   [organization accounts]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
+  [sponsoring tier]: sponsoring-tiers.md
 
 ### Matching
 
@@ -86,10 +91,11 @@ Given that only personal accounts can be listed as collaborators on
 coordination through individuals. Changes within the team could lead to losing
 access to the entire organization. To avoid this, you have two options:
 
-  - Add multiple personal accounts as collaborators
-  - Create and add a bot account, which is [a new personal account] that does
-  not belong to a specific individual but is publicly or privately listed as the
-  owner of the GitHub organization
+  - Choose a sponsoring tier with multiple seats to add additional accounts as
+  collaborators
+  - Create a bot account, which is [a new personal account] that does not belong
+  to a specific individual but is publicly or privately listed as the owner of
+  the GitHub organization and name this as the collaborator
 
 Employing a bot account for access management and initiating your public or
 [private] sponsorship offers a streamlined approach to handling all of your
@@ -101,20 +107,20 @@ through a single account.
 
 ## Expired invitations
 
-If the invitation is not accepted within the period of seven days, you'll
-need to contact us via mail at sponsors@squidfunk.com, and we will issue the
-invitation to the private Material for MkDocs Insiders repository again.
+The invitation to the private Material for MkDocs is valid for seven days. This
+is a default setting from GitHub. If invitations are not accepted within this
+period, you'll need to contact us via mail at sponsors@squidfunk.com, and we
+will issue the invitation to the private Material for MkDocs Insiders repository
+again.
 
 ## Team management
 
 If you are using Material for MkDocs Insiders as an [Individual] and do not work
 with a team, [forking] the private repository is not necessary. However, when
-working with a team that would like to use the Material for MkDocs Insiders
-features with you, it is – at this moment – not possible to share your
-collaborator status with other accounts. In order to work in a team, the
-personal or bot account holding collaborator access can [fork], [clone], or
-[mirror] the private Material for MkDocs Insiders repository, providing a
-pathway for team collaboration.
+working with a team, it is – at this moment – not possible to simply share your
+collaborator status with other accounts. Therefore, in order to work in a team,
+the collaborator account can [fork], [clone], or [mirror] the private Material
+for MkDocs Insiders repository, providing a pathway for team collaboration.
 
   [fork]: #forking
   [clone]: #cloning

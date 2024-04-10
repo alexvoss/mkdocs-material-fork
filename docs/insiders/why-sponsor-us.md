@@ -3,7 +3,7 @@
 
 ## Open Source
 
-The world runs on open Source
+The world runs on open source
 
 ### Future of open source
 
@@ -11,6 +11,8 @@ Open source = free?
 Highlight the importance of sponsorship
 
 ### Sponsorware
+
+
 
 ## Our impact
 
@@ -61,6 +63,8 @@ Sustainability: Ensures that Material for MkDocs remains up-to-date, secure, and
 Community Support: Helps us provide timely support and resources to the community, fostering growth and learning.
 
 ## Who we are
+
+
 
 Team & Funding
 Who is behind the project/Who is working on it?

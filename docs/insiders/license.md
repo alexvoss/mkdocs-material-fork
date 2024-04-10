@@ -2,14 +2,17 @@
 
 
 
-
 ## Open Source
+
+
 
 ### Ecosystem
 
 around the entire project
 
 ### No vendor lock-in
+
+
 
 ## MIT license
 

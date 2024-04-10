@@ -1,12 +1,13 @@
 # What’s in it for you
 
-
+Material for MkDocs Insiders has a lot of additional features to offer. The
+moment you become a monthly sponsor of our project, you'll get __immediate
+access to all additional features__ that you can __start using now__, and
+which are currently exclusively available to sponsors.
 
 ## Insiders features
 
-The moment you become a sponsor how to become a sponsor, you'll get __immediate
-access to 26 additional features__ that you can __start using now__, and
-which are currently exclusively available to sponsors:
+Our Insiders features are
 
 <div class="mdx-columns" markdown>
 
@@ -54,8 +55,10 @@ bug fixes and new features.
 The following section lists all funding goals. Each goal contains a list of
 features prefixed with a checkmark symbol, denoting whether a feature is
 :octicons-check-circle-fill-24:{ style="color: #00e676" } already available or
-:octicons-check-circle-fill-24:{ style="color: var(--md-default-fg-color--lightest)" } planned, but not yet implemented. When the funding goal is hit, the features
-are released for general availability.
+:octicons-check-circle-fill-24:{ style="color: var(--md-default-fg-color--lightest)" }
+planned, but not yet implemented. When the funding goal is hit, the features
+are released to the Material for MkDocs community repository for general
+availability.
 
 #### $ 16,000 – Chipotle
 
@@ -126,8 +129,9 @@ are released for general availability.
 ### Goals completed
 
 This section lists all funding goals that were previously completed, which means
-that those features were part of Insiders, but are now generally available and
-can be used by all users.
+that those features were once part of Material for MkDocs Insiders, and
+therefore only available to our sponsors but are now generally available and can
+be used by all users.
 
 #### $ 14,000 – Goat's Horn
 
@@ -289,20 +293,27 @@ can be used by all users.
 - [x] Improved search result relevance and scoring
 - [x] Missing query terms in search results
 
+Looking at this list makes us proud what we have accomplished over the past
+years thanks to [our awesome sponsors]. We are hoping to extend this list for
+the years to come.
+
+  [our awesome sponsors]: our-sponsors.md
+
 ### Premium Sponsors
 
-- How can I display my logo on the list of premium sponsors?
+We offer additional benefits exclusively to our premium sponsors who sponsor us
+on our commercial tiers starting at $125 a month.
+
+- Multiple seats: the number depends on the sponsoring tier
+- [Prioritized bug reports]
+- Logo placement + backlink
+- Private support via email 📨
 
 If your sponsorship tier includes logo placement, and you would like us to
 display your logo in the [list of premium sponsors] and have it linked to your
 site, please contact us via mail. Simply send us a horizontal SVG or PNG version
 of your logo making sure it displays the name of your company and the logo to
-sponsors@squidfunk.com.
+sponsors@squidfunk.com. You can opt in or out at any time.
 
   [list of premium sponsors]: https://github.com/squidfunk/mkdocs-material#user-content-premium-sponsors
-
-- Is logo placement optional?
-
-Yes, all of our commercial benefits, such as logo placement and backlinks, are
-optional and can be opted in or out at any time. You can keep your sponsorship
-completely private.
+  [Prioritized bug reports]: support.md/prioritized-support
