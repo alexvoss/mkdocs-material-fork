@@ -10,11 +10,6 @@ LIST ALL SPONSORS
 <div class="mdx-sponsorship" data-mdx-component="sponsorship" hidden>
   <div class="mdx-sponsorship__list"></div>
   <small>
-    If you sponsor publicly, you're automatically added here with a link to
-    your profile and avatar to show your support for Material for MkDocs.
-    Alternatively, if you wish to keep your sponsorship private, you'll be a
-    silent +1. You can select visibility during checkout and change it
-    afterwards.
   </small>
 </div>
 
@@ -34,6 +29,8 @@ select visibility during checkout and change it afterwards.
 [![FastAPI]{ style="height: 120px" }](https://fastapi.tiangolo.com/){ target=_blank title="FastAPI" }
 [![Trendpop]{ style="height: 120px" }](https://www.trendpop.com/){ target=_blank title="Trendpop" }
 [![SailPoint]{ style="height: 120px" }](https://documentation.sailpoint.com/){ target=_blank title="SailPoint" }
+
+----
 
 ### Bronze sponsors
 
@@ -72,6 +69,8 @@ select visibility during checkout and change it afterwards.
 [![Milford Assets]](https://milfordasset.com/){ target=_blank title="Milford Assets" }
 [![Lechler]](https://www.lechler.com/){ target=_blank title="Lechler" }
 [![Invers]](https://invers.com/){ target=_blank title="Invers" }
+[![Maxar]](https://maxar.com/){ target=_blank title="Maxar" }
+[![EquipmentShare]](https://www.equipmentshare.com/){ target=_blank title="EquipmentShare" }
 
 </div>
 
@@ -114,26 +113,13 @@ select visibility during checkout and change it afterwards.
   [Lechler]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-lechler.png
   [SailPoint]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-sailpoint.png
   [Invers]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-invers.png
+  [Maxar]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-maxar.png
+  [EquipmentShare]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-equipmentshare.png
 
 <hr />
 
-<div class="mdx-sponsorship" data-mdx-component="sponsorship" hidden>
-  <div class="mdx-sponsorship__list"></div>
-  <small>
-    If you sponsor publicly, you're automatically added here with a link to
-    your profile and avatar to show your support for Material for MkDocs.
-    Alternatively, if you wish to keep your sponsorship private, you'll be a
-    silent +1. You can select visibility during checkout and change it
-    afterwards.
-  </small>
-</div>
-
-  [squidfunk's sponsor profile]: https://github.com/sponsors/squidfunk?metadata_origin=docs
-
 Want to have your logo placed here?
-Sponsor us at one of [our organizational tiers]!
 
-  [our organizational tiers]:
+[:octicons-heart-fill-24:{ .mdx-heart } &nbsp; Sponsor as an organization <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][organization sponsors]{ .md-button .md-button--primary .mdx-sponsorship-button }
 
-## Testimonials
-
+  [organization sponsors]: sponsoring-tiers.md/#commercial-use

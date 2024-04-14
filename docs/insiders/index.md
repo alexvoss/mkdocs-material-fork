@@ -1,12 +1,5 @@
 # Material for MkDocs Insiders
 
-Material for MkDocs began as a passion project, which we made open-source to
-share freely with everyone. However, as the project's popularity grew over the
-last few years, so did the demands of its maintenance and overhead. Faced with
-the growing demands and the tough choice between discontinuing our efforts or
-dedicating ourselves full-time, we chose to commit ourselves fully to the project.
-To sustain this full-time commitment and to expand the team, we introduced
-Material for MkDocs Insiders.
 
 ## What is Insiders?
 

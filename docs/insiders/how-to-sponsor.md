@@ -18,12 +18,12 @@ If you have additional questions, you can find detailed information about
 [payment and billing], [access management], [runtime and cancellation],
 [privacy], [license] and [support] on dedicated pages.
 
-[payment and billing]: payment-and-billing.md
-[access management]: access-management.md
-[runtime and cancellation]: runtime-and-cancellation.md
-[privacy]: privacy.md
-[license]: license.md
-[support]: support.md
+  [payment and billing]: payment-and-billing.md
+  [access management]: access-management.md
+  [runtime and cancellation]: runtime-and-cancellation.md
+  [privacy]: privacy.md
+  [license]: license.md
+  [support]: support.md
 
 ### 1. Overview
 

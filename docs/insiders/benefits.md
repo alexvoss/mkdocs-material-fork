@@ -1,13 +1,14 @@
 # What’s in it for you
 
-Material for MkDocs Insiders has a lot of additional features to offer. The
-moment you become a monthly sponsor of our project, you'll get __immediate
-access to all additional features__ that you can __start using now__, and
-which are currently exclusively available to sponsors.
+Material for MkDocs Insiders is packed with additional features that are made
+available first to our sponsors. The moment you become a monthly sponsor, you'll
+gain __immediate access__ to the exclusive Insiders features, ready for you to
+__start using now__.
 
 ## Insiders features
 
-Our Insiders features are
+Our sponsors currently enjoy access to the following 26 additional features. New
+features are added every other week, so be sure to come back.
 
 <div class="mdx-columns" markdown>
 
@@ -38,17 +39,24 @@ Our Insiders features are
 - [x] [Meta plugin]
 - [x] [Tags plugin: configurable listings]
 
+</div>
+
 ## What's coming next
 
-New features are added every other week. Be sure to come back.
+New ideas are always on our horizon. We’re currently focusing on some epic
+releases, but we encourage you to keep an eye on our discussion board for
+announcements and, of course, our issue tracker for all change requests from our
+community. Want to influence our roadmap? Feel free to open a [change request]
+and let us know your thoughts!
+
+  [change request]: ../contributing/requesting-a-change.md
 
 ## Releases
 
-- How often is the Insiders edition updated?
-
-We try to keep our open issue count low, fixing known bugs quickly. Both our
-repositories, the community and Insiders edition, are constantly updated with
-bug fixes and new features.
+We’re committed to quickly addressing bugs, that come up and keeping our open
+issue count as low as possible. Both our community and Insiders editions are
+regularly updated, ensuring you have the latest features and fixes available at
+all time.
 
 ## Funding goals
 
@@ -56,9 +64,8 @@ The following section lists all funding goals. Each goal contains a list of
 features prefixed with a checkmark symbol, denoting whether a feature is
 :octicons-check-circle-fill-24:{ style="color: #00e676" } already available or
 :octicons-check-circle-fill-24:{ style="color: var(--md-default-fg-color--lightest)" }
-planned, but not yet implemented. When the funding goal is hit, the features
-are released to the Material for MkDocs community repository for general
-availability.
+planned, but not yet implemented. Each funding milestone unlocks new features
+for general availability in the Material for MkDocs community repository.
 
 #### $ 16,000 – Chipotle
 
@@ -77,61 +84,71 @@ availability.
   [custom sorting]: ../plugins/tags.md#config.tags_sort_by
   [Navigation subtitles]: ../reference/index.md#setting-the-page-subtitle
 
-#### $ 20,000 – Jalapeño
+#### $ 18,000 – Lemon Drop
 
 - [x] [Optimize plugin]
-- [x] [Typeset plugin]
 - [x] [Navigation path] (Breadcrumbs)
-- [x] [Privacy plugin: advanced settings]
-- [x] [Privacy plugin: external links]
-- [x] [Instant prefetching]
 - [x] [Blog plugin: advanced settings]
 - [x] [Blog plugin: author profiles]
 - [x] [Blog plugin: pinned posts]
-- [x] [Footnote tooltips]
+- [x] [Instant prefetching]
 
   [Optimize plugin]: ../plugins/optimize.md
-  [Typeset plugin]: ../plugins/typeset.md
-  [Privacy plugin: external links]: ../plugins/privacy.md#external-links
-  [Privacy plugin: advanced settings]: ../setup/ensuring-data-privacy.md#advanced-settings
   [Navigation path]: ../setup/setting-up-navigation.md#navigation-path
-  [Instant prefetching]: ../setup/setting-up-navigation.md#instant-prefetching
   [Blog plugin: advanced settings]: ../setup/setting-up-a-blog.md#advanced-settings
   [Blog plugin: author profiles]: ../setup/setting-up-a-blog.md#adding-author-profiles
   [Blog plugin: pinned posts]: ../setup/setting-up-a-blog.md#pinning-a-post
-  [Footnote tooltips]: ../reference/footnotes.md#footnote-tooltips
+  [Instant prefetching]: ../setup/setting-up-navigation.md#instant-prefetching
 
-#### $ 24,000 – Blockpaprika
+#### $ 20,000 – Jalapeño
+
+- [x] [Typeset plugin]
+- [x] [Footnote tooltips]
+- [x] [Privacy plugin: advanced settings]
+- [x] [Privacy plugin: external links]
+- [ ] to be announced
+- [ ] to be announced
+
+  [Typeset plugin]: ../plugins/typeset.md
+  [Footnote tooltips]: ../reference/footnotes.md#footnote-tooltips
+  [Privacy plugin: external links]: ../plugins/privacy.md#external-links
+  [Privacy plugin: advanced settings]: ../setup/ensuring-data-privacy.md#advanced-settings
+
+#### $ 22,000 – Habanero Orange
 
 - [x] [Instant previews]
-- [x] [Projects plugin]
 - [x] [Social plugin: custom layouts]
 - [x] [Social plugin: background images]
 - [x] [Code range selection]
 - [x] [Code annotations: custom selectors]
 - [x] [Stay on page when switching languages]
-- [x] [Tags plugin: nested tags]
-- [x] [Tags plugin: shadow tags]
-- [x] [Tags plugin: advanced settings]
 
   [Instant previews]: ../setup/setting-up-navigation.md#instant-previews
-  [Projects plugin]: ../plugins/projects.md
   [Social plugin: custom layouts]: ../setup/setting-up-social-cards.md#customization
   [Social plugin: background images]: ../plugins/social.md#option.background_image
   [Code range selection]: ../reference/code-blocks.md#code-selection-button
   [Code annotations: custom selectors]: ../reference/code-blocks.md#custom-selectors
   [Stay on page when switching languages]: ../setup/changing-the-language.md#stay-on-page
+
+#### $ 24,000 – Blockpaprika
+
+- [x] [Projects plugin]
+- [x] [Tags plugin: nested tags]
+- [x] [Tags plugin: shadow tags]
+- [x] [Tags plugin: advanced settings]
+- [ ] to be announced
+- [ ] to be announced
+
+  [Projects plugin]: ../plugins/projects.md
   [Tags plugin: nested tags]: ../setup/setting-up-tags.md#nested-tags
   [Tags plugin: shadow tags]: ../setup/setting-up-tags.md#shadow-tags
   [Tags plugin: advanced settings]: ../setup/setting-up-tags.md#advanced-settings
 
-
 ### Goals completed
 
-This section lists all funding goals that were previously completed, which means
-that those features were once part of Material for MkDocs Insiders, and
-therefore only available to our sponsors but are now generally available and can
-be used by all users.
+This section celebrates the milestones we’ve achieved thanks to our incredible
+sponsors. Those features were once part of Material for MkDocs Insiders, and
+therefore only available to our sponsors but are now available for all users.
 
 #### $ 14,000 – Goat's Horn
 
@@ -293,27 +310,31 @@ be used by all users.
 - [x] Improved search result relevance and scoring
 - [x] Missing query terms in search results
 
-Looking at this list makes us proud what we have accomplished over the past
-years thanks to [our awesome sponsors]. We are hoping to extend this list for
-the years to come.
+...showcasing our journey and the evolution of Material for MkDocs, powered by
+our [supportive community].
 
-  [our awesome sponsors]: our-sponsors.md
+  [supportive community]: our-sponsors.md
 
 ### Premium Sponsors
 
-We offer additional benefits exclusively to our premium sponsors who sponsor us
-on our commercial tiers starting at $125 a month.
+We do offer additional benefits exclusively to our premium sponsors sponsoring
+us on our [commercial tiers] starting at [$125 a month].
 
-- Multiple seats: the number depends on the sponsoring tier
-- [Prioritized bug reports]
-- Logo placement + backlink
-- Private support via email 📨
+- Multiple seats for your team
+- [Prioritized] bug reports to keep your projects running smoothly
+- Logo placement and backlink on our site for increased visibility
+- Private support via email for any questions to our maintainers
 
-If your sponsorship tier includes logo placement, and you would like us to
-display your logo in the [list of premium sponsors] and have it linked to your
-site, please contact us via mail. Simply send us a horizontal SVG or PNG version
-of your logo making sure it displays the name of your company and the logo to
-sponsors@squidfunk.com. You can opt in or out at any time.
-
+  [commercial tiers]: sponsoring-tiers.md/commercial-use
+  [$125 a month]: sponsoring-tiers.md/$125-a-month
   [list of premium sponsors]: https://github.com/squidfunk/mkdocs-material#user-content-premium-sponsors
-  [Prioritized bug reports]: support.md/prioritized-support
+  [Prioritized]: support.md/prioritized-support
+
+----
+
+Interest in supporting us? Together, let’s continue to make Material for MkDocs
+an even more powerful tool for everyone. We’re excited for what the future holds!
+
+[:octicons-heart-fill-24:{ .mdx-heart } &nbsp; Show your support <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][squidfunk's sponsor profile]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [squidfunk's sponsor profile]: https://github.com/sponsors/squidfunk/

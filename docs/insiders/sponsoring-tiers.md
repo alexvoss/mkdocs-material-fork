@@ -17,9 +17,13 @@ use Material for MkDocs. Our tiers are categorized into [non-commercial] and
 
 Each [monthly sponsoring tier] offers a range of benefits tailored to your needs.
 Benefits include access to our private Material for MkDocs Insiders repository,
-priority handling of bug reports, and more, which vary by the number of sites
+priority handling of bug reports, and more, which vary by the number of sites[^1]
 and collaborators required. Remember, you can always [upgrade or downgrade] your
 sponsorship level at any time.
+
+  [^1]:
+   A site is defined as one domain or "project," regardless of the number
+   of documentation pages it includes or its complexity.
 
   [monthly sponsoring tier]: #monthly-sponsoring
   [non-commercial]: #non-commercial-use
@@ -32,8 +36,6 @@ Monthly sponsoring tiers provide you with access to our private Material for
 MkDocs Insiders repository. This supports the ongoing development of both the
 Insiders and the community edition.
 
-Slider: Commercial use | Non-commercial use
-
 ### Non-commercial use
 
 Non-commercial use of our Material for MkDocs refers to private use. This
@@ -41,8 +43,7 @@ includes individuals using the Insiders edition for private or purely
 non-commercial Open Source projects. We offer two different tiers for
 non-commercial use, depending on the number of sites you want to build.
 
-#### $15 a month
-__The Individual__
+#### The Individual
 
 _Choose for non-commercial use (1-2 sites)_
 
@@ -54,8 +55,11 @@ __Rewards:__
 
   - Access to Insiders (one seat)
 
-#### $35 a month
-__The Dedicated Individual__
+[&nbsp; Sponsor with $15 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][15 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [15 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210638
+
+#### The Dedicated Individual
 
 _Choose for non-commercial use (3+ sites)_
 
@@ -64,11 +68,17 @@ sites, and just love that you can build beautiful documentation without having
 to worry about the constantly breaking JavaScript ecosystem – this is now
 [@squidfunk's] job.
 
+Commit to $35 a month
+
   [@squidfunk's]: https://github.com/squidfunk
 
 __Rewards:__
 
   - Access to Insiders (two seats)
+
+[&nbsp; Sponsor with $35 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][35 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [35 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210641
 
 ### Commercial use
 
@@ -79,8 +89,7 @@ pricing tiers for commercial use, each tailored to the needs of different
 businesses. It's important to note that internal use of the software within your
 organization is also considered commercial use, as with all commercial software.
 
-#### $125 a month
-__The Organization__
+#### The Organization
 
 _Choose for commercial use (1-9 sites)_
 
@@ -94,10 +103,13 @@ __Rewards:__
 
   - Access to Insiders (three seats)
   - Have your bug reports prioritized
-  - Bronze sponsor 🥉 your logo here (S)
+  - Bronze sponsor 🥉 logo placement (S)
 
-#### $250 a month
-__The Global Organization__
+[&nbsp; Sponsor with $125 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][125 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [125 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210643
+
+#### The Global Organization
 
 _Choose for commercial use (10-49 sites)_
 
@@ -112,10 +124,13 @@ __Rewards:__
 
   - Access to Insiders (five seats)
   - Have your bug reports prioritized
-  - Silver sponsor 🥈 your logo here (M)
+  - Silver sponsor 🥈 logo placement (M)
 
-#### $1,000 a month
-__The Holistic Organization__
+[&nbsp; Sponsor with $250 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][250 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [250 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=181282
+
+#### The Holistic Organization
 
 _Choose for commercial use (50+ sites)_
 
@@ -128,8 +143,12 @@ __Rewards:__
 
   - Access to Insiders (ten seats)
   - Have your bug reports prioritized
-  - Gold sponsor 🥇 your logo here (L)
+  - Gold sponsor 🥇 logo placement (L)
   - Private support via email 📨
+
+[&nbsp; Sponsor with $1000 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][1000 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [1000 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=334388
 
 ## One time sponsoring
 
@@ -137,17 +156,17 @@ For those who wish to contribute one time without an ongoing subscription and
 without receiving access to the exclusive Insiders features, we offer the
 following one-time sponsoring tiers.
 
-### $20 one time
-
-__Just a Tip!__
+### Just a Tip!
 
 You asked a question or needed some help on a problem, and I've helped you
 quickly. You want no perks, just good karma and a warm feeling of giving
 something back.
 
-### $350 one time
+[&nbsp; Sponsor $20 one time <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][20 one time]{ .md-button .md-button--primary .mdx-sponsorship-button }
 
-__The Mentoring__
+  [20 one time]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=222886
+
+### The Mentoring
 
 A 1-hour video call with [@squidfunk]. He is happy to share his experiences
 with you and help you with anything related to his work.
@@ -158,9 +177,11 @@ __Popular topics are:__
   - How to start earning a living in Open Source
   - How to make your Open Source project sustainable
 
-
   [@squidfunk]: https://github.com/squidfunk
 
+[&nbsp; Sponsor $350 one time <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][350 one time]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [350 one time]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210891
 
 ## Custom amount
 
