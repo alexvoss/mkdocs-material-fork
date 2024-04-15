@@ -43,13 +43,14 @@ features are added every other week, so be sure to come back.
 
 ## What's coming next
 
-New ideas are always on our horizon. We’re currently focusing on some epic
-releases, but we encourage you to keep an eye on our discussion board for
-announcements and, of course, our issue tracker for all change requests from our
-community. Want to influence our roadmap? Feel free to open a [change request]
-and let us know your thoughts!
+Too many ideas, too little time!
 
-  [change request]: ../contributing/requesting-a-change.md
+Our backlog is filled with countless ideas that we came up with or that have
+been suggested by our community. We're also working to make our roadmap public.
+If you have something specific in mind, and wonder whether we've considered it,
+feel free to ask on our [discussion board].
+
+  [discussion board]: https://github.com/squidfunk/mkdocs-material/discussions
 
 ## Releases
 

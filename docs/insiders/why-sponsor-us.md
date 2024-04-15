@@ -89,12 +89,12 @@ tools out there, ridiculously powerful, a pleasure to use and most importantly â
 free and Open Source. It is the financial contributions of our awesome sponsors,
 that allow us to do our best work.
 
-You can be sure that as long as this project is funded, we will continue to
+It's a simple equation: as long as this project is funded, we can continue to
 improve it, fix bugs, and add new features. We will continue to provide the
-best possible support to our users, and we will continue to make sure that
-Material for MkDocs remains a tool that you love to use.
+best possible support to our users and make sure that Material for MkDocs
+remains a tool that you love to use.
 
-If you sponsor us, you can be sure that your money is well spent:
+If you sponsor us, your money goes to:
 
 1.  __Taxes__: Since we provide a service to our sponsors, we're of course
     legally obligated and happy to pay sales tax. This requirement applies to
