@@ -1,12 +1,9 @@
 # Why sponsor us
 
-If you’ve been using Material for MkDocs and have noticed improvements in your
-documentation, found your work easier, and enjoyed our features and support
-through the issue tracker and discussion board, then be assured: this was all
-accomplished with the finacial support of [our awesome sponsors] as it allows us
-to contribute more time. Want to see this project grow further?
-
-[:octicons-heart-fill-24:{ .mdx-heart } &nbsp; Show your support <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][squidfunk's sponsor profile]{ .md-button .md-button--primary .mdx-sponsorship-button }
+Material for MkDocs is an Open Source project that is developed and maintained
+by a small team of individuals who want to devote as much time as possible to
+make it better every day. We need to rely on the financial support of
+[our awesome sponsors] who buy us the time to work on it.
 
   [become a monthly sponsor]: sponsoring-tier.md
   [our awesome sponsors]: our-sponsors.md
@@ -14,53 +11,85 @@ to contribute more time. Want to see this project grow further?
 
 ## Who we are
 
-We are currently a small team working on Material for MkDocs, which includes
-both the community and Insiders editions. The project started with [@squidfunk]
-working on it solo, but as funding increases, so does our ability to expand the
-team and, therefore, improve the product.
+While [the project was started] by @squidfunk as a personal side project, the
+[Sponsorware] model that the project adopted in 2020 allowed him to build a
+small team of amazing individuals around him, [who are now helping him] to
+maintain the project, as well as the growing list of sponsors.
 
-  [@squidfunk]: https://github.com/squidfunk
+  [the project was started]: #how-it-started
+  [sponsorware]: #sponsorware
+  [who are now helping him]: #where-we-are-today
 
 ### How it started
 
-Material for MkDocs began as a __personal side project__ by [@squidfunk],
-released for others to use as well in February 2016 – this is when Material for
-MkDocs was born. Initially, he needed a good documentation tool for his projects
-and decided to build something on top of MkDocs, a platform aimed at technical
-documentation. Even though there has been several working solutions on the
-marked before, he realized the project filled a niche by offering a great
-designed theme with multiple functionalities, which were missing at the time in
-other projects. As Material for MkDocs grew, so did its functionality and
-popularity, driven by community requests.
+In 2015, albeit 10 years in the industry, @squidfunk was still quite new to
+Open Source. Having just finished his latest Open Source project, he realized
+that the project was too complex to be explained in a plain README on GitHub.
+He needed a good documentation tool for this project.
 
-By the end of 2019, the project reached a critical point where it felt
-feature-complete for his needs.
+After evaluating static site generators in general and Hugo, Sphinx and MkDocs
+in particular, he quickly decided that MkDocs seemed a good choice, as it was
+specifically aimed at technical project documentation and easy to use.
+Unfortunately, all of the available themes looked dated, and since @squidfunk
+is a very visual person, he just couldn't convince himself to call it a day.
 
+He needed to build a theme.
 
-than [@squidfunk]
-could afford to give in his spare time while juggling other projects to make a
-living. It was the point when it started to shift from a personal project to a
-community-driven one, with bug reports, feature, or customization requests
-taking over. From this point, it was not just about maintaining a project; it was
-about evolving it for others, addressing the community's needs, and adding
-features that did not directly benefit the creator or maintainer. This is where
-it actually turns into a real job.
+Months later, in February 2016, [the first version] of Material for MkDocs was
+released. Over the next years, @squidfunk being the sole maintainer, countless
+feature requests were implemented and bugs were fixed, allowing the project to
+gain popularity and reach almost 3,000 stars on GitHub by the end of 2019. It
+still is his most popular project to date.
 
-Facing the decision to either sees to work on the project in the midturn (which is the fate of most open source project) or to find a sustainable
-funding model, [@squidfunk] introduced Material for MkDocs Insiders in early
-2020 through a sponsorware model. It was hard, as it barely made any money, fighting for every user
+As the project grew, @squidfunk started to implement feature requests that made
+sense from a general perspective, but not for his personal use. This was the
+point where the project started to shift from a personal project to a
+community-driven one, and began to feel like a second job. Facing the decision
+to either cease to work on the project – the fate of many successful Open Source
+projects – or to try and make Material for MkDocs his job, @squidfunk decided to
+give the [Sponsorware] model a try.
+
+Fast forward 4 years, and Material for MkDocs is a thriving community-supported
+and well-funded project, with over 500 sponsors and a growing team, used by
+international companies and organizations. Material for MkDocs has outgrown its
+original purpose and became so much more than just a theme – a
+powerful documentation framework built on top of MkDocs.
+
+  [the first version]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
 
 ### Sponsorware
 
-The sponsorware model allows us to continually evolve the project. New features
-are first developed for the Insiders edition and are accessible to our sponsors
-immediately. These features are linked to funding goals; once these goals are
-reached, the features are merged into the community edition, making them
-available to everyone. This approach not only helps keep the project vibrant and
-cutting-edge but also ensures it can continue to meet and exceed the community's
-expectations.
+The Sponsorware model is simple – as a sponsor, you get early access to the
+latest and greatest features of Material for MkDocs as part of [Insiders] before
+everyone else gets to enjoy them, as you are the one making them possible with
+your financial contributions.
+
+Every new feature that lands in [Insiders] is linked to a funding goal with a
+specific amount. Once this amount is reached, all of the features that are part
+of this funding goal are merged into the community edition, making them
+available to everyone. It is that simple.
+
+This approach not only helps keep the project vibrant and cutting-edge but also
+ensures it can continue to meet and exceed your expectations.
+
+  [Insiders]: index.md
 
 ### Where we are today
+
+Starting in 2020 with the advent of the [Sponsorware] model, Material for MkDocs
+has taken off – TODO (# releases in 2016-2019 vs 2020-2024)
+
+---
+
+tbd
+
+---
+
+We wouldn't have dreamt of where we are today when we started this project,
+which was and is only possible because of the financial support of our sponsors.
+With all of the features that have been implemented, the bugs that have been
+fixed, and the support that has been given, we have accomplished so much that
+we would not have been able to otherwise.
 
 Since we started to monetize Material for MkDocs with the sponsorware approach,
 we have accomplished so much that we would not have been able to otherwise. If

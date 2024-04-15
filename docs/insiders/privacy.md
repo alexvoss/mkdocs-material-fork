@@ -2,19 +2,19 @@
 
 At Material for MkDocs, transparency powers our sponsorware model. This
 transparency extends to our funding goals, the features we're working towards,
-and, importantly, the acknowledgment of our awesome sponsors. As a sponsors
+and, importantly, the acknowledgment of our awesome sponsors. As a sponsor,
 you have the option to support our project either [publicly] or [privately] via
-GitHub Sponsors, depending on your preference for visibility.
+GitHub Sponsors, depending on your visibility preference.
 
 ## Public sponsors
 
 By default, GitHub lists all sponsorships publicly. To sponsor privately, you
-must explicitly opt for this option. When sponsoring publily, your GitHub
-account will be recognized one a sponsor on [our sponsors page], [squidfunk's
-sponsoring page], and within the "sponsorings" section of your GitHub account,
-showcasing your support of the GitHubs community.
+must explicitly select this option. When sponsoring publicly, your GitHub
+account will be listed as part of [our sponsors], [squidfunk's sponsoring page],
+and within the "sponsoring" section of your GitHub account, showcasing your
+support for our project.
 
-  [our sponsors page]: our-sponsors.md
+  [our sponsors]: our-sponsors.md
   [squidfunks sponsoring page]: https://github.com/sponsors/squidfunk?metadata_origin=docs
 
 ## Private sponsors
