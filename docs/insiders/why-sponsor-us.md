@@ -3,10 +3,10 @@
 Material for MkDocs is an Open Source project that is developed and maintained
 by a small team of individuals who want to devote as much time as possible to
 make it better every day. We need to rely on the financial support of
-[our awesome sponsors] who buy us the time to work on it.
+[our awesome sponsors][our sponsors] who buy us the time to work on it.
 
   [become a monthly sponsor]: sponsoring-tier.md
-  [our awesome sponsors]: our-sponsors.md
+  [our sponsors]: our-sponsors.md
   [squidfunk's sponsor profile]: https://github.com/sponsors/squidfunk/
 
 ## Who we are
@@ -44,16 +44,10 @@ still is his most popular project to date.
 As the project grew, @squidfunk started to implement feature requests that made
 sense from a general perspective, but not for his personal use. This was the
 point where the project started to shift from a personal project to a
-community-driven one, and began to feel like a second job. Facing the decision
-to either cease to work on the project – the fate of many successful Open Source
-projects – or to try and make Material for MkDocs his job, @squidfunk decided to
-give the [Sponsorware] model a try.
-
-Fast forward 4 years, and Material for MkDocs is a thriving community-supported
-and well-funded project, with over 500 sponsors and a growing team, used by
-international companies and organizations. Material for MkDocs has outgrown its
-original purpose and became so much more than just a theme – a
-powerful documentation framework built on top of MkDocs.
+community-driven one, and began to feel like a secondary job. Having a primary
+job, many maintainers burn out when their side projects become successful, which
+is why @squidfunk decided to give the [Sponsorware] model a try and make
+Material for MkDocs his primary job. This turned out to be an incredible success.
 
   [the first version]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
 
@@ -69,94 +63,61 @@ specific amount. Once this amount is reached, all of the features that are part
 of this funding goal are merged into the community edition, making them
 available to everyone. It is that simple.
 
-This approach not only helps keep the project vibrant and cutting-edge but also
-ensures it can continue to meet and exceed your expectations.
+This brand-new and still experimental approach not only helps keep the project
+vibrant and cutting-edge but also ensures it can continue to meet and exceed
+your expectations.
 
   [Insiders]: index.md
 
 ### Where we are today
 
-Starting in 2020 with the advent of the [Sponsorware] model, Material for MkDocs
-has taken off – TODO (# releases in 2016-2019 vs 2020-2024)
+Fast forward to today, Material for MkDocs is a thriving community-supported
+and well-funded project, with over 500 sponsors and a small but growing team,
+used by international companies and organizations. The project has outgrown
+its original purpose by far, as it has become so much more than just a theme –
+a powerful documentation framework built on top of MkDocs.
 
----
+Starting in 2020 with the advent of the [Sponsorware] model, the frequency of
+releases has more than doubled, with a new release seeing the light of day on
+average every 1-2 weeks. Moreover, our team responds to issues as fast as
+possible, keeping the number of open issues low.
 
-tbd
+## Our pledge
 
----
+We're working hard to make Material for MkDocs one of the best documentation
+tools out there, ridiculously powerful, a pleasure to use and most importantly –
+free and Open Source. It is the financial contributions of our awesome sponsors,
+that allow us to do our best work.
 
-We wouldn't have dreamt of where we are today when we started this project,
-which was and is only possible because of the financial support of our sponsors.
-With all of the features that have been implemented, the bugs that have been
-fixed, and the support that has been given, we have accomplished so much that
-we would not have been able to otherwise.
+You can be sure that as long as this project is funded, we will continue to
+improve it, fix bugs, and add new features. We will continue to provide the
+best possible support to our users, and we will continue to make sure that
+Material for MkDocs remains a tool that you love to use.
 
-Since we started to monetize Material for MkDocs with the sponsorware approach,
-we have accomplished so much that we would not have been able to otherwise. If
-you look at the increasing number of releases and stars, you can tell the
-turning point – at which [@squidfunk] could step back from working on other
-projects and focus on Material for MkDocs.
-
-Thanks to [our sponsors], Material for MkDocs has grown from a one-person
-project to a thriving community-supported tool. Sponsorship has enabled us to
-focus on innovation, stability, and community support, all of which contribute
-to the ongoing improvement and sustainability of the project. Today, we are
-funded by over 500+ individuals and organizations.
-
-  [our sponsors]: our-sponsors.md
-
-## Funding
-
-GitHUb sponsors nicht, lieber andere Lösungen hervorheben
-
-Making open source sustainable is hard, takes a lot of time and effort, but can
-actually be a way for open source to work in the long run. So, we think GitHub
-did a really great job by integrating GitHub Sponsors, which can be a way to
-avoid the problem of open source projects being abandoned by their creators or
-maintainers due to high demand and the possibility of burning out. GitHub
-Sponsors represents a promising direction for open source, offering a way for
-individual developers and teams to receive financial support. This model enables
-developers to dedicate more time to open source, sparking creativity and
-benefiting everyone – this could be the future of open source. This is why we
-also want to give you a slight idea of where our funds are going:
+If you sponsor us, you can be sure that your money is well spent:
 
 1.  __Taxes__: Since we provide a service to our sponsors, we're of course
-    legally obligated to pay sales tax. This requirement applies to all
-    sponsorship contributions, aligning us with standard business practices
+    legally obligated and happy to pay sales tax. This requirement applies to
+    all sponsorship contributions, aligning us with standard business practices,
     as for the rest of the world.
 
 2.  __Sponsorships__: A significant portion of our funding is redirected to
     upstream projects. This cultivates collaboration and supports the broader
-    Open Source ecosystem. Those projects and their maintainers are essential
-    for the ongoing development of Material for MkDocs.
+    Open Source ecosystem. We regard those projects and their maintainers as
+    essential for the persistence of Material for MkDocs.
 
-3.  __Funds__: We are a small team alread, but are in the process of forming a
-    bigger team devoted to Material for MkDocs and are proactively compensating
-    critical contributors. These funds cover various aspects of the project,
-    like the creation of new features, bug resolution, support, and sponsor
-    relations.
+3.  __Team__: Our team is growing! With more funds available, we can pay more
+    individuals to help us make Material for MkDocs even better. Note that this
+    covers various aspects of the project, like the creation of new features,
+    bug resolution, support, and sponsor relations.
 
 ## Why support us?
 
-If Material for MkDocs is a tool you love and rely on and as it makes creating
-and maintaining your documentation fun and straightforward, consider joining
-[our sponsors]. Your support ensures the freedom to build what you need, free
-from outside influence, e.g. no investors to please and we can work on ensuring
-that
-__you own your content fully__. Many of the feature you enjoy today, including those
-from the Insiders edition, has been made possible through sponsorship – check
-out the list of [completed funding goals], you're most likely using at least a
-handful of them!
-
-Sponsoring us means you are investing in the future development of
-Material for MkDocs, ensuring it remains well maintained and one of the leading
-tools in technical documentation. Your sponsorship contributes to:
-
-- __Development:__ Directly funding the development of new features.
-- __Sustainability:__ Keeping the project up-to-date and secure.
-- __Community support:__ Offering better resources and support to our user base.
+We are bootstrapped – no investors to please! If you decide to support us, you
+help us to stay independent and free from outside influence. This means we can
+focus on building a solution that you love to use and keep ownership of your
+documentation project without vendor lock-in.
 
 [&nbsp; Choose a sponsoring tier <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][sponsoring-tiers]{ .md-button .md-button--primary .mdx-sponsorship-button }
 
   [sponsoring-tiers]: sponsoring-tiers.md
-  [completed funding goals]: benefits.md/#goals-completed
