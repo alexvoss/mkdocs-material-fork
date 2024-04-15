@@ -1,9 +1,8 @@
 # Our sponsors
 
-
-
-Intro
-
+Over the last couple of years, we have managed to build a large community of
+sponsors, for which we are immensely grateful. Without their finacial support,
+Material for MkDocs wouldn't be where it is today.
 
 <hr />
 
@@ -16,7 +15,7 @@ Intro
   [squidfunk's sponsor profile]: https://github.com/sponsors/squidfunk?metadata_origin=docs
 
 If you sponsor publicly, you're automatically added here with a link to your
-profile and avatar to show your support for Material for MkDocs. Alternatively,
+GitHub profile and avatar to show your support for Material for MkDocs. Alternatively,
 if you wish to keep your sponsorship private, you'll be a silent +1. You can
 select visibility during checkout and change it afterwards.
 
@@ -29,6 +28,12 @@ select visibility during checkout and change it afterwards.
 [![FastAPI]{ style="height: 120px" }](https://fastapi.tiangolo.com/){ target=_blank title="FastAPI" }
 [![Trendpop]{ style="height: 120px" }](https://www.trendpop.com/){ target=_blank title="Trendpop" }
 [![SailPoint]{ style="height: 120px" }](https://documentation.sailpoint.com/){ target=_blank title="SailPoint" }
+
+Would like to have your logo displayed here?
+
+[&nbsp; Sponsor with $250 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][250 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [250 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=181282
 
 ----
 
@@ -71,6 +76,12 @@ select visibility during checkout and change it afterwards.
 [![Invers]](https://invers.com/){ target=_blank title="Invers" }
 [![Maxar]](https://maxar.com/){ target=_blank title="Maxar" }
 [![EquipmentShare]](https://www.equipmentshare.com/){ target=_blank title="EquipmentShare" }
+
+Would like to have your logo displayed here?
+
+[&nbsp; Sponsor with $125 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][125 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [125 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210643
 
 </div>
 
@@ -117,9 +128,3 @@ select visibility during checkout and change it afterwards.
   [EquipmentShare]: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-equipmentshare.png
 
 <hr />
-
-Want to have your logo placed here?
-
-[:octicons-heart-fill-24:{ .mdx-heart } &nbsp; Sponsor as an organization <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][organization sponsors]{ .md-button .md-button--primary .mdx-sponsorship-button }
-
-  [organization sponsors]: sponsoring-tiers.md/#commercial-use

@@ -1,9 +1,9 @@
 # What’s in it for you
 
 Material for MkDocs Insiders is packed with additional features that are made
-available first to our sponsors. The moment you become a monthly sponsor, you'll
-gain __immediate access__ to the exclusive Insiders features, ready for you to
-__start using now__.
+available first to our monthly sponsors – the moment you become one of them,
+you'll gain __immediate access__ to all the exclusive Insiders features, ready
+for you to __start using now__.
 
 ## Insiders features
 

@@ -1,4 +1,4 @@
-# Why sponsor us
+# Why support us
 
 If you’ve been using Material for MkDocs and have noticed improvements in your
 documentation, found your work easier, and enjoyed our features and support
