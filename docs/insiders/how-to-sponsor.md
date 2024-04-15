@@ -23,7 +23,7 @@ If you have additional questions, you can find detailed information about
   [runtime and cancellation]: runtime-and-cancellation.md
   [privacy]: privacy.md
   [license]: license.md
-  [support]: support.md
+  [support]: ../support.md
 
 ### 1. Overview
 

@@ -35,7 +35,7 @@ Direct support, particularly for core feature-related queries, is actively
 provided here, whereas customization tips are often sourced from the broader
 community.
 
-  [Community Experts]: community-experts-program/index.md
+  [Community Experts]: insiders/community-experts-program/index.md
   [discussion board]: https://github.com/squidfunk/mkdocs-material/discussions
 
 ### Issue Tracker
@@ -49,12 +49,12 @@ policy]. This transparent approach ensures that solutions can benefit the entire
 community and feature requests can get upvoted by the community which will
 effect the speed of its development.
 
-  [bugs]: ../contributing/reporting-a-bug.md
-  [change requests]: ../contributing/requesting-a-change.md
+  [bugs]: contributing/reporting-a-bug.md
+  [change requests]: contributing/requesting-a-change.md
   [our contributing guides]: https://squidfunk.github.io/mkdocs-material/contributing/
   [our issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
   [public issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
-  [fair use policy]: license.md/fair-use-policy
+  [fair use policy]: ./license.md/#fair-use-policy
 
 ### Prioritized support
 

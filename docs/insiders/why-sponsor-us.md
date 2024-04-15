@@ -113,6 +113,7 @@ If Material for MkDocs is a tool you love and rely on and as it makes creating
 and maintaining your documentation fun and straightforward, consider joining
 [our sponsors]. Your support ensures the freedom to build what you need, free
 from outside influence, e.g. no investors to please and we can work on ensuring
+that
 __you own your content fully__. Many of the feature you enjoy today, including those
 from the Insiders edition, has been made possible through sponsorship – check
 out the list of [completed funding goals], you're most likely using at least a

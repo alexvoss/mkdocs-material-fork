@@ -1,9 +1,9 @@
 # Our sponsors
 
+
+
 Intro
 
-
-LIST ALL SPONSORS
 
 <hr />
 

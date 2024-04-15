@@ -325,10 +325,10 @@ us on our [commercial tiers] starting at [$125 a month].
 - Logo placement and backlink on our site for increased visibility
 - Private support via email for any questions to our maintainers
 
-  [commercial tiers]: sponsoring-tiers.md/commercial-use
-  [$125 a month]: sponsoring-tiers.md/$125-a-month
+  [commercial tiers]: sponsoring-tiers.md/#commercial-use
+  [$125 a month]: sponsoring-tiers.md/#the-organization
   [list of premium sponsors]: https://github.com/squidfunk/mkdocs-material#user-content-premium-sponsors
-  [Prioritized]: support.md/prioritized-support
+  [Prioritized]: ../support.md/#prioritized-support
 
 ----
 
