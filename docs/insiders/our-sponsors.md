@@ -77,11 +77,7 @@ Would like to have your logo displayed here?
 [![Maxar]](https://maxar.com/){ target=_blank title="Maxar" }
 [![EquipmentShare]](https://www.equipmentshare.com/){ target=_blank title="EquipmentShare" }
 
-Would like to have your logo displayed here?
 
-[&nbsp; Sponsor with $125 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][125 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
-
-  [125 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210643
 
 </div>
 
