@@ -94,7 +94,7 @@ improve it, fix bugs, and add new features. We will continue to provide the
 best possible support to our users and make sure that Material for MkDocs
 remains a tool that you love to use.
 
-If you sponsor us, your money goes to:
+If you sponsor us, your contribution helps us to pay for:
 
 1.  __Taxes__: Since we provide a service to our sponsors, we're of course
     legally obligated and happy to pay sales tax. This requirement applies to
