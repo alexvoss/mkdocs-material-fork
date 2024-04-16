@@ -1,5 +1,9 @@
 # Insiders
 
+If you want to get the best out of Material for MkDocs, Insiders is what you're
+looking for – it's an exclusive version of Material for MkDocs that offers
+additional features and enhancements. By becoming a sponsor, you get early access
+
 Material for MkDocs Insiders offers an enhanced experience with early access to
 exclusive features that aren't available in the community edition. Become a
 sponsor and make use of these features directly!
@@ -8,108 +12,6 @@ You’ve already seen the benefits of using Material for MkDocs;
 imagine what more you can achieve with Insiders. Your sponsorship helps us
 ontinue to innovate and improve, ensuring Material for MkDocs remains a
 cutting-edge tool. Discover how your contributions make a difference.
-
-## Choose a tier
-
-Slider!
-
-### The Individual
-
-_Choose for non-commercial use (1-2 sites)_
-
-You love Material for MkDocs and use it for your Open Source project or personal
-blog. You read about all the awesome features in Insiders, which are first
-exclusively released to sponsors, and don't want to miss out.
-
-__Rewards:__
-
-  - Access to Insiders (1 seat)
-
-[&nbsp; Sponsor with $15 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][15 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
-
-  [15 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210638
-
-### The Dedicated Individual
-
-_Choose for non-commercial use (3+ sites)_
-
-You use Material for MkDocs for several of your Open Source projects or personal
-sites, and just love that you can build beautiful documentation without having
-to worry about the constantly breaking JavaScript ecosystem – this is now
-[@squidfunk's] job.
-
-Commit to $35 a month
-
-  [@squidfunk's]: https://github.com/squidfunk
-
-__Rewards:__
-
-  - Access to Insiders (2 seats)
-
-[&nbsp; Sponsor with $35 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][35 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
-
-  [35 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210641
-
-### The Organization
-
-_Choose for commercial use (1-9 sites)_
-
-Your organization uses Material for MkDocs for its documentation or internal
-knowledge base and wants to make sure that it is well-maintained and safe to use
-for the years to come. You agree that $125 a month (less than 1 hour of a
-skilled developer) is a clever investment into a solution, solving tons of
-problems you don't want to fight yourself.
-
-__Rewards:__
-
-  - Access to Insiders (3 seats)
-  - Have your bug reports prioritized
-  - Bronze sponsor 🥉 logo placement (S)
-
-[&nbsp; Sponsor with $125 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][125 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
-
-  [125 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210643
-
-### The Global Organization
-
-_Choose for commercial use (10-49 sites)_
-
-Your organization runs many internal and public-facing sites that are built with
-Material for MkDocs, helping you to share and manage knowledge efficiently.
-You've evaluated several commercial alternatives which will cost you 3-4x more,
-some of which with a smaller feature set. You agree that $250 a month (less than
-2 hours of a skilled developer) is a very good deal for the value you're getting
-out of it.
-
-__Rewards:__
-
-  - Access to Insiders (5 seats)
-  - Have your bug reports prioritized
-  - Silver sponsor 🥈 logo placement (M)
-
-[&nbsp; Sponsor with $250 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][250 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
-
-  [250 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=181282
-
-### The Holistic Organization
-
-_Choose for commercial use (50+ sites)_
-
-Your organization's day-to-day operations critically depend on Material for
-MkDocs, and you need to make sure that bugs are fixed quickly to keep your
-customers happy. You see your work as part of a larger ecosystem, realizing that
-giving back is essential to keeping everything you fight for alive.
-
-__Rewards:__
-
-  - Access to Insiders (10 seats)
-  - Have your bug reports prioritized
-  - Gold sponsor 🥇 logo placement (L)
-  - Private support via email 📨
-
-[&nbsp; Sponsor with $1000 a month <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][1000 a month]{ .md-button .md-button--primary .mdx-sponsorship-button }
-
-  [1000 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=334388
 
 ## Additional information
 

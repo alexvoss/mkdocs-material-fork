@@ -1,8 +1,14 @@
-# Insiders license
+# License
 
-Material for MkDocs Insiders, just like the community edition, falls under the
-MIT license. This permissive license is all about straightforward usage without
-legal complexities.
+Material for MkDocs Insiders is licensed under the [MIT license], the exact
+same license used for the community edition. The MIT license is a permissive
+license, which allows commercial use, redistribution, and everything else as
+long as the original authors are credited in source files.
+
+The MIT license is the [most popular license] among all Open Source projects.
+
+  [MIT license]: https://opensource.org/license/mit
+  [most popular license]: https://opensource.org/blog/the-most-popular-licenses-for-each-language-2023
 
 ## MIT License
 

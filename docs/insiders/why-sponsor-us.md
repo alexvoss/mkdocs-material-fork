@@ -111,8 +111,6 @@ If you sponsor us, your contribution helps us to pay for:
     covers various aspects of the project, like the creation of new features,
     bug resolution, support, and sponsor relations.
 
-## Why support us?
-
 We are bootstrapped – no investors to please! If you decide to support us, you
 help us to stay independent and free from outside influence. This means we can
 focus on building a solution that you love to use and keep ownership of your

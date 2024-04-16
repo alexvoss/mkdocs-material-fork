@@ -1,13 +1,11 @@
 # Sponsoring Material for MkDocs
 
 Becoming a sponsor for Material for MkDocs is a straightforward process through
-[squidfunks sponsoring page] with the help of [GitHub Sponsors]. By supporting
-the project with a monthly contribution of __$15 or more__, sponsors can use
-either [individual] or [organizational] GitHub accounts to facilitate the
-sponsorship.
+@squidfunk's [GitHub Sponsors profile]. By supporting
+the project with a monthly contribution of __$15 a month__ or more, you can sponsor
+either via an [individual] or [organizational] GitHub account.
 
-  [squidfunks sponsoring page]: https://github.com/sponsors/squidfunk
-  [GitHub Sponsors]: https://github.com/sponsors
+  [GitHub Sponsors profile]: https://github.com/sponsors/squidfunk
   [individual]: access-management.md/#individuals
   [organizational]: access-management.md/#organizations
 
@@ -28,7 +26,7 @@ If you have additional questions, you can find detailed information about
 ### 1. Overview
 
 Explore [our sponsoring tiers], as each sponsoring tier is designed to
-accommodate different levels of sponsor and include different benefits.
+accommodate different levels of sponsors and includes different benefits.
 Reviewing these sponsoring tiers will help you understand the impact of your
 sponsorship.
 

@@ -1,14 +1,14 @@
 # What’s in it for you
 
 Material for MkDocs Insiders is packed with additional features that are made
-available first to our monthly sponsors – the moment you become one of them,
+available first to our monthly sponsors – the moment you become a sponsor,
 you'll gain __immediate access__ to all the exclusive Insiders features, ready
 for you to __start using now__.
 
 ## Insiders features
 
 Our sponsors currently enjoy access to the following 26 additional features. New
-features are added every other week, so be sure to come back.
+features are added regularly, so be sure to come back to stay updated.
 
 <div class="mdx-columns" markdown>
 
@@ -52,21 +52,49 @@ feel free to ask on our [discussion board].
 
   [discussion board]: https://github.com/squidfunk/mkdocs-material/discussions
 
-## Releases
+## Frequent releases
 
 We’re committed to quickly addressing bugs, that come up and keeping our open
 issue count as low as possible. Both our community and Insiders editions are
 regularly updated, ensuring you have the latest features and fixes available at
 all time.
 
-## Funding goals
+## Additional benefits
+
+As a premium sponsors, you enjoy additional benefits that are not available to
+our regular sponsors. Sponsoring our work on our [commercial tiers] starting at
+[$125 a month], you'll get:
+
+- Multiple seats for your team
+- [Prioritized] bug reports to keep your projects running smoothly
+- Logo placement and backlink on our site for increased visibility
+- Private support via email for any questions to our maintainers
+
+  [commercial tiers]: sponsoring-tiers.md/#commercial-use
+  [$125 a month]: sponsoring-tiers.md/#the-organization
+  [list of premium sponsors]: https://github.com/squidfunk/mkdocs-material#user-content-premium-sponsors
+  [Prioritized]: ../support.md/#prioritized-support
+
+----
+
+Interest in supporting us? Together, let’s continue to make Material for MkDocs
+an even more powerful tool for everyone. We’re excited for what the future holds!
+
+[:octicons-heart-fill-24:{ .mdx-heart } &nbsp; Show your support <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][sponsoring tiers]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [sponsoring tiers]: sponsoring-tiers.md#commercial-use
+
+## Funding <span class="mdx-sponsorship-total" data-mdx-component="sponsorship-total"></span>
+
+### Goals
 
 The following section lists all funding goals. Each goal contains a list of
 features prefixed with a checkmark symbol, denoting whether a feature is
 :octicons-check-circle-fill-24:{ style="color: #00e676" } already available or
 :octicons-check-circle-fill-24:{ style="color: var(--md-default-fg-color--lightest)" }
-planned, but not yet implemented. Each funding milestone unlocks new features
-for general availability in the Material for MkDocs community repository.
+planned, but not yet implemented. This means that each funding goal unlocks new
+features for general availability in the community edition, after sponsors have
+used them for a while.
 
 #### $ 16,000 – Chipotle
 
@@ -149,7 +177,8 @@ for general availability in the Material for MkDocs community repository.
 
 This section celebrates the milestones we’ve achieved thanks to our incredible
 sponsors. Those features were once part of Material for MkDocs Insiders, and
-therefore only available to our sponsors but are now available for all users.
+therefore only available to our sponsors, and are now generally available to
+be used by all users.
 
 #### $ 14,000 – Goat's Horn
 
@@ -310,32 +339,3 @@ therefore only available to our sponsors but are now available for all users.
 - [x] Improved search result grouping
 - [x] Improved search result relevance and scoring
 - [x] Missing query terms in search results
-
-...showcasing our journey and the evolution of Material for MkDocs, powered by
-our [supportive community].
-
-  [supportive community]: our-sponsors.md
-
-### Premium Sponsors
-
-We do offer additional benefits exclusively to our premium sponsors sponsoring
-us on our [commercial tiers] starting at [$125 a month].
-
-- Multiple seats for your team
-- [Prioritized] bug reports to keep your projects running smoothly
-- Logo placement and backlink on our site for increased visibility
-- Private support via email for any questions to our maintainers
-
-  [commercial tiers]: sponsoring-tiers.md/#commercial-use
-  [$125 a month]: sponsoring-tiers.md/#the-organization
-  [list of premium sponsors]: https://github.com/squidfunk/mkdocs-material#user-content-premium-sponsors
-  [Prioritized]: ../support.md/#prioritized-support
-
-----
-
-Interest in supporting us? Together, let’s continue to make Material for MkDocs
-an even more powerful tool for everyone. We’re excited for what the future holds!
-
-[:octicons-heart-fill-24:{ .mdx-heart } &nbsp; Show your support <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][squidfunk's sponsor profile]{ .md-button .md-button--primary .mdx-sponsorship-button }
-
-  [squidfunk's sponsor profile]: https://github.com/sponsors/squidfunk/
