@@ -33,7 +33,7 @@ sponsors@squidfunk.com before initiating your sponsorship.
 ## Refunds
 
 Our team does not have insights or access to details related to sponsorship
-transactions of our sponsors, as GitHub does not provide us with these
+transactions of our sponsors, as GitHub does not provide us with this
 information. For questions regarding payment issues or for more detailed
 information about your sponsorship, please get in touch with the [GitHub
 support] team.
@@ -42,14 +42,14 @@ support] team.
 
 ## Discounts
 
-We can not offer discounts for Material for MkDocs Insiders. To ensure that
+We can not offer discounts on Material for MkDocs Insiders. To ensure that
 everyone in our community can afford to become a sponsor of Material for
 Insiders, we keep the barrier low and set prices as low as possible – starting
-at [$15 a month] for [non-commercial use] and at [$125 a month] for [commercial
-use].
+at $[15 a month] for [non-commercial use] and at $[125 a month] for
+[commercial use].
 
-  [$15 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210638
-  [$125 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210643
+  [15 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210638
+  [125 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210643
   [non-commercial use]: sponsoring-tiers.md/#non-commercial-use
   [commercial use]: sponsoring-tiers.md/#commercial-use
 
@@ -64,7 +64,7 @@ at all levels of experience. All communication is public and visible for the
 entire community, benefitting everyone. These community experts not only enrich
 our project but also enable our team to focus on continuous improvement and the
 development of new features. Therefore, we are happy to provide them with free
-access to the private Insiders repository, and encourage you to [join the team].
+access to the private Insiders repository and encourage you to [join the team].
 
   [community experts]: community-experts-program/index.md
   [discussion board]: https://github.com/squidfunk/mkdocs-material/discussions
