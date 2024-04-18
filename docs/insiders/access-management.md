@@ -43,7 +43,7 @@ designated accounts as collaborators, and once the invitations are [accepted
 within seven days], your organization will be all set to [get started].
 
   [organization account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
-  [GitHub limitations]: #collaboratorsr
+  [GitHub limitations]: #collaborators
   [bot account]: #bot-account
   [accepted within seven days]: #expired-invitations
 
@@ -97,13 +97,14 @@ access to the entire organization. To avoid this, you have two options:
   to a specific individual but is publicly or privately listed as the owner of
   the GitHub organization, and name this as the collaborator
 
-Employing a bot account for access management and initiating your public or
+Employing a bot account for access management and initiating your [public] or
 [private] sponsorship offers a streamlined approach to handling all of your
 sponsoring costs, allowing you to manage access and payment for all sponsorships
 through a single account.
 
   [a new personal account]: https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
-  [private]: privacy.md
+  [public]: privacy.md/#public-sponsors
+  [private]: privacy.md/#private-sponsors
 
 ## Expired invitations
 

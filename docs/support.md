@@ -19,11 +19,11 @@ to contact Kathi at sponsors@squidfunk.com for additional support.
 
 We are committed to providing technical support, ensuring all interactions
 remain transparent and accessible. Our primary channels for technical queries,
-therefore, are [our discussion board]  and [issue tracker] which are open to the
+therefore, are [our discussion board] and [our issue tracker] which are open to the
 entire community.
 
   [our discussion board]: #discussion-board
-  [issue tracker]: #issue-tracker
+  [our issue tracker]: #issue-tracker
 
 
 ### Discussion board
@@ -47,14 +47,14 @@ contributing guides] through the public [issue tracker], mindful of not
 disclosing any sensitive Insiders' source code in line with our [fair use
 policy]. This transparent approach ensures that solutions can benefit the entire
 community and feature requests can get upvoted by the community which will
-effect the speed of its development.
+affect the speed of its development.
 
   [bugs]: contributing/reporting-a-bug.md
   [change requests]: contributing/requesting-a-change.md
   [our contributing guides]: https://squidfunk.github.io/mkdocs-material/contributing/
-  [our issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
+  [issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
   [public issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
-  [fair use policy]: ./license.md/#fair-use-policy
+  [fair use policy]: ./insiders/license.md/#fair-use-policy
 
 ### Prioritized support
 

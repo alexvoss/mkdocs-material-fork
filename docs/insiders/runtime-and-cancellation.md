@@ -11,7 +11,7 @@ Sponsorships remain valid as long as monthly or yearly subscriptions are
 active and only expire when you cancel the sponsorship or when your [payment
 method expires].
 
-  [payment method expires]: #Aautomatic-cancellation
+  [payment method expires]: #automatic-cancellation
 
 ## Cancellation process
 
@@ -19,17 +19,18 @@ Canceling your sponsorship initiates a cancellation request through GitHub,
 which is scheduled to take effect at the end of your current billing cycle. This
 means you'll retain access to Insiders until the cancellation officially becomes
 effective. All charges are processed by GitHub and as we don't receive any
-information regarding your payment, we can not provide you with details when
-your cancallation will be in place.
+information regarding your payment, we can not provide details about when
+your cancellation will be in place.
 
 ### How to cancel
 
-To cancel your sponsorship, please follow the [step-by-step guide from GitHub].
-If you have sponsored using an organizational account, ensure that you cancel
-the sponsorship under that specific account, as the collaborator and sponsor
-accounts may differ.
+To downgrade or to cancel your sponsorship, please follow the [step-by-step
+guide from GitHub]. If you have sponsored using an organizational account,
+ensure that you cancel the sponsorship under that specific account, as the
+[collaborator and sponsor accounts may differ].
 
-  [step-by-step guide from GitHub]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/downgrading-a-sponsorship
+  [step-by-step guide from GitHub]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/downgrading-a-sponsorship#canceling-a-sponsorship
+  [collaborator and sponsor accounts may differ]: access-management.md/#collaborators
 
 ### Effects of cancellation
 
