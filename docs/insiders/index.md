@@ -15,9 +15,8 @@ cutting-edge tool. Discover how your contributions make a difference.
 
 ## Additional information
 
-If you require additional and detailed information about payment, billing,
-access management, and more, you'll find everything you need on the following
-pages:
+Explore the following section to learn more about Material for MkDocs, why
+you should sponsor us, what's in it for you, and who is sponsoring us.
 
 <div class="grid cards" markdown>
 
@@ -26,8 +25,7 @@ pages:
 
     ---
 
-    Learn why becoming a sponsor is a great idea and how you help us to create a
-    leading tool in documentation
+    Learn how to support our goal of becoming the leading tool in documentation
 
     ---
 
@@ -38,8 +36,7 @@ pages:
 
     ---
 
-    Discover the exclusive benefits and features available only to our monthly
-    sponsors
+    Discover exclusive benefits and features available only to our monthly sponsors
 
     ---
 
@@ -50,8 +47,7 @@ pages:
 
     ---
 
-    Get an overview of our awesome sponsors – the individuals and organizations
-    who help us grow
+    Get to know our awesome sponsors, financially backing Material for MkDocs
 
     ---
 
@@ -61,8 +57,8 @@ pages:
 
 ### Sponsoring guide
 
-Everything you need to know about our sponsoring tiers and how to start your
-sponsorship journey.
+Learn how to become a sponsor of Material for MkDocs Insiders and start your
+sponsorship journey by choosing the right tier for you:
 
 <div class="grid cards" markdown>
 
@@ -85,7 +81,6 @@ sponsorship journey.
     ---
 
     Follow our step-by-step guide on how to become a sponsor to get you started
-    directly
 
     ---
 
@@ -95,7 +90,8 @@ sponsorship journey.
 
 ### Sponsoring details
 
-Specific details on the administrative and technical aspects of sponsoring.
+If you require additional and detailed information about payment, billing,
+access management, and more, here is everything you need to know:
 
 <div class="grid cards" markdown>
 
@@ -104,7 +100,7 @@ Specific details on the administrative and technical aspects of sponsoring.
 
     ---
 
-    Find all the information you need about payment methods and billing cycles.
+    All the information you need about payment methods and billing cycles
 
     ---
 
@@ -115,7 +111,7 @@ Specific details on the administrative and technical aspects of sponsoring.
 
     ---
 
-    Learn about the access managemnt to Insiders – for individuals and
+    Learn about access management to Insiders – for individuals and
     organizations
 
     ---
@@ -127,7 +123,7 @@ Specific details on the administrative and technical aspects of sponsoring.
 
     ---
 
-    Get information on the duration of your sponsorship and the cancellation
+    Receive information on the duration of your sponsorship and the cancellation
     process
 
     ---
@@ -139,7 +135,7 @@ Specific details on the administrative and technical aspects of sponsoring.
 
     ---
 
-    Our commitment to your privacy – how we handle your privacy
+    Our commitment to your privacy – learn assurances on valuing your privacy
 
     ---
 
@@ -150,8 +146,7 @@ Specific details on the administrative and technical aspects of sponsoring.
 
     ---
 
-    Details on the licensing of Material for MkDocs Insiders and how it affects
-    your usage
+    Get details on the licensing of Material for MkDocs Insiders and its requirements
 
     ---
 
@@ -162,7 +157,7 @@ Specific details on the administrative and technical aspects of sponsoring.
 
     ---
 
-    Overview of the support options available, ensuring you get the information
+    Overview of our support options available, ensuring you get the information
     you need
 
     ---
@@ -173,7 +168,8 @@ Specific details on the administrative and technical aspects of sponsoring.
 
 ### Usage
 
- information on using the Insiders version once you've become a sponsor.
+Once you have become a sponsor, you can start using Material for MkDocs Insiders,
+get all the information you need to get started:
 
 <div class="grid cards" markdown>
 
@@ -227,3 +223,7 @@ Specific details on the administrative and technical aspects of sponsoring.
   [Installing Insiders]: installation.md
   [Changelog]: changelog.md
   [Upgrade]: upgrade.md
+
+----
+
+__Looking forward to welcome you as a new sponsor!__

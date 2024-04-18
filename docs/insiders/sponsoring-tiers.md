@@ -30,7 +30,7 @@ sponsorship level at any time.
   [monthly sponsoring tier]: #monthly-sponsoring
   [non-commercial]: #non-commercial-use
   [commercial]: #commercial-use
-  [upgrade or downgrade]: payment-and-billing.md/#upgrading-and-downgrading
+  [upgrade or downgrade]: #switching-tiers
 
 ## Monthly sponsoring
 

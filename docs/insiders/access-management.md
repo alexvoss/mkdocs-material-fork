@@ -10,8 +10,8 @@ share access with your team, you'll find everything you need to know below.
 As the private Material for MkDocs Insiders repository is hosted on GitHub, you
 require a GitHub account to become a sponsor and to gain access. After
 sponsoring us on one of our [sponsoring tiers] starting at [$15 a month], we
-prioritize providing you with immediate access to the private Material for
-MkDocs Insiders repository. The process of gaining access is partially automated.
+prioritize providing you immediate access to the private Material for MkDocs
+Insiders repository. The process of gaining access is partially automated.
 However, depending on the type of account you've used to become a sponsor, we
 might need more information from you before we can grant access.
 
@@ -95,7 +95,7 @@ access to the entire organization. To avoid this, you have two options:
   collaborators
   - Create a bot account, which is [a new personal account] that does not belong
   to a specific individual but is publicly or privately listed as the owner of
-  the GitHub organization and name this as the collaborator
+  the GitHub organization, and name this as the collaborator
 
 Employing a bot account for access management and initiating your public or
 [private] sponsorship offers a streamlined approach to handling all of your
