@@ -36,11 +36,11 @@ When sponsoring using an [organization account], please note that GitHub will
 not send an automated invitation via email to access the private Material for
 MkDocs Insiders repository. Due to [GitHub limitations], granting access to a
 private repository for organization accounts is not possible. Therefore, please
-contact us at sponsors@squidfunk.com with the names of [personal accounts] or a
-[bot account] that is publicly or privately listed as owners of your GitHub
-organization immediately after initiating your sponsorship. We will add these
-designated accounts as collaborators, and once the invitations are [accepted
-within seven days], your organization will be all set to [get started].
+contact us at sponsors@squidfunk.com with the names of [personal accounts] or
+the name of a [bot account] that is publicly or privately listed as an owner of
+your GitHub organization immediately after initiating your sponsorship. We will
+add these designated accounts as collaborators, and once the invitations are
+[accepted within seven days], your organization will be all set to [get started].
 
   [organization account]: https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts
   [GitHub limitations]: #collaborators

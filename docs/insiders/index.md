@@ -10,7 +10,7 @@ sponsor and make use of these features directly!
 
 You’ve already seen the benefits of using Material for MkDocs;
 imagine what more you can achieve with Insiders. Your sponsorship helps us
-ontinue to innovate and improve, ensuring Material for MkDocs remains a
+continue to innovate and improve, ensuring Material for MkDocs remains a
 cutting-edge tool. Discover how your contributions make a difference.
 
 ## Additional information
@@ -226,4 +226,4 @@ get all the information you need to get started:
 
 ----
 
-__Looking forward to welcome you as a new sponsor!__
+__We're looking forward to welcoming you as a sponsor!__

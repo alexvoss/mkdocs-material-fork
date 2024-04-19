@@ -13,7 +13,7 @@ and [commercial] use:
 
   - __Non-commercial tiers__: Intended for individuals, Open Source projects,
     and academic use
-  - __Commercial tiers__: Designed for organizations and enterprises or any size
+  - __Commercial tiers__: Designed for organizations and enterprises of any size
 
 Each [monthly sponsoring tier] offers a range of benefits tailored to your needs.
 Benefits include access to our private Material for MkDocs Insiders repository,
@@ -22,7 +22,7 @@ projects[^1] that you intend to build with it and collaborators required. Rememb
 sponsorship level at any time.
 
   [^1]:
-    A project is defined as a folder with an `mkdocs.yml` configuration file
+    A project is defined as a folder with a `mkdocs.yml` configuration file
     that is built with Material for MkDocs Insiders. This is the only limitation
     to follow – the number of documentation pages or the size of your project
     is up to you.
@@ -186,7 +186,7 @@ anything related to his work.
 
 __Popular topics are:__
 
-  - How to tailor my software to your needs
+  - How to tailor Material for MkDocs to your needs
   - How to start earning a living in Open Source
   - How to make your Open Source project sustainable
 
@@ -207,7 +207,7 @@ access Insiders, whereas organizations are encouraged to sponsor $125 a month or
 more, based on their requirements.
 
 Contributions exceeding these thresholds are highly appreciated. Please note
-that one-time donations, regardless of their size, won't grant access to
+that one-time donations, regardless of their size, won't be granted access to
 Insiders due to technical constraints.
 
 ## Switching tiers

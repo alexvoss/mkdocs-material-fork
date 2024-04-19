@@ -43,9 +43,9 @@ Choosing a tier will take you to GitHub's sponsorship confirmation page.
 
 #### Payment and billing
 
-Next, GitHub will ask you to provide your billing information, which it requires
+Next, GitHub will ask you to provide your billing information, which is required
 to process your sponsorship payment. On this page, the _Sponsorship summary_
-section displays the (possibly prorated) amount due to intiate your sponsorship.
+section displays the (possibly prorated) amount due to initiate your sponsorship.
 This amount is determined by your account's [billing cycle], which can be set to
 a monthly or yearly interval.
 
@@ -79,9 +79,9 @@ our [changelog].
 
 #### Tax information
 
-If you're sponsoring as a organization, it's essential to provide your country,
+If you're sponsoring as an organization, it's essential to provide your country,
 region and VAT number, so we can correctly attribute your sponsorship. This is
-due to the fact that VAT is handled differently for individuals that for
+due to the fact that VAT is handled differently for individuals than for
 organizations.
 
 #### Confirmation
@@ -104,5 +104,7 @@ MkDocs Insiders repository.
 
 __Ready to become a sponsor?__
 
-If you still find yourself with more questions, feel free to reach out to us via
-mail at sponsors@squidfunk.com for additional support.
+If you still find yourself with more questions, feel free to [reach out to Kathi]
+via mail at sponsors@squidfunk.com for additional support.
+
+  [reach out to Kathi]: ../support.md/#sponsoring-support
