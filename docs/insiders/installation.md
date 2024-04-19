@@ -93,11 +93,11 @@ docker login -u ${GH_USERNAME} -p ${GHCR_TOKEN} ghcr.io
 docker pull ghcr.io/${GH_USERNAME}/mkdocs-material-insiders
 ```
 
-Should you wish to add additional plugins to the insiders container image, follow the steps
-outlined in the [Getting Started guide](installation.md#with-docker).
+Should you wish to add additional plugins to the Insiders container image,
+follow the steps outlined in the [Getting Started guide](installation.md#with-docker).
 
   [^2]:
-    Earlier, Insiders provided a dedicated Docker image which was available to
+    Earlier, Insiders provided a dedicated Docker image, which was available to
     all sponsors. On March 21, 2021, the image was deprecated for the reasons
     outlined and discussed in #2442. It was removed on June 1, 2021.
 
@@ -110,7 +110,7 @@ outlined in the [Getting Started guide](installation.md#with-docker).
   [^4]:
     While you could just add the `write:packages` scope to the personal access
     token created to access the Insiders repository, it's safer to create a
-    dedicated token which you'll only use for publishing the Docker image.
+    dedicated token, which you'll only use for publishing the Docker image.
 
   [^5]:
     The Insiders repository contains two GitHub Actions workflows:
@@ -127,7 +127,7 @@ git clone git@github.com:squidfunk/mkdocs-material-insiders.git mkdocs-material
 ```
 
 The theme will reside in the folder `mkdocs-material/material`. When cloning
-from `git`, the theme must be installed, so MkDocs can find the built-in
+from `git`, the theme must be installed so MkDocs can find the built-in
 plugins:
 
 ```
@@ -177,11 +177,11 @@ CI=1 INSIDERS=1 mkdocs build
 ```
 
   [^1]:
-    Previously we recommended to use [configuration inheritance] to work around
-    this limitations, but the brand new [built-in group plugin] is a much better
-    approach, as it allows you to use a single configuration file for building
-    your project with the community edition and Insiders version of Material
-    for MkDocs.
+    Previously, we recommended using [configuration inheritance] to work around
+    these limitations, but the brand new [built-in group plugin] is a much
+    better approach, as it allows you to use a single configuration file for
+    building your project with the community edition and Insiders version of
+    Material for MkDocs.
 
   [built-in group plugin]: ../plugins/group.md
   [configuration inheritance]: https://www.mkdocs.org/user-guide/configuration/#configuration-inheritance

@@ -1,12 +1,11 @@
 # Payment and billing
 
-Material for MkDocs relies on [GitHub Sponsors] for the management of our
-sponsorships and all transactions. As we host our repositories, including both
-the Material for MkDocs community edition and the private Insiders edition,
-GitHub Sponsors is our chosen platform for handling all financial transactions
-and for access management to the private Material for MkDocs Insiders repository.
-Therefore, to become a sponsor of Material for MkDocs, a [GitHub account]
-is mandatory.
+Material for MkDocs relies on [GitHub Sponsors] to manage our sponsorships and
+all transactions. As we host our repositories, including both the Material for
+MkDocs community edition and the private Insiders edition, GitHub Sponsors is
+our chosen platform for handling all financial transactions and for access
+management to the private Material for MkDocs Insiders repository. Therefore, to
+become a sponsor of Material for MkDocs, a [GitHub account] is mandatory.
 
   [GitHub Sponsors]: https://github.com/sponsors
   [GitHub account]: https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github

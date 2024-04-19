@@ -1,9 +1,9 @@
 # Runtime and cancellation
 
 The sponsorship model for Material for MkDocs is facilitated through GitHub
-Sponsors and therefore adheres to GitHubs policies. If you're curious about the
-duration of your sponsorship and the cancellation process, you will everything
-you need to find below.
+Sponsors and, therefore, adheres to GitHubs policies. If you're curious about
+the duration of your sponsorship and the cancellation process, you will find
+everything you need to know below.
 
 ## Runtime
 
@@ -24,9 +24,9 @@ your cancellation will be in place.
 
 ### How to cancel
 
-To downgrade or to cancel your sponsorship, please follow the [step-by-step
-guide from GitHub]. If you have sponsored using an organizational account,
-ensure that you cancel the sponsorship under that specific account, as the
+To downgrade or cancel your sponsorship, please follow the [step-by-step guide
+from GitHub]. If you have sponsored using an organizational account, ensure that
+you cancel the sponsorship under that specific account, as the
 [collaborator and sponsor accounts may differ].
 
   [step-by-step guide from GitHub]: https://docs.github.com/en/billing/managing-billing-for-github-sponsors/downgrading-a-sponsorship#canceling-a-sponsorship

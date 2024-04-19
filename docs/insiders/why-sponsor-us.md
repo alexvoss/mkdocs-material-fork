@@ -3,7 +3,7 @@
 Material for MkDocs is an Open Source project that is developed and maintained
 by a small team of individuals who want to devote as much time as possible to
 make it better every day. We need to rely on the financial support of
-[our awesome sponsors][our sponsors] who buy us the time to work on it.
+[our awesome sponsors][our sponsors], who buy us the time to work on it.
 
   [become a monthly sponsor]: sponsoring-tier.md
   [our sponsors]: our-sponsors.md
@@ -39,7 +39,7 @@ Months later, in February 2016, [the first version] of Material for MkDocs was
 released. Over the next years, @squidfunk being the sole maintainer, countless
 feature requests were implemented and bugs were fixed, allowing the project to
 gain popularity and reach almost 3,000 stars on GitHub by the end of 2019. It
-still is his most popular project to date.
+is still his most popular project to date.
 
 As the project grew, @squidfunk started to implement feature requests that made
 sense from a general perspective, but not for his personal use. This was the
@@ -112,7 +112,7 @@ If you sponsor us, your contribution helps us to pay for:
     bug resolution, support, and sponsor relations.
 
 We are bootstrapped – no investors to please! If you decide to support us, you
-help us to stay independent and free from outside influence. This means we can
+help us stay independent and free from outside influence. This means we can
 focus on building a solution that you love to use and keep ownership of your
 documentation project without vendor lock-in.
 
