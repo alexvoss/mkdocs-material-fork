@@ -120,3 +120,7 @@ _Be the first to sponsor at this level!_
     afterwards.
   </small>
 </div>
+
+[&nbsp; :material-arrow-up-bold: Add yourself to the list <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][sponsoring-tiers]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [sponsoring-tiers]: sponsoring-tiers.md

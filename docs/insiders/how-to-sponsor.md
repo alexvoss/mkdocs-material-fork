@@ -104,6 +104,10 @@ MkDocs Insiders repository.
 
 __Ready to become a sponsor?__
 
+[&nbsp; Choose a sponsoring tier <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][sponsoring-tiers]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [sponsoring-tiers]: sponsoring-tiers.md
+
 If you still find yourself with more questions, feel free to [reach out to Kathi]
 via mail at sponsors@squidfunk.com for additional support.
 
