@@ -1,6 +1,6 @@
 # Privacy
 
-Transparency is at the heart of our sponsorware model, which includes our
+Transparency is at the heart of our Sponsorware model, which includes our
 funding goals, the features we're working towards, and, importantly, the
 acknowledgment of our sponsors. As a sponsor, you can support our project
 either [publicly] or [privately], according to your preference.
