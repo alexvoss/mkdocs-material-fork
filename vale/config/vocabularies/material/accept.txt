@@ -1,0 +1,55 @@
+Adobe Photoshop
+Autoloading
+backlink
+blog_dir
+blog_toc
+cmd
+Codeberg
+config
+CPU
+CSS
+deduplicate
+discoverability
+Disqus
+Docusaurus
+Docsify
+[Dd]ocstrings
+Docz
+[Ee]mojis
+[gG]it
+GitHub Actions
+GitHub Pages
+GitLab Pages
+Google Analytics
+JavaScript
+jieba
+lookahead
+lunr
+[Mm]k[Dd]ocs
+[Mm]onospaced
+Netlify
+[pP]hotoshop
+pngquant
+post_dir
+Powershell
+prefetch
+Pygments
+raison
+readtime
+[Rr]evisioning
+scrollbars
+segmenter
+shortcode
+slugification
+slugified
+stemmer
+titlecase
+tokenization
+toolchain
+tooltip
+Twemoji
+unoptimized
+Vercel
+viewport
+Vuepress
+Webpack
