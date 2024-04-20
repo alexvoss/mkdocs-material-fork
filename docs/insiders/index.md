@@ -92,7 +92,7 @@ sponsorship journey by choosing the right tier for you:
 
 </div>
 
-### Sponsoring details
+### Additional information
 
 If you require additional and detailed information about payment, billing,
 access management, and more, here is everything you need to know:
@@ -170,7 +170,7 @@ access management, and more, here is everything you need to know:
 
 </div>
 
-### Usage
+### Using Insiders
 
 Once you have become a sponsor, you can start using Material for MkDocs Insiders,
 get all the information you need to get started:
@@ -178,7 +178,7 @@ get all the information you need to get started:
 <div class="grid cards" markdown>
 
 -   :material-download: &nbsp;
-    __Installing Insiders__
+    __Getting started__
 
     ---
 
@@ -186,7 +186,7 @@ get all the information you need to get started:
 
     ---
 
-    [:octicons-arrow-right-24: More information][Installing Insiders]
+    [:octicons-arrow-right-24: More information][Getting started]
 
 -   :octicons-versions-16: &nbsp;
     __Changelog__
@@ -224,7 +224,7 @@ get all the information you need to get started:
   [Privacy]: privacy.md
   [License]: license.md
   [Support]: ../support.md
-  [Installing Insiders]: installation.md
+  [Getting started]: getting-started.md
   [Changelog]: changelog.md
   [Upgrade]: upgrade.md
 

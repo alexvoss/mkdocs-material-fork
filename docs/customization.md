@@ -292,7 +292,7 @@ sponsor first to gain access.
         git clone git@github.com:squidfunk/mkdocs-material-insiders.git
         ```
 
-    [as described in the Insiders documentation]: insiders/installation.md#requirements
+    [as described in the Insiders documentation]: insiders/getting-started.md#requirements
 
 Next, create a new [Python virtual environment][venv] and
 [activate][venv-activate] it:

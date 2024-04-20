@@ -1,14 +1,15 @@
 # What’s in it for you
 
-Material for MkDocs Insiders is packed with additional features that are made
-available first to our monthly sponsors – the moment you become a sponsor,
+Material for MkDocs Insiders is packed with additional features that are
+exclusively available to our monthly sponsors – the moment you become a sponsor,
 you'll gain __immediate access__ to all the exclusive Insiders features, ready
 for you to __start using now__.
 
-## Insiders features
+## Features
 
 Our sponsors currently enjoy access to the following 26 additional features. New
-features are added regularly, so be sure to come back to stay updated.
+features are added regularly, so be sure to check back regularly to stay
+updated.
 
 <div class="mdx-columns" markdown>
 
@@ -43,7 +44,7 @@ features are added regularly, so be sure to come back to stay updated.
 
 ## What's coming next
 
-Too many ideas, too little time!
+> Too many ideas, too little time!
 
 Our backlog is filled with countless ideas that we came up with or that have
 been suggested by our community. We're also working to make our roadmap public.
@@ -57,13 +58,14 @@ feel free to ask on our [discussion board].
 We’re committed to quickly addressing bugs, that come up and keeping our open
 issue count as low as possible. Both our community and Insiders editions are
 regularly updated, ensuring you have the latest features and fixes available at
-all time.
+all times.
 
 ## Additional benefits
 
-As a premium sponsors, you enjoy additional benefits that are not available to
-our regular sponsors. Sponsoring our work on our [commercial tiers] starting at
-[$125 a month], you'll get:
+As a premium sponsors, you'll enjoy additional benefits that are not available
+to our individual sponsors. When sponsoring our work on one of our [commercial
+tiers] starting at [$125 a month], you'll get additional benefits that we offer
+for enterprises:
 
 - Multiple seats for your team
 - [Prioritized] bug reports to keep your projects running smoothly
@@ -77,8 +79,9 @@ our regular sponsors. Sponsoring our work on our [commercial tiers] starting at
 
 ----
 
-Interest in supporting us? Together, let’s continue to make Material for MkDocs
-an even more powerful tool for everyone. We’re excited for what the future holds!
+Interested in supporting us? Together, let’s continue to make Material for
+MkDocs an even more powerful tool for everyone. We’re excited for what the
+future holds!
 
 [:octicons-heart-fill-24:{ .mdx-heart } &nbsp; Show your support <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][sponsoring tiers]{ .md-button .md-button--primary .mdx-sponsorship-button }
 

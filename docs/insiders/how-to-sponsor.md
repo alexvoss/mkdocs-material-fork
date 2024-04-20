@@ -1,4 +1,4 @@
-# Sponsoring Material for MkDocs
+# How to sponsor
 
 Becoming a sponsor for Material for MkDocs is a straightforward process through
 @squidfunk's [GitHub Sponsors profile]. By supporting
@@ -9,7 +9,7 @@ either via an [individual] or [organizational] GitHub account.
   [individual]: access-management.md/#individuals
   [organizational]: access-management.md/#organizations
 
-## How to sponsor
+## Walkthrough
 
 Want to become a sponsor? We will guide you through the sponsoring process below
 If you have additional questions, you can find detailed information about

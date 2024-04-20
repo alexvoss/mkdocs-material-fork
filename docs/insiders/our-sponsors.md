@@ -1,8 +1,9 @@
 # Our sponsors
 
-Over the last couple of years, we have managed to build a large community of
-sponsors, for which we are immensely grateful. Without their financial support,
-Material for MkDocs wouldn't be where it is today.
+Starting in 2020, we have managed to build a community of a few hundred sponsors
+that support us every month, for which we are immensely grateful. Without their
+financial support, Material for MkDocs wouldn't be anywhere near where it is
+today.
 
 <div class="mdx-premium" markdown>
 
@@ -10,7 +11,7 @@ Material for MkDocs wouldn't be where it is today.
 
 ### Gold sponsors
 
-_Be the first to sponsor at this level!_
+_Be our first gold sponsor!_
 
 ----
 
@@ -108,6 +109,10 @@ _Be the first to sponsor at this level!_
 
 <hr />
 
+[&nbsp; :material-arrow-up-bold: Add yourself to the list <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][sponsoring-tiers]{ .md-button .md-button--primary .mdx-sponsorship-button }
+
+  [sponsoring-tiers]: sponsoring-tiers.md
+
 ## All sponsors
 
 <div class="mdx-sponsorship" data-mdx-component="sponsorship" hidden>
@@ -120,7 +125,3 @@ _Be the first to sponsor at this level!_
     afterwards.
   </small>
 </div>
-
-[&nbsp; :material-arrow-up-bold: Add yourself to the list <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][sponsoring-tiers]{ .md-button .md-button--primary .mdx-sponsorship-button }
-
-  [sponsoring-tiers]: sponsoring-tiers.md

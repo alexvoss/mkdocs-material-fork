@@ -1,7 +1,7 @@
 # Runtime and cancellation
 
 The sponsorship model for Material for MkDocs is facilitated through GitHub
-Sponsors and, therefore, adheres to GitHubs policies. If you're curious about
+Sponsors and, therefore, adheres to GitHub's policies. If you're curious about
 the duration of your sponsorship and the cancellation process, you will find
 everything you need to know below.
 
@@ -18,9 +18,11 @@ method expires].
 Canceling your sponsorship initiates a cancellation request through GitHub,
 which is scheduled to take effect at the end of your current billing cycle. This
 means you'll retain access to Insiders until the cancellation officially becomes
-effective. All charges are processed by GitHub and as we don't receive any
-information regarding your payment, we can not provide details about when
-your cancellation will be in place.
+effective.
+
+All transactions are processed by GitHub and as we don't receive any information
+regarding your payment, we can't provide details about when your cancellation
+will be in place.
 
 ### How to cancel
 
@@ -42,14 +44,15 @@ you like.
 
 !!! warning "GitHub deletes private forks"
 
-    Please note that [GitHub deletes private forks], so you may want to take
-    steps to ensure that you have a backup of the software if necessary and use
-    the locally installed version.
+    Please note that once you loose your collaborator status, [GitHub will
+    automatically delete your private fork] of the Insiders repository, so you
+    may want to take steps to ensure that you have a local backup.
 
-  [GitHub deletes private forks]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/removing-a-collaborator-from-a-personal-repository#deleting-forks-of-private-repositories
+  [GitHub will automatically delete your private fork]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/removing-a-collaborator-from-a-personal-repository#deleting-forks-of-private-repositories
 
 ### Automatic cancellation
 
 If your credit card expires, GitHub will automatically cancel your sponsorship
 and remove you as a collaborator. Regularly checking your payment method is
-recommended to avoid unintended cancellations.
+recommended to avoid unintended cancellations. If it happens, you can
+reinstante your sponsorship with a new credit card.

@@ -260,15 +260,15 @@ nav:
     - Who is sponsoring: insiders/our-sponsors.md
     - Sponsoring tiers: insiders/sponsoring-tiers.md
     - How to sponsor: insiders/how-to-sponsor.md
-    - Sponsoring details:
+    - Additional information:
       - Payment and billing: insiders/payment-and-billing.md
       - Access management: insiders/access-management.md
       - Runtime and cancellation: insiders/runtime-and-cancellation.md
       - Privacy: insiders/privacy.md
       - License: insiders/license.md
       - Support: support.md
-    - Usage:
-      - Installing Insiders: insiders/installation.md
+    - Using Insiders:
+      - Getting started: insiders/getting-started.md
       - Changelog: insiders/changelog.md
       - Upgrade: insiders/upgrade.md
   - Community:

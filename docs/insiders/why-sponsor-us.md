@@ -1,4 +1,4 @@
-# Why support us
+# Why sponsor us
 
 Material for MkDocs is an Open Source project that is developed and maintained
 by a small team of individuals who want to devote as much time as possible to

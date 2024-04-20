@@ -1,8 +1,8 @@
 # Sponsoring tiers
 
 We offer a range of sponsoring tiers tailored to the diverse needs of our
-community. Whether you're an individual user, or rooted in academia, or are
-part of a business using our software commercially, there's a sponsoring tier
+community. Whether you're an individual user, or rooted in academia, or work in
+an organization using our software commercially, there's a sponsoring tier
 that suits your needs.
 
 ## Choosing a tier
@@ -166,7 +166,7 @@ following one-time sponsoring tiers.
 
 ---
 
-### Just a Tip!
+### Just a Tip! :money_with_wings:
 
 You asked a question or needed some help on a problem, and we've helped you
 quickly. You want no perks, just good karma and a warm feeling of giving
