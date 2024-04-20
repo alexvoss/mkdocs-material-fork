@@ -3,10 +3,10 @@
 Material for MkDocs is an Open Source project that is developed and maintained
 by a small team of individuals who want to devote as much time as possible to
 make it better every day. We need to rely on the financial support of
-[our awesome sponsors][our sponsors], who buy us the time to work on it.
+[our awesome sponsors], who buy us the time to work on it.
 
   [become a monthly sponsor]: sponsoring-tier.md
-  [our sponsors]: our-sponsors.md
+  [our awesome sponsors]: our-sponsors.md
   [squidfunk's sponsor profile]: https://github.com/sponsors/squidfunk/
 
 ## Who we are

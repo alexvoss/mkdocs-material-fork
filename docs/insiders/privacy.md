@@ -29,7 +29,7 @@ sponsorship settings.
 
 For companies concerned about being visible as sponsors of any project due to
 their privacy restrictions, creating a [bot account] on GitHub that is solely
-used for sponsoring is  advised. This account, set to sponsor privately, won't be
+used for sponsoring is advised. This account, set to sponsor privately, won't be
 linked to any individual within your organization and provides an extra layer of anonymity.
 
   [setting your sponsorship to private]: https://docs.github.com/en/sponsors/sponsoring-open-source-contributors/managing-your-sponsorship#managing-the-privacy-setting-for-your-sponsorship

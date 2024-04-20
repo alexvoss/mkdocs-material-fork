@@ -80,9 +80,9 @@ or yearly. It can be changed at any time, so you might want to check the setting
 before sponsoring and change it either to monthly or yearly according to your
 own or your organization's preferences.
 
-If for whatever reason, you cannot change your billing cycle, a practical
+If, for whatever reason, you cannot change your billing cycle, a practical
 solution is to create a dedicated [GitHub bot account] where you set the billing
-cycle accordingly, and use it specifically for your sponsorship contributions.
+cycle accordingly and use it specifically for your sponsorship contributions.
 This is a strategy many of our organizational sponsors have successfully
 implemented.
 

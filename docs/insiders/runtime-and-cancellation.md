@@ -44,7 +44,7 @@ you like.
 
 !!! warning "GitHub deletes private forks"
 
-    Please note that once you loose your collaborator status, [GitHub will
+    Please note that once you lose your collaborator status, [GitHub will
     automatically delete your private fork] of the Insiders repository, so you
     may want to take steps to ensure that you have a local backup.
 
@@ -55,4 +55,4 @@ you like.
 If your credit card expires, GitHub will automatically cancel your sponsorship
 and remove you as a collaborator. Regularly checking your payment method is
 recommended to avoid unintended cancellations. If it happens, you can
-reinstante your sponsorship with a new credit card.
+reinstate your sponsorship with a new credit card.
