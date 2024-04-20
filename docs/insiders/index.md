@@ -1,35 +1,58 @@
 # Insiders
 
 If you want to get the best out of Material for MkDocs, Insiders is what you're
-looking for – it's an exclusive version of Material for MkDocs that offers
-additional features and enhancements. By becoming a sponsor, you get early access
+looking for, as it offers the latest and greatest features and enhancements. By
+becoming a sponsor, you get to enjoy those before everybody else, and help us
+continue to do the best of our work.
 
-Material for MkDocs Insiders offers an enhanced experience with early access to
-exclusive features that aren't available in the community edition. Become a
-sponsor and make use of these features directly!
+## What is Insiders?
 
-You’ve already seen the benefits of using Material for MkDocs;
-imagine what more you can achieve with Insiders. Your sponsorship helps us
-continue to innovate and improve, ensuring Material for MkDocs remains a
-cutting-edge tool. Discover how your contributions make a difference.
+Material for MkDocs Insiders is a private fork of Material for MkDocs, hosted as
+a private GitHub repository. Almost[^1] [all new features][what's in it for you]
+are developed as part of this fork, which means that they are immediately
+available to all eligible sponsors, as they are made collaborators of this
+repository.
+
+  [^1]:
+    In general, every new feature is first exclusively released to sponsors, but
+    sometimes upstream dependencies like [Python Markdown Extensions] enhance
+    existing features that must be supported by Material for MkDocs.
+
+Every feature is tied to a [funding goal] in monthly subscriptions. When a
+funding goal is hit, the features that are tied to it are merged back into
+Material for MkDocs and released for general availability, making them available
+to all users. Bugfixes are always released in tandem.
+
+Sponsorships start as low as [$15 a month].[^2]
 
 [&nbsp; Choose a sponsoring tier <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][sponsoring-tiers]{ .md-button .md-button--primary .mdx-sponsorship-button }
 
   [sponsoring-tiers]: sponsoring-tiers.md
 
-## Additional information
+  [^2]:
+    Note that $15 a month is the minimum amount to become eligible for
+    Insiders. While GitHub Sponsors also allows to sponsor lower amounts or
+    one-time amounts, those can't be granted access to Insiders due to
+    technical reasons.
+
+  [$15 a month]: https://github.com/sponsors/squidfunk/sponsorships?tier_id=210638
+  [Python Markdown Extensions]: https://facelessuser.github.io/pymdown-extensions/
+  [funding goal]: benefits.md#funding
+
+## Learn more
 
 Explore the following section to learn more about Material for MkDocs, why
-you should sponsor us, what's in it for you, and who is sponsoring us.
+you should sponsor us, what's in it for you, and why you'd be in very good
+company sponsoring us:
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-circle-question: &nbsp;
+-   :material-charity: &nbsp;
     __Why sponsor us__
 
     ---
 
-    Learn how to support our goal of becoming the leading tool in documentation
+    Support our goal to build one of the best tools for building documentation
 
     ---
 
@@ -56,16 +79,6 @@ you should sponsor us, what's in it for you, and who is sponsoring us.
     ---
 
     [:octicons-arrow-right-24: More infomation][Who is sponsoring]
-
-</div>
-
-### Sponsoring guide
-
-Learn how to become a sponsor of Material for MkDocs Insiders and start your
-sponsorship journey by choosing the right tier for you:
-
-<div class="grid cards" markdown>
-
 
 -   :material-animation-outline: &nbsp;
     __Sponsoring tiers__
@@ -99,7 +112,7 @@ access management, and more, here is everything you need to know:
 
 <div class="grid cards" markdown>
 
--   :material-hand-coin: &nbsp;
+-   :material-hand-coin-outline: &nbsp;
     __Payment and billing__
 
     ---
@@ -110,42 +123,40 @@ access management, and more, here is everything you need to know:
 
     [:octicons-arrow-right-24: More infomation][Payment and billing]
 
--   :material-key-variant: &nbsp;
+-   :material-key-chain: &nbsp;
     __Access management__
 
     ---
 
-    Learn about access management to Insiders – for individuals and
-    organizations
+    Learn about access management for individuals and organizations
 
     ---
 
     [:octicons-arrow-right-24: More infomation][Access management]
 
--   :material-clock-time-three: &nbsp;
+-   :material-calendar-clock: &nbsp;
     __Runtime and cancellation__
 
     ---
 
-    Receive information on the duration of your sponsorship and the cancellation
-    process
+    Receive information on the sponsorship duration and cancellation
 
     ---
 
     [:octicons-arrow-right-24: More information][Runtime and cancellation]
 
--   :material-lock-open: &nbsp;
+-   :material-shield-account: &nbsp;
     __Privacy__
 
     ---
 
-    Our commitment to your privacy – learn assurances on valuing your privacy
+    Our commitment and promise to always respect your privacy
 
     ---
 
     [:octicons-arrow-right-24: More infomation][Privacy]
 
--   :material-briefcase: &nbsp;
+-   :material-scale-balance: &nbsp;
     __License__
 
     ---
@@ -156,7 +167,7 @@ access management, and more, here is everything you need to know:
 
     [:octicons-arrow-right-24: More infomation][License]
 
--   :material-email: &nbsp;
+-   :material-face-agent: &nbsp;
     __Support__
 
     ---
@@ -172,12 +183,12 @@ access management, and more, here is everything you need to know:
 
 ### Using Insiders
 
-Once you have become a sponsor, you can start using Material for MkDocs Insiders,
-get all the information you need to get started:
+Once you enrolled in our sponsor's program, you can start using Material for
+MkDocs Insiders in minutes. Learn about everything you need to get started:
 
 <div class="grid cards" markdown>
 
--   :material-download: &nbsp;
+-   :material-run-fast: &nbsp;
     __Getting started__
 
     ---
@@ -188,7 +199,7 @@ get all the information you need to get started:
 
     [:octicons-arrow-right-24: More information][Getting started]
 
--   :octicons-versions-16: &nbsp;
+-   :material-format-list-text: &nbsp;
     __Changelog__
 
     ---
@@ -227,7 +238,3 @@ get all the information you need to get started:
   [Getting started]: getting-started.md
   [Changelog]: changelog.md
   [Upgrade]: upgrade.md
-
-----
-
-__We're looking forward to welcoming you as a sponsor!__
