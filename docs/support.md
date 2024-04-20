@@ -10,7 +10,7 @@ support channel, we've outlined our support structure below.
 
 ## Sponsoring support
 
-If you have questions about Insiders or are considering to become a sponsor,
+If you have questions about Insiders or are considering becoming a sponsor,
 @katharinalisalin is here to help. She handles all non-technical
 sponsorship-related inquiries and is happy to provide the guidance you need.
 Feel free to contact her at sponsors@squidfunk.com.
@@ -41,7 +41,7 @@ our amazing community.
 
 ### Issue Tracker
 
-For reporting [bugs] or submitting [change requests], our [issue tracker] offers
+For [reporting bugs] or submitting [change requests], our [issue tracker] offers
 a transparent platform for community contributions. We encourage reporting bugs
 found in the Insiders edition and in the community edition with the help of [our
 contributing guides] through the public [issue tracker], mindful of not
@@ -52,9 +52,9 @@ This transparent approach ensures that solutions can benefit the entire
 community and feature requests can get upvoted by the community which will
 affect the speed of its development.
 
-  [bugs]: contributing/reporting-a-bug.md
+  [reporting bugs]: contributing/reporting-a-bug.md
   [change requests]: contributing/requesting-a-change.md
-  [our contributing guides]: https://squidfunk.github.io/mkdocs-material/contributing/
+  [our contributing guides]: ./contributing/index.md
   [issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
   [public issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
   [fair use policy]: ./insiders/license.md/#fair-use-policy
@@ -63,5 +63,5 @@ affect the speed of its development.
 
 Organizational sponsors at "The Organization" tier or higher are entitled to
 prioritized bug support. While we cannot guarantee immediate resolution, as
-some problems are harder to fix the others, it ensures that your issues are
+some problems are harder to fix than others, it ensures that your issues are
 addressed with urgency.

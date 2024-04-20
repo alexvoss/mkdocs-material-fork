@@ -150,7 +150,7 @@ site's users, they are most certainly not necessary for previewing your site.
 This means that outside collaborators can build the documentation locally with
 the community edition, and when they push their changes, your CI pipeline will
 build it with Insiders. When using [built-in plugins] exclusive to Insiders, we
-recommend to use the [group] plugin.
+recommend using the [group] plugin.
 
 See the [getting started guide] for more information.
   [getting started guide]: getting-started.md
@@ -168,7 +168,7 @@ for updates.
 ### Cloning
 
 [Cloning] a repository copies the repository to your local machine or codespace,
-facilitating offline work and content management. You can of course also
+facilitating offline work and content management. You can, of course, also
 [clone a private fork].
 
   [cloning]: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
