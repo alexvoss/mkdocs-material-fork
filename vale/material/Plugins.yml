@@ -1,0 +1,6 @@
+extends: existence
+message: "plugin names should be all lowercase"
+level: warning
+tokens:
+  - '[A-Z]\w* plugin'
+  - '\w* Plugin'
