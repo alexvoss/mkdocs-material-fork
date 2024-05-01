@@ -1,8 +1,4 @@
----
-title: Getting started with Insiders
----
-
-# Getting started with Insiders
+# Getting started
 
 Material for MkDocs Insiders is a compatible drop-in replacement for Material
 for MkDocs, and can be installed similarly using [`pip`][pip],
@@ -12,7 +8,7 @@ repository, you need to [become an eligible sponsor] of @squidfunk on GitHub.
   [pip]: #with-pip
   [docker]: #with-docker
   [git]: #with-git
-  [become an eligible sponsor]: index.md#how-to-become-a-sponsor
+  [become an eligible sponsor]: how-to-sponsor.md
 
 ## Requirements
 
@@ -42,13 +38,13 @@ your private repositories.
 
 Material for MkDocs Insiders can be installed with `pip`. You will
 normally want to install the latest release but can also install a
-specific older release or even the latest development version. 
+specific older release or even the latest development version.
 Make sure you have the `GH_TOKEN` variable set as instructed above.
 
 === "Specific release"
 
-    Pick the corresponding tag from the [list of tags] for the Insiders 
-    repository. In the `pip` command below, replace the tag at the 
+    Pick the corresponding tag from the [list of tags] for the Insiders
+    repository. In the `pip` command below, replace the tag at the
     end of the URL with the one you want.
 
     ``` sh
@@ -97,11 +93,11 @@ docker login -u ${GH_USERNAME} -p ${GHCR_TOKEN} ghcr.io
 docker pull ghcr.io/${GH_USERNAME}/mkdocs-material-insiders
 ```
 
-Should you wish to add additional plugins to the insiders container image, follow the steps
-outlined in the [Getting Started guide](../getting-started.md#with-docker).
+Should you wish to add additional plugins to the Insiders container image,
+follow the steps outlined in the [Getting Started guide](getting-started.md#with-docker).
 
   [^2]:
-    Earlier, Insiders provided a dedicated Docker image which was available to
+    Earlier, Insiders provided a dedicated Docker image, which was available to
     all sponsors. On March 21, 2021, the image was deprecated for the reasons
     outlined and discussed in #2442. It was removed on June 1, 2021.
 
@@ -114,7 +110,7 @@ outlined in the [Getting Started guide](../getting-started.md#with-docker).
   [^4]:
     While you could just add the `write:packages` scope to the personal access
     token created to access the Insiders repository, it's safer to create a
-    dedicated token which you'll only use for publishing the Docker image.
+    dedicated token, which you'll only use for publishing the Docker image.
 
   [^5]:
     The Insiders repository contains two GitHub Actions workflows:
@@ -131,7 +127,7 @@ git clone git@github.com:squidfunk/mkdocs-material-insiders.git mkdocs-material
 ```
 
 The theme will reside in the folder `mkdocs-material/material`. When cloning
-from `git`, the theme must be installed, so MkDocs can find the built-in
+from `git`, the theme must be installed so MkDocs can find the built-in
 plugins:
 
 ```
@@ -181,11 +177,11 @@ CI=1 INSIDERS=1 mkdocs build
 ```
 
   [^1]:
-    Previously we recommended to use [configuration inheritance] to work around
-    this limitations, but the brand new [built-in group plugin] is a much better
-    approach, as it allows you to use a single configuration file for building
-    your project with the community edition and Insiders version of Material
-    for MkDocs.
+    Previously, we recommended using [configuration inheritance] to work around
+    these limitations, but the brand new [built-in group plugin] is a much
+    better approach, as it allows you to use a single configuration file for
+    building your project with the community edition and Insiders version of
+    Material for MkDocs.
 
   [built-in group plugin]: ../plugins/group.md
   [configuration inheritance]: https://www.mkdocs.org/user-guide/configuration/#configuration-inheritance

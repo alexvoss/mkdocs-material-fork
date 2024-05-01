@@ -2,6 +2,11 @@
 
 ## Material for MkDocs Insiders
 
+### 4.53.1 <small>March 6, 2024</small> { id="4.53.1" }
+
+- Fixed #6877: Projects plugin computes incorrect path to assets
+- Fixed #6869: Blog plugin should emit warning on invalid related link
+
 ### 4.53.0 <small>February 24, 2024</small> { id="4.53.0" }
 
 - Added support for automatic instant previews
@@ -788,7 +793,7 @@
 - Fixed incorrect path separators for social cards on Windows
 
 ### 3.1.1 <small>September 26, 2021</small> { id="3.1.1" }
-
+m
 - Fixed ordering bug in search exclusion logic
 
 ### 3.1.0 <small>September 26, 2021</small> { id="3.1.0" }
